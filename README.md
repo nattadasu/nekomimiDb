@@ -38,23 +38,23 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **48 images** on index database.
+At the moment, we hosted **50 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 23 |
-| Twitter | 24 |
+| Pixiv | 24 |
+| Twitter | 25 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 14 |
+| Boy `boy` | 16 |
 | Both `duo` | 3 |
 | Girl `girl` | 31 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 6 |
+| #N/A | 7 |
 | Arknight | 1 |
 | Assault Lily | 1 |
 | Azur Lane | 1 |
@@ -67,7 +67,7 @@ At the moment, we hosted **48 images** on index database.
 | Fire Emblem: Three Houses | 1 |
 | Genshin Impact | 6 |
 | Haikyuu!! | 1 |
-| Hololive | 4 |
+| Hololive | 5 |
 | Jujutsu Kaisen | 1 |
 | Mikeneko (VTuber) | 3 |
 | Mizushiro Kumori (VTuber) | 1 |
@@ -115,9 +115,11 @@ At the moment, we hosted **48 images** on index database.
 | ZAN | 1 |
 | tricky | 1 |
 | TE | 1 |
+| T1213121 | 1 |
 | sllgiko_ | 1 |
 | Seseren | 1 |
 | QuiteLane | 1 |
+| Nekomi_ch | 1 |
 | Mカエル | 1 |
 | MG42CaT-K1ng | 1 |
 | Mel | 1 |
