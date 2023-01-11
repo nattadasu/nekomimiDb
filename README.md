@@ -38,19 +38,19 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **63 images** on index database.
+At the moment, we hosted **64 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 30 |
+| Pixiv | 31 |
 | Twitter | 32 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 22 |
 | Both `duo` | 5 |
-| Girl `girl` | 36 |
+| Girl `girl` | 37 |
 
 | Source | Count |
 | -----: | :---- |
@@ -75,6 +75,7 @@ At the moment, we hosted **63 images** on index database.
 | Nachoneko (VTuber) | 1 |
 | Nijisanji | 5 |
 | Princess Connect! | 1 |
+| Project Sekai Colorful Stage! feat. Hatsune Miku | 1 |
 | Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
 | Red: Pride of Eden | 1 |
 | Sen'yuu | 1 |
@@ -122,6 +123,7 @@ At the moment, we hosted **63 images** on index database.
 | お丸太郎 | 1 |
 | 른릉 | 1 |
 | ZWJ | 1 |
+| Ziha | 1 |
 | ZAN | 1 |
 | tricky | 1 |
 | TE | 1 |
