@@ -38,25 +38,25 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **75 images** on index database.
+At the moment, we hosted **76 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 37 |
+| Pixiv | 38 |
 | Twitter | 37 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 28 |
 | Both `duo` | 5 |
-| Girl `girl` | 42 |
+| Girl `girl` | 43 |
 
 | Source | Count |
 | -----: | :---- |
 | #N/A | 13 |
 | Arknight | 1 |
-| Arknights | 1 |
+| Arknights | 2 |
 | Assault Lily | 1 |
 | Azur Lane | 1 |
 | Blue Archive | 3 |
@@ -155,5 +155,6 @@ At the moment, we hosted **75 images** on index database.
 | Itsuka Eranville | 1 |
 | e武器 | 1 |
 | Cine | 1 |
+| ATEOYH | 1 |
 | anajudraws | 1 |
 | _从前有颗星 | 1 |
