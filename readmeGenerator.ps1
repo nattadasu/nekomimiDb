@@ -40,6 +40,7 @@ For database format, below are the guidelines:
 2. Artist name is based on their profile's Display Name
 3. Platform name must in lowercase, latin
 4. ``girlOrBoy`` valid string is either: ``boy``, ``girl``, ``duo`` (if image contains boy and girl), or ``nb`` (if character gender's on image unknown)
+5. If a character is a VTuber, ``mediaSource`` must be corresponded to their agency name in Latin and exclude region code (Nijisanji, Hololive), otherwise follows "Character (VTuber)" format if solo/indie
 
 ## Statistics?
 
@@ -69,6 +70,15 @@ $csv | Group-Object -Property girlOrBoy | Select-Object -Property Name, Count | 
         "nb" { "Non-Binary/Unknown ``nb``" }
     }
     $markdown += "`n| $($gender) | $($_.Count) |"
+}
+
+$markdown += @"
+`n`n| Source | Count |
+| -----: | :---- |
+"@
+
+$csv | Group-Object -Property mediaSource | Sort-Object -Property Name | ForEach-Object {
+    $markdown += "`n| $($_.Name) | $($_.Count) |"
 }
 
 $markdown += @"

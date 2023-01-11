@@ -34,6 +34,7 @@ For database format, below are the guidelines:
 2. Artist name is based on their profile's Display Name
 3. Platform name must in lowercase, latin
 4. `girlOrBoy` valid string is either: `boy`, `girl`, `duo` (if image contains boy and girl), or `nb` (if character gender's on image unknown)
+5. If a character is a VTuber, `mediaSource` must be corresponded to their agency name in Latin and exclude region code (Nijisanji, Hololive), otherwise follows "Character (VTuber)" format if solo/indie
 
 ## Statistics?
 
@@ -50,6 +51,36 @@ At the moment, we hosted **48 images** on index database.
 | Boy `boy` | 14 |
 | Both `duo` | 3 |
 | Girl `girl` | 31 |
+
+| Source | Count |
+| -----: | :---- |
+| #N/A | 6 |
+| Arknight | 1 |
+| Assault Lily | 1 |
+| Azur Lane | 1 |
+| Blue Archive | 2 |
+| Bocchi the Rock! | 1 |
+| Chainsaw Man | 4 |
+| Chikyuu no Ura | 1 |
+| Ensemble Stars | 2 |
+| Final Fantasy XIV | 2 |
+| Fire Emblem: Three Houses | 1 |
+| Genshin Impact | 6 |
+| Haikyuu!! | 1 |
+| Hololive | 4 |
+| Jujutsu Kaisen | 1 |
+| Mikeneko (VTuber) | 3 |
+| Mizushiro Kumori (VTuber) | 1 |
+| Nijisanji | 1 |
+| Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
+| Red: Pride of Eden | 1 |
+| Sen'yuu | 1 |
+| Strike Witches | 1 |
+| Sword Art Online | 1 |
+| Tears of Themis | 1 |
+| The Umbrella Academy | 1 |
+| Touhou | 1 |
+| VOCALOID | 1 |
 
 | Artist | Count |
 | -----: | :---- |
