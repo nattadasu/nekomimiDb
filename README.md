@@ -38,23 +38,23 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **82 images** on index database.
+At the moment, we hosted **83 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 44 |
+| Pixiv | 45 |
 | Twitter | 37 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 34 |
+| Boy `boy` | 35 |
 | Both `duo` | 5 |
 | Girl `girl` | 43 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 17 |
+| #N/A | 18 |
 | Arknight | 1 |
 | Arknights | 2 |
 | Assault Lily | 1 |
@@ -118,6 +118,7 @@ At the moment, we hosted **82 images** on index database.
 | 月うさ | 1 |
 | 幻梦fanteam | 1 |
 | 八百枝　豆ノ助 | 1 |
+| 丹照 | 1 |
 | 両 | 1 |
 | ヱなかゆうじ | 1 |
 | わふぉ | 1 |
