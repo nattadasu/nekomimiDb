@@ -39,17 +39,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **118 images** on index database.
+At the moment, we hosted **119 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
 | Pixiv | 69 |
-| Twitter | 48 |
+| Twitter | 49 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 51 |
+| Boy `boy` | 52 |
 | Both `duo` | 7 |
 | Girl `girl` | 60 |
 
@@ -82,7 +82,7 @@ At the moment, we hosted **118 images** on index database.
 | Miraculous Ladybug | 2 |
 | Mizushiro Kumori (VTuber) | 1 |
 | Nachoneko (VTuber) | 1 |
-| Nijisanji | 7 |
+| Nijisanji | 8 |
 | Princess Connect! | 2 |
 | Project Sekai Colorful Stage! feat. Hatsune Miku | 1 |
 | Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
@@ -194,6 +194,7 @@ At the moment, we hosted **118 images** on index database.
 | Mel | 1 |
 | LUZZI | 1 |
 | Lala | 1 |
+| kurakichi36 | 1 |
 | kinagi0920 | 1 |
 | KAGAYA∞ | 1 |
 | kaco0001 | 1 |
