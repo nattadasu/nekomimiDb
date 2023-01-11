@@ -41,6 +41,7 @@ For database format, below are the guidelines:
 3. Platform name must in lowercase, latin
 4. ``girlOrBoy`` valid string is either: ``boy``, ``girl``, ``duo`` (if image contains boy and girl), or ``nb`` (if character gender's on image unknown)
 5. If a character is a VTuber, ``mediaSource`` must be corresponded to their agency name in Latin and exclude region code (Nijisanji, Hololive), otherwise follows "Character (VTuber)" format if solo/indie
+6. However, if its original character, write ``#N/A`` instead
 
 ## Statistics?
 
