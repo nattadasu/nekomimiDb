@@ -38,23 +38,23 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **56 images** on index database.
+At the moment, we hosted **57 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 24 |
+| Pixiv | 25 |
 | Twitter | 31 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 19 |
 | Both `duo` | 3 |
-| Girl `girl` | 34 |
+| Girl `girl` | 35 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 8 |
+| #N/A | 9 |
 | Arknight | 1 |
 | Assault Lily | 1 |
 | Azur Lane | 1 |
@@ -67,12 +67,12 @@ At the moment, we hosted **56 images** on index database.
 | Fire Emblem: Three Houses | 1 |
 | Genshin Impact | 6 |
 | Haikyuu!! | 1 |
-| Hololive | 5 |
+| Hololive | 4 |
 | Jujutsu Kaisen | 1 |
 | Mikeneko (VTuber) | 3 |
 | Mizushiro Kumori (VTuber) | 1 |
 | Nachoneko (VTuber) | 1 |
-| Nijisanji | 4 |
+| Nijisanji | 5 |
 | Princess Connect! | 1 |
 | Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
 | Red: Pride of Eden | 1 |
@@ -123,6 +123,7 @@ At the moment, we hosted **56 images** on index database.
 | T1213121 | 1 |
 | sllgiko_ | 1 |
 | Seseren | 1 |
+| SankaReien | 1 |
 | Ron_kaneshiro | 1 |
 | QuiteLane | 1 |
 | Nekomi_ch | 1 |
