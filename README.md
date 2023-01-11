@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **99 images** on index database.
+At the moment, we hosted **100 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
 | Pixiv | 58 |
-| Twitter | 40 |
+| Twitter | 41 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 41 |
-| Both `duo` | 5 |
+| Both `duo` | 6 |
 | Girl `girl` | 53 |
 
 | Source | Count |
@@ -76,7 +76,7 @@ At the moment, we hosted **99 images** on index database.
 | Jujutsu Kaisen | 1 |
 | Mafumafu (Singer) | 1 |
 | Mikeneko (VTuber) | 3 |
-| Miraculous Ladybug | 1 |
+| Miraculous Ladybug | 2 |
 | Mizushiro Kumori (VTuber) | 1 |
 | Nachoneko (VTuber) | 1 |
 | Nijisanji | 7 |
@@ -162,6 +162,7 @@ At the moment, we hosted **99 images** on index database.
 | TE | 1 |
 | TabrisMinto | 1 |
 | T1213121 | 1 |
+| SoundlessWind | 1 |
 | sllgiko_ | 1 |
 | Seseren | 1 |
 | SankaReien | 1 |
