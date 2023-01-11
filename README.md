@@ -39,17 +39,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **113 images** on index database.
+At the moment, we hosted **114 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
 | Pixiv | 69 |
-| Twitter | 43 |
+| Twitter | 44 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 46 |
+| Boy `boy` | 47 |
 | Both `duo` | 7 |
 | Girl `girl` | 60 |
 
@@ -74,7 +74,7 @@ At the moment, we hosted **113 images** on index database.
 | Haikyuu!! | 1 |
 | Heart no Kuni no Alice | 1 |
 | Hololive | 13 |
-| Hypnosis Mic -Division Rap Battle- | 1 |
+| Hypnosis Mic -Division Rap Battle- | 2 |
 | Jujutsu Kaisen | 1 |
 | Mafumafu (Singer) | 1 |
 | Mikeneko (VTuber) | 3 |
@@ -104,6 +104,7 @@ At the moment, we hosted **113 images** on index database.
 | らく | 2 |
 | ひなた | 2 |
 | seuga | 2 |
+| orang_333 | 2 |
 | Milk_Tea | 2 |
 | Horn/wood | 2 |
 | c i r o チロ | 2 |
@@ -178,7 +179,6 @@ At the moment, we hosted **113 images** on index database.
 | SankaReien | 1 |
 | Ron_kaneshiro | 1 |
 | QuiteLane | 1 |
-| orang_333 | 1 |
 | NoN | 1 |
 | Nekomi_ch | 1 |
 | Naglus | 1 |
