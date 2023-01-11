@@ -39,17 +39,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **100 images** on index database.
+At the moment, we hosted **101 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 58 |
+| Pixiv | 59 |
 | Twitter | 41 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 41 |
+| Boy `boy` | 42 |
 | Both `duo` | 6 |
 | Girl `girl` | 53 |
 
@@ -66,6 +66,7 @@ At the moment, we hosted **100 images** on index database.
 | Chatora Reo (VTuber) | 1 |
 | Chikyuu no Ura | 1 |
 | Danganronpa V3: Killing Harmony | 1 |
+| Diabolik Lovers ~Haunted dark bridal~ | 1 |
 | Doki Doki Literature Club! | 1 |
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 2 |
@@ -186,4 +187,5 @@ At the moment, we hosted **100 images** on index database.
 | Cine | 1 |
 | ATEOYH | 1 |
 | anajudraws | 1 |
+| amo. | 1 |
 | _从前有颗星 | 1 |
