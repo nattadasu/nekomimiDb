@@ -38,17 +38,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **77 images** on index database.
+At the moment, we hosted **78 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 39 |
+| Pixiv | 40 |
 | Twitter | 37 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 29 |
+| Boy `boy` | 30 |
 | Both `duo` | 5 |
 | Girl `girl` | 43 |
 
@@ -72,6 +72,7 @@ At the moment, we hosted **77 images** on index database.
 | Haikyuu!! | 1 |
 | Hololive | 8 |
 | Jujutsu Kaisen | 1 |
+| Mafumafu (Singer) | 1 |
 | Mikeneko (VTuber) | 3 |
 | Mizushiro Kumori (VTuber) | 1 |
 | Nachoneko (VTuber) | 1 |
@@ -129,6 +130,7 @@ At the moment, we hosted **77 images** on index database.
 | すぁし | 1 |
 | シンシア | 1 |
 | しけー | 1 |
+| さのかわ | 1 |
 | さくしゃ2 | 1 |
 | かのら | 1 |
 | がうりる | 1 |
