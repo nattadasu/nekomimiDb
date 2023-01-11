@@ -38,17 +38,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **51 images** on index database.
+At the moment, we hosted **52 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
 | Pixiv | 24 |
-| Twitter | 26 |
+| Twitter | 27 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 17 |
+| Boy `boy` | 18 |
 | Both `duo` | 3 |
 | Girl `girl` | 31 |
 
@@ -71,7 +71,7 @@ At the moment, we hosted **51 images** on index database.
 | Jujutsu Kaisen | 1 |
 | Mikeneko (VTuber) | 3 |
 | Mizushiro Kumori (VTuber) | 1 |
-| Nijisanji | 2 |
+| Nijisanji | 3 |
 | Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
 | Red: Pride of Eden | 1 |
 | Sen'yuu | 1 |
@@ -124,6 +124,7 @@ At the moment, we hosted **51 images** on index database.
 | Mカエル | 1 |
 | MG42CaT-K1ng | 1 |
 | Mel | 1 |
+| kaco0001 | 1 |
 | Itsuka Eranville | 1 |
 | e武器 | 1 |
 | Cine | 1 |
