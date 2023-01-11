@@ -56,8 +56,7 @@ At the moment, we hosted **111 images** on index database.
 | Source | Count |
 | -----: | :---- |
 | #N/A | 23 |
-| Arknight | 1 |
-| Arknights | 5 |
+| Arknights | 6 |
 | Assault Lily | 1 |
 | Azur Lane | 2 |
 | Blue Archive | 3 |
