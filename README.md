@@ -39,17 +39,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **115 images** on index database.
+At the moment, we hosted **116 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
 | Pixiv | 69 |
-| Twitter | 45 |
+| Twitter | 46 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 48 |
+| Boy `boy` | 49 |
 | Both `duo` | 7 |
 | Girl `girl` | 60 |
 
@@ -58,6 +58,7 @@ At the moment, we hosted **115 images** on index database.
 | #N/A | 23 |
 | Arknights | 6 |
 | Assault Lily | 1 |
+| Attack on Titan | 1 |
 | Azur Lane | 2 |
 | Blue Archive | 3 |
 | Bocchi the Rock! | 1 |
@@ -169,6 +170,7 @@ At the moment, we hosted **115 images** on index database.
 | ZAN | 1 |
 | whoing x2 | 1 |
 | tricky | 1 |
+| totemonemuuui | 1 |
 | TE | 1 |
 | TabrisMinto | 1 |
 | T1213121 | 1 |
