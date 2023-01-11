@@ -39,17 +39,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **116 images** on index database.
+At the moment, we hosted **117 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
 | Pixiv | 69 |
-| Twitter | 46 |
+| Twitter | 47 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 49 |
+| Boy `boy` | 50 |
 | Both `duo` | 7 |
 | Girl `girl` | 60 |
 
@@ -74,7 +74,7 @@ At the moment, we hosted **116 images** on index database.
 | Genshin Impact | 14 |
 | Haikyuu!! | 1 |
 | Heart no Kuni no Alice | 1 |
-| Hololive | 14 |
+| Hololive | 15 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | Jujutsu Kaisen | 1 |
 | Mafumafu (Singer) | 1 |
@@ -197,6 +197,7 @@ At the moment, we hosted **116 images** on index database.
 | KAGAYA∞ | 1 |
 | kaco0001 | 1 |
 | Itsuka Eranville | 1 |
+| InkAkane | 1 |
 | Hong | 1 |
 | e武器 | 1 |
 | Cine | 1 |
