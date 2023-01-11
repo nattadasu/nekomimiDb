@@ -38,17 +38,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **80 images** on index database.
+At the moment, we hosted **81 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 42 |
+| Pixiv | 43 |
 | Twitter | 37 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 32 |
+| Boy `boy` | 33 |
 | Both `duo` | 5 |
 | Girl `girl` | 43 |
 
@@ -62,6 +62,7 @@ At the moment, we hosted **80 images** on index database.
 | Blue Archive | 3 |
 | Bocchi the Rock! | 1 |
 | Chainsaw Man | 4 |
+| Chatora Reo (VTuber) | 1 |
 | Chikyuu no Ura | 1 |
 | Danganronpa V3: Killing Harmony | 1 |
 | Doki Doki Literature Club! | 1 |
@@ -118,6 +119,7 @@ At the moment, we hosted **80 images** on index database.
 | 幻梦fanteam | 1 |
 | 八百枝　豆ノ助 | 1 |
 | 両 | 1 |
+| ヱなかゆうじ | 1 |
 | わふぉ | 1 |
 | れれいん | 1 |
 | りと〼 | 1 |
