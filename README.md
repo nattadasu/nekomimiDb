@@ -39,19 +39,19 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **91 images** on index database.
+At the moment, we hosted **92 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 51 |
+| Pixiv | 52 |
 | Twitter | 39 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 39 |
 | Both `duo` | 5 |
-| Girl `girl` | 47 |
+| Girl `girl` | 48 |
 
 | Source | Count |
 | -----: | :---- |
@@ -72,7 +72,7 @@ At the moment, we hosted **91 images** on index database.
 | Fire Emblem: Three Houses | 1 |
 | Genshin Impact | 10 |
 | Haikyuu!! | 1 |
-| Hololive | 10 |
+| Hololive | 11 |
 | Jujutsu Kaisen | 1 |
 | Mafumafu (Singer) | 1 |
 | Mikeneko (VTuber) | 3 |
@@ -134,6 +134,7 @@ At the moment, we hosted **91 images** on index database.
 | ピンチ | 1 |
 | ヒヨヨ | 1 |
 | ひなた | 1 |
+| ネコザメ | 1 |
 | ねたみ | 1 |
 | なも | 1 |
 | ちゃんぬ | 1 |
