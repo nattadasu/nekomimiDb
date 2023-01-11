@@ -38,19 +38,19 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **71 images** on index database.
+At the moment, we hosted **72 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 34 |
+| Pixiv | 35 |
 | Twitter | 36 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 27 |
 | Both `duo` | 5 |
-| Girl `girl` | 39 |
+| Girl `girl` | 40 |
 
 | Source | Count |
 | -----: | :---- |
@@ -63,6 +63,7 @@ At the moment, we hosted **71 images** on index database.
 | Chainsaw Man | 4 |
 | Chikyuu no Ura | 1 |
 | Danganronpa V3: Killing Harmony | 1 |
+| Doki Doki Literature Club! | 1 |
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 2 |
 | Fire Emblem: Three Houses | 1 |
@@ -109,6 +110,7 @@ At the moment, we hosted **71 images** on index database.
 | 東雲あす | 1 |
 | 幻梦fanteam | 1 |
 | 八百枝　豆ノ助 | 1 |
+| わふぉ | 1 |
 | れれいん | 1 |
 | りと〼 | 1 |
 | ゅう | 1 |
