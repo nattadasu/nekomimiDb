@@ -38,18 +38,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **58 images** on index database.
+At the moment, we hosted **59 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 25 |
+| Pixiv | 26 |
 | Twitter | 32 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 19 |
-| Both `duo` | 3 |
+| Both `duo` | 4 |
 | Girl `girl` | 36 |
 
 | Source | Count |
@@ -62,6 +62,7 @@ At the moment, we hosted **58 images** on index database.
 | Bocchi the Rock! | 1 |
 | Chainsaw Man | 4 |
 | Chikyuu no Ura | 1 |
+| Danganronpa V3: Killing Harmony | 1 |
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 2 |
 | Fire Emblem: Three Houses | 1 |
@@ -90,6 +91,7 @@ At the moment, we hosted **58 images** on index database.
 | seuga | 2 |
 | Milk_Tea | 2 |
 | c i r o チロ | 2 |
+| 鍋 | 1 |
 | 鈍色玄 | 1 |
 | 跨越千夜 | 1 |
 | 赤マフラー大和 | 1 |
