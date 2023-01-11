@@ -39,17 +39,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **98 images** on index database.
+At the moment, we hosted **99 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 57 |
+| Pixiv | 58 |
 | Twitter | 40 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 40 |
+| Boy `boy` | 41 |
 | Both `duo` | 5 |
 | Girl `girl` | 53 |
 
@@ -85,6 +85,7 @@ At the moment, we hosted **98 images** on index database.
 | Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
 | Red: Pride of Eden | 1 |
 | Sen'yuu | 1 |
+| Sound Horizon | 1 |
 | Strike Witches | 1 |
 | Sword Art Online | 1 |
 | Tears of Themis | 1 |
@@ -159,6 +160,7 @@ At the moment, we hosted **98 images** on index database.
 | whoing x2 | 1 |
 | tricky | 1 |
 | TE | 1 |
+| TabrisMinto | 1 |
 | T1213121 | 1 |
 | sllgiko_ | 1 |
 | Seseren | 1 |
