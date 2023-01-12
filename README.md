@@ -39,17 +39,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **147 images** on index database.
+At the moment, we hosted **148 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 97 |
+| Pixiv | 98 |
 | Twitter | 49 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 58 |
+| Boy `boy` | 59 |
 | Both `duo` | 18 |
 | Girl `girl` | 71 |
 
@@ -69,6 +69,7 @@ At the moment, we hosted **147 images** on index database.
 | Danganronpa V3: Killing Harmony | 1 |
 | Diabolik Lovers ~Haunted dark bridal~ | 1 |
 | Doki Doki Literature Club! | 1 |
+| DURARARA!! | 1 |
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 2 |
 | Fire Emblem: Three Houses | 1 |
@@ -150,6 +151,7 @@ At the moment, we hosted **147 images** on index database.
 | りと〼 | 1 |
 | ヨルモン | 1 |
 | ユキはる | 1 |
+| ユータ | 1 |
 | ゅう | 1 |
 | やまもも | 1 |
 | ももしき | 1 |
