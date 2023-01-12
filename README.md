@@ -39,17 +39,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **158 images** on index database.
+At the moment, we hosted **159 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 107 |
+| Pixiv | 108 |
 | Twitter | 50 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 63 |
+| Boy `boy` | 64 |
 | Both `duo` | 19 |
 | Girl `girl` | 76 |
 
@@ -103,6 +103,7 @@ At the moment, we hosted **158 images** on index database.
 | The Umbrella Academy | 1 |
 | Tokimeki Restaurant | 1 |
 | Touhou | 2 |
+| Uta no☆prince-sama♪ | 1 |
 | VOCALOID | 24 |
 | VShojo | 1 |
 | Xenoblade 3 | 1 |
@@ -149,6 +150,7 @@ At the moment, we hosted **158 images** on index database.
 | 日向青 | 1 |
 | 敬 | 1 |
 | 幻梦fanteam | 1 |
+| 大翔(ヒロト) | 1 |
 | 吃呀 | 1 |
 | 八百枝　豆ノ助 | 1 |
 | 儒宅 | 1 |
