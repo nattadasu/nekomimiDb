@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **157 images** on index database.
+At the moment, we hosted **158 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 106 |
+| Pixiv | 107 |
 | Twitter | 50 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 63 |
-| Both `duo` | 18 |
+| Both `duo` | 19 |
 | Girl `girl` | 76 |
 
 | Source | Count |
@@ -84,6 +84,7 @@ At the moment, we hosted **157 images** on index database.
 | Jujutsu Kaisen | 1 |
 | Love Live! Sunshine!! | 1 |
 | Mafumafu (Singer) | 1 |
+| MAGI: The Labyrinth of Magic | 1 |
 | Mikeneko (VTuber) | 3 |
 | Miraculous Ladybug | 2 |
 | Mizushiro Kumori (VTuber) | 1 |
@@ -137,6 +138,7 @@ At the moment, we hosted **157 images** on index database.
 | 直子 | 1 |
 | 白木しろ | 1 |
 | 白とら | 1 |
+| 理都 | 1 |
 | 理想国的爱丽丝 | 1 |
 | 玖珂つかさ | 1 |
 | 無職ロリ | 1 |
