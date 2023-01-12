@@ -39,19 +39,19 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **149 images** on index database.
+At the moment, we hosted **150 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
 | Pixiv | 99 |
-| Twitter | 49 |
+| Twitter | 50 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 60 |
 | Both `duo` | 18 |
-| Girl `girl` | 71 |
+| Girl `girl` | 72 |
 
 | Source | Count |
 | -----: | :---- |
@@ -79,6 +79,7 @@ At the moment, we hosted **149 images** on index database.
 | Hololive | 17 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | Jujutsu Kaisen | 1 |
+| Love Live! Sunshine!! | 1 |
 | Mafumafu (Singer) | 1 |
 | Mikeneko (VTuber) | 3 |
 | Miraculous Ladybug | 2 |
@@ -230,6 +231,7 @@ At the moment, we hosted **149 images** on index database.
 | InkAkane | 1 |
 | Hong | 1 |
 | e武器 | 1 |
+| Deadnooodles | 1 |
 | Cine | 1 |
 | ATEOYH | 1 |
 | anajudraws | 1 |
