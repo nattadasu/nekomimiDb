@@ -39,19 +39,19 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **160 images** on index database.
+At the moment, we hosted **161 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 109 |
+| Pixiv | 110 |
 | Twitter | 50 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 65 |
 | Both `duo` | 19 |
-| Girl `girl` | 76 |
+| Girl `girl` | 77 |
 
 | Source | Count |
 | -----: | :---- |
@@ -105,7 +105,7 @@ At the moment, we hosted **160 images** on index database.
 | Tokimeki Restaurant | 1 |
 | Touhou | 2 |
 | Uta no☆prince-sama♪ | 1 |
-| VOCALOID | 24 |
+| VOCALOID | 25 |
 | VShojo | 1 |
 | Xenoblade 3 | 1 |
 
@@ -224,6 +224,7 @@ At the moment, we hosted **160 images** on index database.
 | SankaReien | 1 |
 | Ron_kaneshiro | 1 |
 | QuiteLane | 1 |
+| PrimCOCO | 1 |
 | NoN | 1 |
 | Nika○ | 1 |
 | Nekomi_ch | 1 |
