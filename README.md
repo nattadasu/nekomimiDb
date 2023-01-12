@@ -39,17 +39,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **142 images** on index database.
+At the moment, we hosted **143 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 92 |
+| Pixiv | 93 |
 | Twitter | 49 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 57 |
+| Boy `boy` | 58 |
 | Both `duo` | 17 |
 | Girl `girl` | 68 |
 
@@ -60,7 +60,7 @@ At the moment, we hosted **142 images** on index database.
 | Assault Lily | 1 |
 | Attack on Titan | 1 |
 | Azur Lane | 2 |
-| Black Wolves Saga | 1 |
+| Black Wolves Saga | 2 |
 | Blue Archive | 3 |
 | Bocchi the Rock! | 1 |
 | Chainsaw Man | 4 |
@@ -104,6 +104,7 @@ At the moment, we hosted **142 images** on index database.
 | でよ | 4 |
 | 鹿野 | 3 |
 | 夏葡 | 3 |
+| 星猫叶夢 | 2 |
 | らく | 2 |
 | ひなた | 2 |
 | しのたろう | 2 |
@@ -133,7 +134,6 @@ At the moment, we hosted **142 images** on index database.
 | 枫彧君 | 1 |
 | 東雲あす | 1 |
 | 月うさ | 1 |
-| 星猫叶夢 | 1 |
 | 日向青 | 1 |
 | 幻梦fanteam | 1 |
 | 吃呀 | 1 |
