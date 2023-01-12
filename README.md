@@ -44,8 +44,8 @@ At the moment, we hosted **163 images** on index database.
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 112 |
-| Twitter | 50 |
+| Pixiv | 113 |
+| Twitter | 49 |
 
 | Gender | Count |
 | -----: | :---- |
@@ -243,7 +243,6 @@ At the moment, we hosted **163 images** on index database.
 | kaco0001 | 1 |
 | Itsuka Eranville | 1 |
 | InkAkane | 1 |
-| https://www.pixiv.net/en/users/18900473 | 1 |
 | HongBsWs | 1 |
 | go_ho_lolikon | 1 |
 | gaudirill | 1 |
@@ -257,4 +256,5 @@ At the moment, we hosted **163 images** on index database.
 | amo. | 1 |
 | Aeng_Dyu | 1 |
 | 0_shusi_ | 1 |
+| _从前有颗星 | 1 |
 | _Rtms__ | 1 |
