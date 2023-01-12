@@ -39,19 +39,19 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **128 images** on index database.
+At the moment, we hosted **129 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 78 |
+| Pixiv | 79 |
 | Twitter | 49 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 54 |
 | Both `duo` | 14 |
-| Girl `girl` | 60 |
+| Girl `girl` | 61 |
 
 | Source | Count |
 | -----: | :---- |
@@ -94,7 +94,7 @@ At the moment, we hosted **128 images** on index database.
 | Tears of Themis | 1 |
 | The Umbrella Academy | 1 |
 | Touhou | 1 |
-| VOCALOID | 11 |
+| VOCALOID | 12 |
 | VShojo | 1 |
 | Xenoblade 3 | 1 |
 
@@ -165,6 +165,7 @@ At the moment, we hosted **128 images** on index database.
 | しけー | 1 |
 | さのかわ | 1 |
 | さくしゃ2 | 1 |
+| ごうやだいふく | 1 |
 | かるたも | 1 |
 | かのら | 1 |
 | がうりる | 1 |
