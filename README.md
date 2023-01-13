@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **266 images** on index database.
+At the moment, we hosted **267 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,11 +47,11 @@ At the moment, we hosted **266 images** on index database.
 | Lofter | 8 |
 | Official | 1 |
 | Pixiv | 148 |
-| Twitter | 105 |
+| Twitter | 106 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 121 |
+| Boy `boy` | 122 |
 | Both `duo` | 26 |
 | Girl `girl` | 119 |
 
@@ -104,6 +104,7 @@ At the moment, we hosted **266 images** on index database.
 | Nichijou | 1 |
 | Nijisanji | 15 |
 | NIKKE: The Goddess Of Victory | 1 |
+| Omori | 1 |
 | Paradox Live | 1 |
 | Pixiv Fantasia | 1 |
 | Pokémon | 1 |
@@ -330,6 +331,7 @@ At the moment, we hosted **266 images** on index database.
 | husa | 1 |
 | HongBsWs | 1 |
 | go_ho_lolikon | 1 |
+| geckoyutuyamori | 1 |
 | gaudirill | 1 |
 | gabogabo0414 | 1 |
 | gaagyeo | 1 |
