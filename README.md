@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **255 images** on index database.
+At the moment, we hosted **256 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 8 |
 | Pixiv | 145 |
-| Twitter | 98 |
+| Twitter | 99 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 110 |
+| Boy `boy` | 111 |
 | Both `duo` | 26 |
 | Girl `girl` | 119 |
 
@@ -88,7 +88,7 @@ At the moment, we hosted **255 images** on index database.
 | Hololive | 20 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | iDOLM@STER Cinderella Girls | 1 |
-| Jujutsu Kaisen | 1 |
+| Jujutsu Kaisen | 2 |
 | KMNZ | 1 |
 | Love Live! Sunshine!! | 1 |
 | Mafumafu (Singer) | 1 |
@@ -255,6 +255,7 @@ At the moment, we hosted **255 images** on index database.
 | TE | 1 |
 | TabrisMinto | 1 |
 | szainx | 1 |
+| SuYamada | 1 |
 | SPOONkoros | 1 |
 | SP0I0ppp | 1 |
 | SoundlessWind | 1 |
