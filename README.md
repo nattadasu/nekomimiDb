@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **292 images** on index database.
+At the moment, we hosted **293 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 10 |
 | Official | 1 |
-| Pixiv | 158 |
+| Pixiv | 159 |
 | Twitter | 118 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 143 |
+| Boy `boy` | 144 |
 | Both `duo` | 27 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -114,6 +114,7 @@ At the moment, we hosted **292 images** on index database.
 | Pokémon | 1 |
 | Princess Connect! | 3 |
 | Project Sekai Colorful Stage! feat. Hatsune Miku | 6 |
+| Puyopuyo | 1 |
 | Ragnarok Online | 6 |
 | Re:Zero kara Hajimeru Isekai Seikatsu | 2 |
 | Red: Pride of Eden | 1 |
@@ -180,6 +181,7 @@ At the moment, we hosted **292 images** on index database.
 | 茶乃ひより | 1 |
 | 羽梛 | 1 |
 | 緑川　葉 | 1 |
+| 紫 | 1 |
 | 紅雪 | 1 |
 | 碧井るか | 1 |
 | 石田 | 1 |
