@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **252 images** on index database.
+At the moment, we hosted **253 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 8 |
 | Pixiv | 144 |
-| Twitter | 96 |
+| Twitter | 97 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 108 |
+| Boy `boy` | 109 |
 | Both `duo` | 25 |
 | Girl `girl` | 119 |
 
@@ -78,7 +78,7 @@ At the moment, we hosted **252 images** on index database.
 | Doki Doki Literature Club! | 2 |
 | DURARARA!! | 1 |
 | Ensemble Stars | 2 |
-| Final Fantasy XIV | 8 |
+| Final Fantasy XIV | 9 |
 | Fire Emblem: Three Houses | 2 |
 | Genshin Impact | 31 |
 | Girls Frontline | 1 |
@@ -152,6 +152,7 @@ At the moment, we hosted **252 images** on index database.
 | ookami_ciro | 2 |
 | nakanoart | 2 |
 | Milk_Tea_1993 | 2 |
+| mibu820 | 2 |
 | makkusuoko | 2 |
 | iron海濑 | 2 |
 | Horn/wood | 2 |
@@ -295,7 +296,6 @@ At the moment, we hosted **252 images** on index database.
 | MMHOMM2 | 1 |
 | mk_0810_mk | 1 |
 | mizuyo_ | 1 |
-| mibu820 | 1 |
 | MG42CaT-K1ng | 1 |
 | melrw22 | 1 |
 | LUZZI | 1 |
