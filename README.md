@@ -39,19 +39,19 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **253 images** on index database.
+At the moment, we hosted **254 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 8 |
-| Pixiv | 144 |
+| Pixiv | 145 |
 | Twitter | 97 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 109 |
-| Both `duo` | 25 |
+| Both `duo` | 26 |
 | Girl `girl` | 119 |
 
 | Source | Count |
@@ -99,7 +99,7 @@ At the moment, we hosted **253 images** on index database.
 | Mob Psycho 100 | 1 |
 | Nachoneko (VTuber) | 1 |
 | Nichijou | 1 |
-| Nijisanji | 13 |
+| Nijisanji | 14 |
 | NIKKE: The Goddess Of Victory | 1 |
 | Paradox Live | 1 |
 | Pixiv Fantasia | 1 |
@@ -156,6 +156,7 @@ At the moment, we hosted **253 images** on index database.
 | makkusuoko | 2 |
 | iron海濑 | 2 |
 | Horn/wood | 2 |
+| Akemono | 2 |
 | 饼干切割机 | 1 |
 | 阿蟬 | 1 |
 | 鍋 | 1 |
@@ -338,7 +339,6 @@ At the moment, we hosted **253 images** on index database.
 | Ameもちᵕ̈*🍭 | 1 |
 | AMEGREEN | 1 |
 | Ame_Luno14 | 1 |
-| Akemono | 1 |
 | aexiao99 | 1 |
 | Aeng_Dyu | 1 |
 | 8washihachi | 1 |
