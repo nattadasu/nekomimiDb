@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **211 images** on index database.
+At the moment, we hosted **212 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 4 |
 | Pixiv | 130 |
-| Twitter | 76 |
+| Twitter | 77 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 93 |
 | Both `duo` | 21 |
-| Girl `girl` | 97 |
+| Girl `girl` | 98 |
 
 | Source | Count |
 | -----: | :---- |
@@ -121,6 +121,7 @@ At the moment, we hosted **211 images** on index database.
 | VOCALOID | 25 |
 | VShojo | 1 |
 | Vyugen | 2 |
+| Wactor Production | 1 |
 | Xenoblade 3 | 1 |
 
 | Artist | Count |
@@ -286,6 +287,7 @@ At the moment, we hosted **211 images** on index database.
 | HongBsWs | 1 |
 | go_ho_lolikon | 1 |
 | gaudirill | 1 |
+| gabogabo0414 | 1 |
 | fushirun_rung | 1 |
 | fumochidesu | 1 |
 | e武器 | 1 |
