@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **206 images** on index database.
+At the moment, we hosted **207 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 4 |
-| Pixiv | 128 |
+| Pixiv | 129 |
 | Twitter | 73 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 92 |
 | Both `duo` | 21 |
-| Girl `girl` | 93 |
+| Girl `girl` | 94 |
 
 | Source | Count |
 | -----: | :---- |
@@ -100,7 +100,7 @@ At the moment, we hosted **206 images** on index database.
 | NIKKE: The Goddess Of Victory | 1 |
 | Paradox Live | 1 |
 | Pokémon | 1 |
-| Princess Connect! | 2 |
+| Princess Connect! | 3 |
 | Project Sekai Colorful Stage! feat. Hatsune Miku | 4 |
 | Ragnarok Online | 4 |
 | Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
@@ -288,6 +288,7 @@ At the moment, we hosted **206 images** on index database.
 | e武器 | 1 |
 | Deadnooodles | 1 |
 | Cine9447 | 1 |
+| chodici | 1 |
 | chocho | 1 |
 | AXESCR | 1 |
 | ATEOYH | 1 |
