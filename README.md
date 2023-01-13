@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **299 images** on index database.
+At the moment, we hosted **300 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,12 +47,12 @@ At the moment, we hosted **299 images** on index database.
 | Lofter | 10 |
 | Official | 1 |
 | Pixiv | 160 |
-| Twitter | 123 |
+| Twitter | 124 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 149 |
+| Boy `boy` | 150 |
 | Both `duo` | 28 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -85,7 +85,7 @@ At the moment, we hosted **299 images** on index database.
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 11 |
 | Fire Emblem: Three Houses | 2 |
-| Genshin Impact | 39 |
+| Genshin Impact | 40 |
 | Ginjiro (VTuber) | 1 |
 | Girls Frontline | 1 |
 | Granblue Fantasy | 1 |
@@ -170,6 +170,7 @@ At the moment, we hosted **299 images** on index database.
 | iron海濑 | 2 |
 | Horn/wood | 2 |
 | Akemono | 2 |
+| _yuulk | 2 |
 | 饼干切割机 | 1 |
 | 飛絮 | 1 |
 | 阿蟬 | 1 |
@@ -401,7 +402,6 @@ At the moment, we hosted **299 images** on index database.
 | 0_shusi_ | 1 |
 | --唯度-- | 1 |
 | _从前有颗星 | 1 |
-| _yuulk | 1 |
 | _Rtms__ | 1 |
 | _ceemh | 1 |
 | __rette | 1 |
