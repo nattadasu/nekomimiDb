@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **189 images** on index database.
+At the moment, we hosted **190 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
-| Pixiv | 122 |
+| Pixiv | 123 |
 | Twitter | 63 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 84 |
+| Boy `boy` | 85 |
 | Both `duo` | 21 |
 | Girl `girl` | 84 |
 
@@ -66,6 +66,7 @@ At the moment, we hosted **189 images** on index database.
 | Black Wolves Saga | 2 |
 | Blue Archive | 4 |
 | Bocchi the Rock! | 1 |
+| Case Closed (Detective Conan) | 1 |
 | Chainsaw Man | 4 |
 | Chatora Reo (VTuber) | 1 |
 | Chikyuu no Ura | 1 |
@@ -163,6 +164,7 @@ At the moment, we hosted **189 images** on index database.
 | 大翔(ヒロト) | 1 |
 | 吃呀 | 1 |
 | 八百枝　豆ノ助 | 1 |
+| 優 ぐる子 | 1 |
 | 儒宅 | 1 |
 | 丹照 | 1 |
 | 両 | 1 |
