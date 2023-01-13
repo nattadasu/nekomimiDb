@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **241 images** on index database.
+At the moment, we hosted **242 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 6 |
-| Pixiv | 140 |
+| Pixiv | 141 |
 | Twitter | 91 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 100 |
+| Boy `boy` | 101 |
 | Both `duo` | 22 |
 | Girl `girl` | 119 |
 
@@ -73,6 +73,7 @@ At the moment, we hosted **241 images** on index database.
 | Chrono Cross | 1 |
 | Dance Killer Trick! | 1 |
 | Danganronpa V3: Killing Harmony | 1 |
+| Dankira!!! -Boys, be DANCING!- | 1 |
 | Diabolik Lovers ~Haunted dark bridal~ | 1 |
 | Doki Doki Literature Club! | 2 |
 | DURARARA!! | 1 |
@@ -304,6 +305,7 @@ At the moment, we hosted **241 images** on index database.
 | kaco0001 | 1 |
 | Itsuka Eranville | 1 |
 | InkAkane | 1 |
+| immr | 1 |
 | husa | 1 |
 | HongBsWs | 1 |
 | go_ho_lolikon | 1 |
