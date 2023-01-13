@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **192 images** on index database.
+At the moment, we hosted **193 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
 | Pixiv | 123 |
-| Twitter | 65 |
+| Twitter | 66 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 86 |
 | Both `duo` | 21 |
-| Girl `girl` | 85 |
+| Girl `girl` | 86 |
 
 | Source | Count |
 | -----: | :---- |
@@ -117,7 +117,7 @@ At the moment, we hosted **192 images** on index database.
 | Uta no☆prince-sama♪ | 2 |
 | VOCALOID | 25 |
 | VShojo | 1 |
-| Vyugen | 1 |
+| Vyugen | 2 |
 | Xenoblade 3 | 1 |
 
 | Artist | Count |
@@ -274,6 +274,7 @@ At the moment, we hosted **192 images** on index database.
 | go_ho_lolikon | 1 |
 | gaudirill | 1 |
 | fushirun_rung | 1 |
+| fumochidesu | 1 |
 | e武器 | 1 |
 | Deadnooodles | 1 |
 | Cine9447 | 1 |
