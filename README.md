@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **239 images** on index database.
+At the moment, we hosted **240 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 6 |
-| Pixiv | 138 |
+| Pixiv | 139 |
 | Twitter | 91 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 100 |
 | Both `duo` | 22 |
-| Girl `girl` | 117 |
+| Girl `girl` | 118 |
 
 | Source | Count |
 | -----: | :---- |
@@ -120,7 +120,7 @@ At the moment, we hosted **239 images** on index database.
 | Touhou | 3 |
 | Uta no☆prince-sama♪ | 2 |
 | Varium | 1 |
-| VOCALOID | 25 |
+| VOCALOID | 26 |
 | VShojo | 1 |
 | Vyugen | 2 |
 | Wactor Production | 2 |
@@ -138,6 +138,7 @@ At the moment, we hosted **239 images** on index database.
 | 乐格不是食物 | 2 |
 | らく | 2 |
 | ひなた | 2 |
+| ぱや88 | 2 |
 | にわ子 | 2 |
 | しのたろう | 2 |
 | Yampa | 2 |
@@ -202,7 +203,6 @@ At the moment, we hosted **239 images** on index database.
 | マサキ樹（いつき） | 1 |
 | まふゆ | 1 |
 | ひし | 1 |
-| ぱや88 | 1 |
 | ぱーさん | 1 |
 | のん | 1 |
 | ネコザメ | 1 |
