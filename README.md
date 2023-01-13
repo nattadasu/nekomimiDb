@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **207 images** on index database.
+At the moment, we hosted **208 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 4 |
 | Pixiv | 129 |
-| Twitter | 73 |
+| Twitter | 74 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 92 |
 | Both `duo` | 21 |
-| Girl `girl` | 94 |
+| Girl `girl` | 95 |
 
 | Source | Count |
 | -----: | :---- |
@@ -64,7 +64,7 @@ At the moment, we hosted **207 images** on index database.
 | Azur Lane | 2 |
 | Bilshana Senki | 1 |
 | Black Wolves Saga | 2 |
-| Blue Archive | 5 |
+| Blue Archive | 6 |
 | Bocchi the Rock! | 1 |
 | Case Closed (Detective Conan) | 1 |
 | Chainsaw Man | 4 |
@@ -264,6 +264,7 @@ At the moment, we hosted **207 images** on index database.
 | momoshiki | 1 |
 | momiage_40 | 1 |
 | mochinue | 1 |
+| MMHOMM2 | 1 |
 | mk_0810_mk | 1 |
 | mibu820 | 1 |
 | MG42CaT-K1ng | 1 |
