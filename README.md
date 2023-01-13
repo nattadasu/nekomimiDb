@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **166 images** on index database.
+At the moment, we hosted **167 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
-| Lofter | 2 |
+| Lofter | 3 |
 | Pixiv | 114 |
 | Twitter | 49 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 69 |
+| Boy `boy` | 70 |
 | Both `duo` | 19 |
 | Girl `girl` | 78 |
 
@@ -90,7 +90,7 @@ At the moment, we hosted **166 images** on index database.
 | Miraculous Ladybug | 2 |
 | Mizushiro Kumori (VTuber) | 1 |
 | Nachoneko (VTuber) | 1 |
-| Nijisanji | 10 |
+| Nijisanji | 11 |
 | NIKKE: The Goddess Of Victory | 1 |
 | Pokémon | 1 |
 | Princess Connect! | 2 |
@@ -126,6 +126,7 @@ At the moment, we hosted **166 images** on index database.
 | orang_333 | 2 |
 | ookami_ciro | 2 |
 | Milk_Tea_1993 | 2 |
+| iron海濑 | 2 |
 | Horn/wood | 2 |
 | 饼干切割机 | 1 |
 | 鍋 | 1 |
@@ -244,7 +245,6 @@ At the moment, we hosted **166 images** on index database.
 | KAGAYA∞ | 1 |
 | kaco0001 | 1 |
 | Itsuka Eranville | 1 |
-| iron海濑 | 1 |
 | InkAkane | 1 |
 | HongBsWs | 1 |
 | go_ho_lolikon | 1 |
