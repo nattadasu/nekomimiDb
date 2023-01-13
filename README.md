@@ -39,14 +39,14 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **273 images** on index database.
+At the moment, we hosted **274 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 8 |
 | Official | 1 |
-| Pixiv | 150 |
+| Pixiv | 151 |
 | Twitter | 110 |
 
 | Gender | Count |
@@ -54,7 +54,7 @@ At the moment, we hosted **273 images** on index database.
 | Boy `boy` | 127 |
 | Both `duo` | 26 |
 | Girl `girl` | 119 |
-| Non-Binary/Unknown `nb` | 1 |
+| Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
@@ -114,7 +114,7 @@ At the moment, we hosted **273 images** on index database.
 | Princess Connect! | 3 |
 | Project Sekai Colorful Stage! feat. Hatsune Miku | 6 |
 | Ragnarok Online | 6 |
-| Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
+| Re:Zero kara Hajimeru Isekai Seikatsu | 2 |
 | Red: Pride of Eden | 1 |
 | RIDDLE JOKER | 1 |
 | Sekaiichi Hatsukoi | 1 |
@@ -194,6 +194,7 @@ At the moment, we hosted **273 images** on index database.
 | 敬 | 1 |
 | 幻梦fanteam | 1 |
 | 大翔(ヒロト) | 1 |
+| 夕涙ウユ | 1 |
 | 吃呀 | 1 |
 | 八百枝　豆ノ助 | 1 |
 | 優 ぐる子 | 1 |
