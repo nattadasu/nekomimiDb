@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **238 images** on index database.
+At the moment, we hosted **239 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 6 |
-| Pixiv | 137 |
+| Pixiv | 138 |
 | Twitter | 91 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 100 |
 | Both `duo` | 22 |
-| Girl `girl` | 116 |
+| Girl `girl` | 117 |
 
 | Source | Count |
 | -----: | :---- |
@@ -74,7 +74,7 @@ At the moment, we hosted **238 images** on index database.
 | Dance Killer Trick! | 1 |
 | Danganronpa V3: Killing Harmony | 1 |
 | Diabolik Lovers ~Haunted dark bridal~ | 1 |
-| Doki Doki Literature Club! | 1 |
+| Doki Doki Literature Club! | 2 |
 | DURARARA!! | 1 |
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 7 |
@@ -228,6 +228,7 @@ At the moment, we hosted **238 images** on index database.
 | イチリ | 1 |
 | いさみ 澪 | 1 |
 | アリサキ | 1 |
+| あずやん | 1 |
 | 서키 | 1 |
 | ZWJ | 1 |
 | Ziha | 1 |
