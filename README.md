@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **168 images** on index database.
+At the moment, we hosted **169 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
 | Pixiv | 114 |
-| Twitter | 50 |
+| Twitter | 51 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 70 |
+| Boy `boy` | 71 |
 | Both `duo` | 20 |
 | Girl `girl` | 78 |
 
@@ -101,7 +101,7 @@ At the moment, we hosted **168 images** on index database.
 | Sekaiichi Hatsukoi | 1 |
 | Sen'yuu | 1 |
 | SK∞ | 1 |
-| Sound Horizon | 1 |
+| Sound Horizon | 2 |
 | Strike Witches | 1 |
 | Sword Art Online | 1 |
 | Tears of Themis | 1 |
@@ -262,6 +262,7 @@ At the moment, we hosted **168 images** on index database.
 | amo. | 1 |
 | Akemono | 1 |
 | Aeng_Dyu | 1 |
+| 3fourpaca | 1 |
 | 0_shusi_ | 1 |
 | _从前有颗星 | 1 |
 | _Rtms__ | 1 |
