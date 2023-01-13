@@ -39,17 +39,17 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **163 images** on index database.
+At the moment, we hosted **164 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Lofter | 1 |
-| Pixiv | 113 |
+| Pixiv | 114 |
 | Twitter | 49 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 66 |
+| Boy `boy` | 67 |
 | Both `duo` | 19 |
 | Girl `girl` | 78 |
 
@@ -98,6 +98,7 @@ At the moment, we hosted **163 images** on index database.
 | Red: Pride of Eden | 1 |
 | Sekaiichi Hatsukoi | 1 |
 | Sen'yuu | 1 |
+| SK∞ | 1 |
 | Sound Horizon | 1 |
 | Strike Witches | 1 |
 | Sword Art Online | 1 |
@@ -251,6 +252,7 @@ At the moment, we hosted **163 images** on index database.
 | Deadnooodles | 1 |
 | Cine9447 | 1 |
 | chocho | 1 |
+| AXESCR | 1 |
 | ATEOYH | 1 |
 | anajudraws | 1 |
 | amo. | 1 |
