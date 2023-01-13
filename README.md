@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **310 images** on index database.
+At the moment, we hosted **311 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 10 |
 | Official | 1 |
-| Pixiv | 161 |
+| Pixiv | 162 |
 | Twitter | 133 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 158 |
+| Boy `boy` | 159 |
 | Both `duo` | 30 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -97,6 +97,7 @@ At the moment, we hosted **310 images** on index database.
 | iDOLM@STER SideM | 1 |
 | Jujutsu Kaisen | 2 |
 | KMNZ | 1 |
+| League of Legends | 1 |
 | Love Live! Sunshine!! | 1 |
 | Mafumafu (Singer) | 1 |
 | MAGI: The Labyrinth of Magic | 1 |
@@ -214,6 +215,7 @@ At the moment, we hosted **310 images** on index database.
 | 儒宅 | 1 |
 | 丹照 | 1 |
 | 両 | 1 |
+| 一方桑 | 1 |
 | ヱなかゆうじ | 1 |
 | わふぉ | 1 |
 | れれいん | 1 |
