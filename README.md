@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **281 images** on index database.
+At the moment, we hosted **282 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 10 |
 | Official | 1 |
-| Pixiv | 152 |
+| Pixiv | 153 |
 | Twitter | 113 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 134 |
+| Boy `boy` | 135 |
 | Both `duo` | 26 |
 | Girl `girl` | 119 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -129,7 +129,7 @@ At the moment, we hosted **281 images** on index database.
 | The Legend of Heroes: Trails from Zero | 1 |
 | The Umbrella Academy | 1 |
 | Tokimeki Restaurant | 1 |
-| Touhou | 3 |
+| Touhou | 4 |
 | Twisted Wonderland | 1 |
 | Uta no☆prince-sama♪ | 2 |
 | Varium | 1 |
@@ -197,6 +197,7 @@ At the moment, we hosted **281 images** on index database.
 | 日向青 | 1 |
 | 敬 | 1 |
 | 幻梦fanteam | 1 |
+| 宿雪(やどゆき) | 1 |
 | 大翔(ヒロト) | 1 |
 | 夕涙ウユ | 1 |
 | 吃呀 | 1 |
