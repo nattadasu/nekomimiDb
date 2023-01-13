@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **230 images** on index database.
+At the moment, we hosted **231 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 6 |
 | Pixiv | 136 |
-| Twitter | 84 |
+| Twitter | 85 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 99 |
 | Both `duo` | 22 |
-| Girl `girl` | 109 |
+| Girl `girl` | 110 |
 
 | Source | Count |
 | -----: | :---- |
@@ -88,6 +88,7 @@ At the moment, we hosted **230 images** on index database.
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | iDOLM@STER Cinderella Girls | 1 |
 | Jujutsu Kaisen | 1 |
+| KMNZ | 1 |
 | Love Live! Sunshine!! | 1 |
 | Mafumafu (Singer) | 1 |
 | MAGI: The Labyrinth of Magic | 1 |
@@ -286,6 +287,7 @@ At the moment, we hosted **230 images** on index database.
 | melrw22 | 1 |
 | LUZZI | 1 |
 | LBF2209 | 1 |
+| la__pioggia | 1 |
 | kurakichi36 | 1 |
 | kou_hiyoyo | 1 |
 | kinagi0920 | 1 |
