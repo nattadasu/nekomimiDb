@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **316 images** on index database.
+At the moment, we hosted **317 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,12 +47,12 @@ At the moment, we hosted **316 images** on index database.
 | Lofter | 11 |
 | Official | 1 |
 | Pixiv | 164 |
-| Twitter | 135 |
+| Twitter | 136 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 163 |
+| Boy `boy` | 164 |
 | Both `duo` | 31 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -112,6 +112,7 @@ At the moment, we hosted **316 images** on index database.
 | Nijisanji | 19 |
 | NIKKE: The Goddess Of Victory | 1 |
 | Omori | 3 |
+| Ookami Ciro (VTuber) | 1 |
 | Otozuki Teru (VTuber) | 1 |
 | Paradox Live | 1 |
 | Pixiv Fantasia | 1 |
@@ -148,12 +149,12 @@ At the moment, we hosted **316 images** on index database.
 | Artist | Count |
 | -----: | :---- |
 | yawage | 6 |
+| ookami_ciro | 4 |
 | nicijyou_deyo | 4 |
 | aee_gnsn | 4 |
 | 鹿野 | 3 |
 | 夏葡 | 3 |
 | 乐格不是食物 | 3 |
-| ookami_ciro | 3 |
 | HK | 3 |
 | 星猫叶夢 | 2 |
 | らく | 2 |
