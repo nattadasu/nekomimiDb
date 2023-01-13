@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **222 images** on index database.
+At the moment, we hosted **223 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 6 |
-| Pixiv | 134 |
+| Pixiv | 135 |
 | Twitter | 78 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 95 |
 | Both `duo` | 22 |
-| Girl `girl` | 105 |
+| Girl `girl` | 106 |
 
 | Source | Count |
 | -----: | :---- |
@@ -105,6 +105,7 @@ At the moment, we hosted **222 images** on index database.
 | Ragnarok Online | 5 |
 | Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
 | Red: Pride of Eden | 1 |
+| RIDDLE JOKER | 1 |
 | Sekaiichi Hatsukoi | 1 |
 | Sen'yuu | 1 |
 | SK∞ | 1 |
@@ -223,6 +224,7 @@ At the moment, we hosted **222 images** on index database.
 | えだまめこ | 1 |
 | うき² | 1 |
 | イチリ | 1 |
+| いさみ 澪 | 1 |
 | 서키 | 1 |
 | ZWJ | 1 |
 | Ziha | 1 |
