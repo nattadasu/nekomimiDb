@@ -39,19 +39,19 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **251 images** on index database.
+At the moment, we hosted **252 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 8 |
-| Pixiv | 143 |
+| Pixiv | 144 |
 | Twitter | 96 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 108 |
-| Both `duo` | 24 |
+| Both `duo` | 25 |
 | Girl `girl` | 119 |
 
 | Source | Count |
@@ -112,6 +112,7 @@ At the moment, we hosted **251 images** on index database.
 | RIDDLE JOKER | 1 |
 | Sekaiichi Hatsukoi | 1 |
 | Sen'yuu | 1 |
+| Shadows House | 1 |
 | SK∞ | 1 |
 | Sound Horizon | 2 |
 | Strike Witches | 1 |
@@ -170,6 +171,7 @@ At the moment, we hosted **251 images** on index database.
 | 石田 | 1 |
 | 直子 | 1 |
 | 白木しろ | 1 |
+| 白昼 | 1 |
 | 白とら | 1 |
 | 理都 | 1 |
 | 理想国的爱丽丝 | 1 |
