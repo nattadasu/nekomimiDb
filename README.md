@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **268 images** on index database.
+At the moment, we hosted **269 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,11 +47,11 @@ At the moment, we hosted **268 images** on index database.
 | Lofter | 8 |
 | Official | 1 |
 | Pixiv | 148 |
-| Twitter | 107 |
+| Twitter | 108 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 123 |
+| Boy `boy` | 124 |
 | Both `duo` | 26 |
 | Girl `girl` | 119 |
 
@@ -96,6 +96,7 @@ At the moment, we hosted **268 images** on index database.
 | Love Live! Sunshine!! | 1 |
 | Mafumafu (Singer) | 1 |
 | MAGI: The Labyrinth of Magic | 1 |
+| Mairimashita! Iruma-kun | 1 |
 | Mikeneko (VTuber) | 3 |
 | Miraculous Ladybug | 2 |
 | Mizushiro Kumori (VTuber) | 1 |
@@ -259,6 +260,7 @@ At the moment, we hosted **268 images** on index database.
 | totemonemuuui | 1 |
 | toshio | 1 |
 | To___e | 1 |
+| Tii_san678 | 1 |
 | THE IDOLM@STER™️ & ©Bandai Namco Entertainment Inc. | 1 |
 | tekodeteko | 1 |
 | tehhe_zz | 1 |
