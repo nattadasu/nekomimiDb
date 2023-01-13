@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **302 images** on index database.
+At the moment, we hosted **303 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 10 |
 | Official | 1 |
-| Pixiv | 160 |
+| Pixiv | 161 |
 | Twitter | 126 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 151 |
+| Boy `boy` | 152 |
 | Both `duo` | 29 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -61,7 +61,7 @@ At the moment, we hosted **302 images** on index database.
 | -----: | :---- |
 | #N/A | 49 |
 | Animal Crossing | 1 |
-| Arknights | 11 |
+| Arknights | 12 |
 | Assault Lily | 1 |
 | Attack on Titan | 1 |
 | Axis Powers: Hetalia | 2 |
@@ -282,6 +282,7 @@ At the moment, we hosted **302 images** on index database.
 | tricky | 1 |
 | totemonemuuui | 1 |
 | toshio | 1 |
+| TofuDofu | 1 |
 | To___e | 1 |
 | Tii_san678 | 1 |
 | THE IDOLM@STER™️ & ©Bandai Namco Entertainment Inc. | 1 |
