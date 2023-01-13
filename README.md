@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **259 images** on index database.
+At the moment, we hosted **260 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 8 |
-| Pixiv | 147 |
+| Pixiv | 148 |
 | Twitter | 100 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 114 |
+| Boy `boy` | 115 |
 | Both `duo` | 26 |
 | Girl `girl` | 119 |
 
@@ -123,6 +123,7 @@ At the moment, we hosted **259 images** on index database.
 | The Umbrella Academy | 1 |
 | Tokimeki Restaurant | 1 |
 | Touhou | 3 |
+| Twisted Wonderland | 1 |
 | Uta no☆prince-sama♪ | 2 |
 | Varium | 1 |
 | VOCALOID | 26 |
@@ -197,6 +198,7 @@ At the moment, we hosted **259 images** on index database.
 | わふぉ | 1 |
 | れれいん | 1 |
 | れもくりん | 1 |
+| ラミー | 1 |
 | ヨルモン | 1 |
 | ユキはる | 1 |
 | ユータ | 1 |
