@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **214 images** on index database.
+At the moment, we hosted **215 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 4 |
-| Pixiv | 131 |
+| Pixiv | 132 |
 | Twitter | 78 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 94 |
 | Both `duo` | 21 |
-| Girl `girl` | 99 |
+| Girl `girl` | 100 |
 
 | Source | Count |
 | -----: | :---- |
@@ -84,7 +84,7 @@ At the moment, we hosted **214 images** on index database.
 | Granblue Fantasy | 1 |
 | Haikyuu!! | 1 |
 | Heart no Kuni no Alice | 1 |
-| Hololive | 18 |
+| Hololive | 19 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | iDOLM@STER Cinderella Girls | 1 |
 | Jujutsu Kaisen | 1 |
@@ -285,6 +285,7 @@ At the moment, we hosted **214 images** on index database.
 | kaco0001 | 1 |
 | Itsuka Eranville | 1 |
 | InkAkane | 1 |
+| husa | 1 |
 | HongBsWs | 1 |
 | go_ho_lolikon | 1 |
 | gaudirill | 1 |
