@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **306 images** on index database.
+At the moment, we hosted **307 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,13 +47,13 @@ At the moment, we hosted **306 images** on index database.
 | Lofter | 10 |
 | Official | 1 |
 | Pixiv | 161 |
-| Twitter | 129 |
+| Twitter | 130 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 155 |
-| Both `duo` | 29 |
+| Both `duo` | 30 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
 
@@ -85,7 +85,7 @@ At the moment, we hosted **306 images** on index database.
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 11 |
 | Fire Emblem: Three Houses | 2 |
-| Genshin Impact | 43 |
+| Genshin Impact | 44 |
 | Ginjiro (VTuber) | 1 |
 | Girls Frontline | 1 |
 | Granblue Fantasy | 1 |
@@ -163,6 +163,7 @@ At the moment, we hosted **306 images** on index database.
 | seuga | 2 |
 | orang_333 | 2 |
 | ookami_ciro | 2 |
+| NukoJi_ | 2 |
 | nakanoart | 2 |
 | Milk_Tea_1993 | 2 |
 | mibu820 | 2 |
@@ -324,7 +325,6 @@ At the moment, we hosted **306 images** on index database.
 | pinch_nes | 1 |
 | okt0w0 | 1 |
 | okmgmk | 1 |
-| NukoJi_ | 1 |
 | Norankkori | 1 |
 | NoName0_tmvLog | 1 |
 | Nika○ | 1 |
