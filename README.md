@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **179 images** on index database.
+At the moment, we hosted **180 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
 | Pixiv | 116 |
-| Twitter | 59 |
+| Twitter | 60 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 79 |
+| Boy `boy` | 80 |
 | Both `duo` | 20 |
 | Girl `girl` | 80 |
 
@@ -69,6 +69,7 @@ At the moment, we hosted **179 images** on index database.
 | Chainsaw Man | 4 |
 | Chatora Reo (VTuber) | 1 |
 | Chikyuu no Ura | 1 |
+| Chrono Cross | 1 |
 | Dance Killer Trick! | 1 |
 | Danganronpa V3: Killing Harmony | 1 |
 | Diabolik Lovers ~Haunted dark bridal~ | 1 |
@@ -206,6 +207,7 @@ At the moment, we hosted **179 images** on index database.
 | ZWJ | 1 |
 | Ziha | 1 |
 | zdrrhnbxg | 1 |
+| yawage | 1 |
 | x11dF3 | 1 |
 | whoing x2 | 1 |
 | tsukkiusa | 1 |
