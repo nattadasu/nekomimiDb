@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **170 images** on index database.
+At the moment, we hosted **171 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
 | Pixiv | 114 |
-| Twitter | 52 |
+| Twitter | 53 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 72 |
+| Boy `boy` | 73 |
 | Both `duo` | 20 |
 | Girl `girl` | 78 |
 
@@ -69,6 +69,7 @@ At the moment, we hosted **170 images** on index database.
 | Chainsaw Man | 4 |
 | Chatora Reo (VTuber) | 1 |
 | Chikyuu no Ura | 1 |
+| Dance Killer Trick! | 1 |
 | Danganronpa V3: Killing Harmony | 1 |
 | Diabolik Lovers ~Haunted dark bridal~ | 1 |
 | Doki Doki Literature Club! | 1 |
@@ -206,6 +207,7 @@ At the moment, we hosted **170 images** on index database.
 | tricky | 1 |
 | totemonemuuui | 1 |
 | tekodeteko | 1 |
+| tehhe_zz | 1 |
 | TE | 1 |
 | TabrisMinto | 1 |
 | szainx | 1 |
