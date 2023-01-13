@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **315 images** on index database.
+At the moment, we hosted **316 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,12 +47,12 @@ At the moment, we hosted **315 images** on index database.
 | Lofter | 11 |
 | Official | 1 |
 | Pixiv | 164 |
-| Twitter | 134 |
+| Twitter | 135 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 162 |
+| Boy `boy` | 163 |
 | Both `duo` | 31 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -112,6 +112,7 @@ At the moment, we hosted **315 images** on index database.
 | Nijisanji | 19 |
 | NIKKE: The Goddess Of Victory | 1 |
 | Omori | 3 |
+| Otozuki Teru (VTuber) | 1 |
 | Paradox Live | 1 |
 | Pixiv Fantasia | 1 |
 | Pokémon | 1 |
@@ -152,6 +153,7 @@ At the moment, we hosted **315 images** on index database.
 | 鹿野 | 3 |
 | 夏葡 | 3 |
 | 乐格不是食物 | 3 |
+| ookami_ciro | 3 |
 | HK | 3 |
 | 星猫叶夢 | 2 |
 | らく | 2 |
@@ -165,7 +167,6 @@ At the moment, we hosted **315 images** on index database.
 | shimianaya | 2 |
 | seuga | 2 |
 | orang_333 | 2 |
-| ookami_ciro | 2 |
 | NukoJi_ | 2 |
 | nakanoart | 2 |
 | Milk_Tea_1993 | 2 |
