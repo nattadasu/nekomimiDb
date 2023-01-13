@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **209 images** on index database.
+At the moment, we hosted **210 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 4 |
-| Pixiv | 129 |
+| Pixiv | 130 |
 | Twitter | 75 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 93 |
 | Both `duo` | 21 |
-| Girl `girl` | 95 |
+| Girl `girl` | 96 |
 
 | Source | Count |
 | -----: | :---- |
@@ -112,6 +112,7 @@ At the moment, we hosted **209 images** on index database.
 | Strike Witches | 1 |
 | Sword Art Online | 1 |
 | Tears of Themis | 1 |
+| The Legend of Heroes: Trails from Zero | 1 |
 | The Umbrella Academy | 1 |
 | Tokimeki Restaurant | 1 |
 | Touhou | 3 |
@@ -144,6 +145,7 @@ At the moment, we hosted **209 images** on index database.
 | iron海濑 | 2 |
 | Horn/wood | 2 |
 | 饼干切割机 | 1 |
+| 阿蟬 | 1 |
 | 鍋 | 1 |
 | 錆多はがね | 1 |
 | 遥川 遊 | 1 |
