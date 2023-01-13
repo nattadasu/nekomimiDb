@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **274 images** on index database.
+At the moment, we hosted **275 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,10 +48,11 @@ At the moment, we hosted **274 images** on index database.
 | Official | 1 |
 | Pixiv | 151 |
 | Twitter | 110 |
+| Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 127 |
+| Boy `boy` | 128 |
 | Both `duo` | 26 |
 | Girl `girl` | 119 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -81,7 +82,7 @@ At the moment, we hosted **274 images** on index database.
 | Doki Doki Literature Club! | 2 |
 | DURARARA!! | 1 |
 | Ensemble Stars | 2 |
-| Final Fantasy XIV | 9 |
+| Final Fantasy XIV | 10 |
 | Fire Emblem: Three Houses | 2 |
 | Genshin Impact | 37 |
 | Ginjiro (VTuber) | 1 |
@@ -184,6 +185,7 @@ At the moment, we hosted **274 images** on index database.
 | 白木しろ | 1 |
 | 白昼 | 1 |
 | 白とら | 1 |
+| 番木章 | 1 |
 | 理都 | 1 |
 | 理想国的爱丽丝 | 1 |
 | 玖魅魅nine | 1 |
