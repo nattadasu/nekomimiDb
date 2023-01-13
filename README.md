@@ -39,12 +39,12 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **278 images** on index database.
+At the moment, we hosted **279 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
-| Lofter | 8 |
+| Lofter | 9 |
 | Official | 1 |
 | Pixiv | 152 |
 | Twitter | 112 |
@@ -52,7 +52,7 @@ At the moment, we hosted **278 images** on index database.
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 131 |
+| Boy `boy` | 132 |
 | Both `duo` | 26 |
 | Girl `girl` | 119 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -137,6 +137,7 @@ At the moment, we hosted **278 images** on index database.
 | VShojo | 1 |
 | Vyugen | 2 |
 | Wactor Production | 2 |
+| Wang Chuan Fenghua Lu | 1 |
 | Xenoblade 3 | 1 |
 
 | Artist | Count |
@@ -168,6 +169,7 @@ At the moment, we hosted **278 images** on index database.
 | Horn/wood | 2 |
 | Akemono | 2 |
 | 饼干切割机 | 1 |
+| 飛絮 | 1 |
 | 阿蟬 | 1 |
 | 鍋 | 1 |
 | 錆多はがね | 1 |
