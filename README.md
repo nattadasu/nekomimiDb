@@ -39,24 +39,24 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **196 images** on index database.
+At the moment, we hosted **197 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
-| Pixiv | 125 |
+| Pixiv | 126 |
 | Twitter | 67 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 88 |
 | Both `duo` | 21 |
-| Girl `girl` | 87 |
+| Girl `girl` | 88 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 30 |
+| #N/A | 31 |
 | Arknights | 6 |
 | Assault Lily | 1 |
 | Attack on Titan | 1 |
@@ -134,6 +134,7 @@ At the moment, we hosted **196 images** on index database.
 | ひなた | 2 |
 | にわ子 | 2 |
 | しのたろう | 2 |
+| Yampa | 2 |
 | seuga | 2 |
 | orang_333 | 2 |
 | ookami_ciro | 2 |
@@ -216,7 +217,6 @@ At the moment, we hosted **196 images** on index database.
 | ZWJ | 1 |
 | Ziha | 1 |
 | zdrrhnbxg | 1 |
-| Yampa | 1 |
 | x11dF3 | 1 |
 | whoing x2 | 1 |
 | tsukkiusa | 1 |
