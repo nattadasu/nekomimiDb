@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **244 images** on index database.
+At the moment, we hosted **245 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
-| Lofter | 6 |
+| Lofter | 7 |
 | Pixiv | 142 |
 | Twitter | 92 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 101 |
+| Boy `boy` | 102 |
 | Both `duo` | 24 |
 | Girl `girl` | 119 |
 
@@ -78,7 +78,7 @@ At the moment, we hosted **244 images** on index database.
 | Doki Doki Literature Club! | 2 |
 | DURARARA!! | 1 |
 | Ensemble Stars | 2 |
-| Final Fantasy XIV | 7 |
+| Final Fantasy XIV | 8 |
 | Fire Emblem: Three Houses | 2 |
 | Genshin Impact | 28 |
 | Girls Frontline | 1 |
@@ -135,9 +135,9 @@ At the moment, we hosted **244 images** on index database.
 | aee_gnsn | 4 |
 | 鹿野 | 3 |
 | 夏葡 | 3 |
+| 乐格不是食物 | 3 |
 | HK | 3 |
 | 星猫叶夢 | 2 |
-| 乐格不是食物 | 2 |
 | らく | 2 |
 | ひなた | 2 |
 | ぱや88 | 2 |
