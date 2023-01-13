@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **200 images** on index database.
+At the moment, we hosted **201 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 4 |
 | Pixiv | 128 |
-| Twitter | 67 |
+| Twitter | 68 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 89 |
 | Both `duo` | 21 |
-| Girl `girl` | 90 |
+| Girl `girl` | 91 |
 
 | Source | Count |
 | -----: | :---- |
@@ -84,7 +84,7 @@ At the moment, we hosted **200 images** on index database.
 | Granblue Fantasy | 1 |
 | Haikyuu!! | 1 |
 | Heart no Kuni no Alice | 1 |
-| Hololive | 17 |
+| Hololive | 18 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | Jujutsu Kaisen | 1 |
 | Love Live! Sunshine!! | 1 |
@@ -247,6 +247,7 @@ At the moment, we hosted **200 images** on index database.
 | QuiteLane | 1 |
 | PrimCOCO | 1 |
 | polypuff | 1 |
+| pisuke_wan | 1 |
 | pinch_nes | 1 |
 | okmgmk | 1 |
 | NoName0_tmvLog | 1 |
