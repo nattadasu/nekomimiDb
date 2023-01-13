@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **180 images** on index database.
+At the moment, we hosted **181 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
 | Pixiv | 116 |
-| Twitter | 60 |
+| Twitter | 61 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 80 |
+| Boy `boy` | 81 |
 | Both `duo` | 20 |
 | Girl `girl` | 80 |
 
@@ -77,8 +77,7 @@ At the moment, we hosted **180 images** on index database.
 | DURARARA!! | 1 |
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 3 |
-| Fire Emblem | 1 |
-| Fire Emblem: Three Houses | 1 |
+| Fire Emblem: Three Houses | 2 |
 | Genshin Impact | 20 |
 | Girls Frontline | 1 |
 | Granblue Fantasy | 1 |
@@ -93,6 +92,7 @@ At the moment, we hosted **180 images** on index database.
 | Mikeneko (VTuber) | 3 |
 | Miraculous Ladybug | 2 |
 | Mizushiro Kumori (VTuber) | 1 |
+| Mob Psycho 100 | 1 |
 | Nachoneko (VTuber) | 1 |
 | Nijisanji | 11 |
 | NIKKE: The Goddess Of Victory | 1 |
@@ -244,6 +244,7 @@ At the moment, we hosted **180 images** on index database.
 | moonclover | 1 |
 | momoshiki | 1 |
 | momiage_40 | 1 |
+| mochinue | 1 |
 | mk_0810_mk | 1 |
 | mibu820 | 1 |
 | MG42CaT-K1ng | 1 |
