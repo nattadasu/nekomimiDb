@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **178 images** on index database.
+At the moment, we hosted **179 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
 | Pixiv | 116 |
-| Twitter | 58 |
+| Twitter | 59 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 79 |
 | Both `duo` | 20 |
-| Girl `girl` | 79 |
+| Girl `girl` | 80 |
 
 | Source | Count |
 | -----: | :---- |
@@ -76,6 +76,7 @@ At the moment, we hosted **178 images** on index database.
 | DURARARA!! | 1 |
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 3 |
+| Fire Emblem | 1 |
 | Fire Emblem: Three Houses | 1 |
 | Genshin Impact | 20 |
 | Girls Frontline | 1 |
@@ -130,6 +131,7 @@ At the moment, we hosted **178 images** on index database.
 | orang_333 | 2 |
 | ookami_ciro | 2 |
 | Milk_Tea_1993 | 2 |
+| makkusuoko | 2 |
 | iron海濑 | 2 |
 | Horn/wood | 2 |
 | 饼干切割机 | 1 |
@@ -244,7 +246,6 @@ At the moment, we hosted **178 images** on index database.
 | mibu820 | 1 |
 | MG42CaT-K1ng | 1 |
 | melrw22 | 1 |
-| makkusuoko | 1 |
 | LUZZI | 1 |
 | LBF2209 | 1 |
 | kurakichi36 | 1 |
