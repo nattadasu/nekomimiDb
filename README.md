@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **169 images** on index database.
+At the moment, we hosted **170 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
 | Pixiv | 114 |
-| Twitter | 51 |
+| Twitter | 52 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 71 |
+| Boy `boy` | 72 |
 | Both `duo` | 20 |
 | Girl `girl` | 78 |
 
@@ -93,6 +93,7 @@ At the moment, we hosted **169 images** on index database.
 | Nachoneko (VTuber) | 1 |
 | Nijisanji | 11 |
 | NIKKE: The Goddess Of Victory | 1 |
+| Paradox Live | 1 |
 | Pokémon | 1 |
 | Princess Connect! | 2 |
 | Project Sekai Colorful Stage! feat. Hatsune Miku | 1 |
@@ -214,6 +215,7 @@ At the moment, we hosted **169 images** on index database.
 | sinsia__0928 | 1 |
 | shinyo_yukino | 1 |
 | Seseren | 1 |
+| sbsb_mksb | 1 |
 | sashisuse___ | 1 |
 | sansa | 1 |
 | SankaReien | 1 |
