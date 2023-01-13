@@ -39,19 +39,19 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **167 images** on index database.
+At the moment, we hosted **168 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
 | Pixiv | 114 |
-| Twitter | 49 |
+| Twitter | 50 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 70 |
-| Both `duo` | 19 |
+| Both `duo` | 20 |
 | Girl `girl` | 78 |
 
 | Source | Count |
@@ -62,6 +62,7 @@ At the moment, we hosted **167 images** on index database.
 | Attack on Titan | 1 |
 | Axis Powers: Hetalia | 2 |
 | Azur Lane | 2 |
+| Bilshana Senki | 1 |
 | Black Wolves Saga | 2 |
 | Blue Archive | 3 |
 | Bocchi the Rock! | 1 |
@@ -203,6 +204,7 @@ At the moment, we hosted **167 images** on index database.
 | tsukkiusa | 1 |
 | tricky | 1 |
 | totemonemuuui | 1 |
+| tekodeteko | 1 |
 | TE | 1 |
 | TabrisMinto | 1 |
 | szainx | 1 |
