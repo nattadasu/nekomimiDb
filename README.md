@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **287 images** on index database.
+At the moment, we hosted **288 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,12 +47,12 @@ At the moment, we hosted **287 images** on index database.
 | Lofter | 10 |
 | Official | 1 |
 | Pixiv | 155 |
-| Twitter | 116 |
+| Twitter | 117 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 138 |
+| Boy `boy` | 139 |
 | Both `duo` | 27 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -60,7 +60,7 @@ At the moment, we hosted **287 images** on index database.
 | Source | Count |
 | -----: | :---- |
 | #N/A | 45 |
-| Arknights | 9 |
+| Arknights | 10 |
 | Assault Lily | 1 |
 | Attack on Titan | 1 |
 | Axis Powers: Hetalia | 2 |
@@ -373,6 +373,7 @@ At the moment, we hosted **287 images** on index database.
 | awawawa_v | 1 |
 | ATEOYH | 1 |
 | AstrayinDC | 1 |
+| Arsh_xxxx | 1 |
 | anz32_ | 1 |
 | anajudraws | 1 |
 | amo. | 1 |
