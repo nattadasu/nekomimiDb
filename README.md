@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **303 images** on index database.
+At the moment, we hosted **304 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,19 +47,19 @@ At the moment, we hosted **303 images** on index database.
 | Lofter | 10 |
 | Official | 1 |
 | Pixiv | 161 |
-| Twitter | 126 |
+| Twitter | 127 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 152 |
+| Boy `boy` | 153 |
 | Both `duo` | 29 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 49 |
+| #N/A | 50 |
 | Animal Crossing | 1 |
 | Arknights | 12 |
 | Assault Lily | 1 |
@@ -169,6 +169,7 @@ At the moment, we hosted **303 images** on index database.
 | makkusuoko | 2 |
 | iron海濑 | 2 |
 | Horn/wood | 2 |
+| asuka5150_ | 2 |
 | Akemono | 2 |
 | _yuulk | 2 |
 | 饼干切割机 | 1 |
@@ -387,7 +388,6 @@ At the moment, we hosted **303 images** on index database.
 | AXESCR | 1 |
 | awawawa_v | 1 |
 | ATEOYH | 1 |
-| asuka5150_ | 1 |
 | AstrayinDC | 1 |
 | Arsh_xxxx | 1 |
 | anz32_ | 1 |
