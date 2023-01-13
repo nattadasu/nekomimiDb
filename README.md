@@ -39,24 +39,24 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **237 images** on index database.
+At the moment, we hosted **238 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 6 |
 | Pixiv | 137 |
-| Twitter | 90 |
+| Twitter | 91 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 100 |
 | Both `duo` | 22 |
-| Girl `girl` | 115 |
+| Girl `girl` | 116 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 39 |
+| #N/A | 40 |
 | Arknights | 7 |
 | Assault Lily | 1 |
 | Attack on Titan | 1 |
@@ -269,6 +269,7 @@ At the moment, we hosted **237 images** on index database.
 | pinch_nes | 1 |
 | okt0w0 | 1 |
 | okmgmk | 1 |
+| Norankkori | 1 |
 | NoName0_tmvLog | 1 |
 | Nika○ | 1 |
 | nibiiro_SZK000 | 1 |
