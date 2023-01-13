@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **185 images** on index database.
+At the moment, we hosted **186 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
-| Pixiv | 119 |
+| Pixiv | 120 |
 | Twitter | 62 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 83 |
+| Boy `boy` | 84 |
 | Both `duo` | 20 |
 | Girl `girl` | 82 |
 
@@ -99,7 +99,7 @@ At the moment, we hosted **185 images** on index database.
 | Paradox Live | 1 |
 | Pokémon | 1 |
 | Princess Connect! | 2 |
-| Project Sekai Colorful Stage! feat. Hatsune Miku | 3 |
+| Project Sekai Colorful Stage! feat. Hatsune Miku | 4 |
 | Ragnarok Online | 1 |
 | Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
 | Red: Pride of Eden | 1 |
@@ -124,6 +124,7 @@ At the moment, we hosted **185 images** on index database.
 | aee_gnsn | 4 |
 | 鹿野 | 3 |
 | 夏葡 | 3 |
+| HK | 3 |
 | 星猫叶夢 | 2 |
 | らく | 2 |
 | ひなた | 2 |
@@ -137,7 +138,6 @@ At the moment, we hosted **185 images** on index database.
 | makkusuoko | 2 |
 | iron海濑 | 2 |
 | Horn/wood | 2 |
-| HK | 2 |
 | 饼干切割机 | 1 |
 | 鍋 | 1 |
 | 錆多はがね | 1 |
