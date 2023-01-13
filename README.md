@@ -39,27 +39,27 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **312 images** on index database.
+At the moment, we hosted **313 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 162 |
+| Pixiv | 163 |
 | Twitter | 133 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 160 |
+| Boy `boy` | 161 |
 | Both `duo` | 30 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 51 |
+| #N/A | 52 |
 | Animal Crossing | 1 |
 | Arknights | 14 |
 | Assault Lily | 1 |
@@ -367,6 +367,7 @@ At the moment, we hosted **312 images** on index database.
 | Itsuka Eranville | 1 |
 | InkAkane | 1 |
 | immr | 1 |
+| ikuri | 1 |
 | husa | 1 |
 | HongBsWs | 1 |
 | hizakigamma | 1 |
