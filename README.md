@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **184 images** on index database.
+At the moment, we hosted **185 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
-| Pixiv | 118 |
+| Pixiv | 119 |
 | Twitter | 62 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 83 |
 | Both `duo` | 20 |
-| Girl `girl` | 81 |
+| Girl `girl` | 82 |
 
 | Source | Count |
 | -----: | :---- |
@@ -99,7 +99,7 @@ At the moment, we hosted **184 images** on index database.
 | Paradox Live | 1 |
 | Pokémon | 1 |
 | Princess Connect! | 2 |
-| Project Sekai Colorful Stage! feat. Hatsune Miku | 2 |
+| Project Sekai Colorful Stage! feat. Hatsune Miku | 3 |
 | Ragnarok Online | 1 |
 | Re:Zero kara Hajimeru Isekai Seikatsu | 1 |
 | Red: Pride of Eden | 1 |
@@ -137,6 +137,7 @@ At the moment, we hosted **184 images** on index database.
 | makkusuoko | 2 |
 | iron海濑 | 2 |
 | Horn/wood | 2 |
+| HK | 2 |
 | 饼干切割机 | 1 |
 | 鍋 | 1 |
 | 錆多はがね | 1 |
@@ -263,7 +264,6 @@ At the moment, we hosted **184 images** on index database.
 | Itsuka Eranville | 1 |
 | InkAkane | 1 |
 | HongBsWs | 1 |
-| HK | 1 |
 | go_ho_lolikon | 1 |
 | gaudirill | 1 |
 | fushirun_rung | 1 |
