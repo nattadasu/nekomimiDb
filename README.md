@@ -39,17 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **165 images** on index database.
+At the moment, we hosted **166 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
+| Deviantart | 1 |
 | Lofter | 2 |
 | Pixiv | 114 |
 | Twitter | 49 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 68 |
+| Boy `boy` | 69 |
 | Both `duo` | 19 |
 | Girl `girl` | 78 |
 
@@ -89,7 +90,7 @@ At the moment, we hosted **165 images** on index database.
 | Miraculous Ladybug | 2 |
 | Mizushiro Kumori (VTuber) | 1 |
 | Nachoneko (VTuber) | 1 |
-| Nijisanji | 9 |
+| Nijisanji | 10 |
 | NIKKE: The Goddess Of Victory | 1 |
 | Pokémon | 1 |
 | Princess Connect! | 2 |
@@ -257,6 +258,7 @@ At the moment, we hosted **165 images** on index database.
 | ATEOYH | 1 |
 | anajudraws | 1 |
 | amo. | 1 |
+| Akemono | 1 |
 | Aeng_Dyu | 1 |
 | 0_shusi_ | 1 |
 | _从前有颗星 | 1 |
