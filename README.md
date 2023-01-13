@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **221 images** on index database.
+At the moment, we hosted **222 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 6 |
-| Pixiv | 133 |
+| Pixiv | 134 |
 | Twitter | 78 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 95 |
 | Both `duo` | 22 |
-| Girl `girl` | 104 |
+| Girl `girl` | 105 |
 
 | Source | Count |
 | -----: | :---- |
@@ -96,7 +96,7 @@ At the moment, we hosted **221 images** on index database.
 | Mizushiro Kumori (VTuber) | 1 |
 | Mob Psycho 100 | 1 |
 | Nachoneko (VTuber) | 1 |
-| Nijisanji | 11 |
+| Nijisanji | 12 |
 | NIKKE: The Goddess Of Victory | 1 |
 | Paradox Live | 1 |
 | Pokémon | 1 |
@@ -219,6 +219,7 @@ At the moment, we hosted **221 images** on index database.
 | オス | 1 |
 | オウギカイリ | 1 |
 | お丸太郎 | 1 |
+| おうみおみ | 1 |
 | えだまめこ | 1 |
 | うき² | 1 |
 | イチリ | 1 |
