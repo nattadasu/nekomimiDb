@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **313 images** on index database.
+At the moment, we hosted **314 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 163 |
+| Pixiv | 164 |
 | Twitter | 133 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 161 |
+| Boy `boy` | 162 |
 | Both `duo` | 30 |
 | Girl `girl` | 120 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -86,7 +86,7 @@ At the moment, we hosted **313 images** on index database.
 | Final Fantasy XIV | 11 |
 | Fire Emblem: Three Houses | 2 |
 | Genshin Impact | 44 |
-| Ginjiro (VTuber) | 1 |
+| Ginjiro (VTuber) | 2 |
 | Girls Frontline | 1 |
 | Granblue Fantasy | 1 |
 | Haikyuu!! | 1 |
@@ -159,6 +159,7 @@ At the moment, we hosted **313 images** on index database.
 | にわ子 | 2 |
 | しのたろう | 2 |
 | くろ | 2 |
+| ぎんじろ。 | 2 |
 | Yampa | 2 |
 | shimianaya | 2 |
 | seuga | 2 |
@@ -253,7 +254,6 @@ At the moment, we hosted **313 images** on index database.
 | さのかわ | 1 |
 | ごうやだいふく | 1 |
 | グッピー | 1 |
-| ぎんじろ。 | 1 |
 | カニ | 1 |
 | カイリ | 1 |
 | かるたも | 1 |
