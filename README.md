@@ -39,18 +39,18 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **174 images** on index database.
+At the moment, we hosted **175 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
 | Pixiv | 115 |
-| Twitter | 55 |
+| Twitter | 56 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 76 |
+| Boy `boy` | 77 |
 | Both `duo` | 20 |
 | Girl `girl` | 78 |
 
@@ -77,7 +77,7 @@ At the moment, we hosted **174 images** on index database.
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 3 |
 | Fire Emblem: Three Houses | 1 |
-| Genshin Impact | 17 |
+| Genshin Impact | 18 |
 | Girls Frontline | 1 |
 | Granblue Fantasy | 1 |
 | Haikyuu!! | 1 |
@@ -120,6 +120,7 @@ At the moment, we hosted **174 images** on index database.
 | nicijyou_deyo | 4 |
 | 鹿野 | 3 |
 | 夏葡 | 3 |
+| aee_gnsn | 3 |
 | 星猫叶夢 | 2 |
 | らく | 2 |
 | ひなた | 2 |
@@ -131,7 +132,6 @@ At the moment, we hosted **174 images** on index database.
 | Milk_Tea_1993 | 2 |
 | iron海濑 | 2 |
 | Horn/wood | 2 |
-| aee_gnsn | 2 |
 | 饼干切割机 | 1 |
 | 鍋 | 1 |
 | 錆多はがね | 1 |
