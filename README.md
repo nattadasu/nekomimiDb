@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **193 images** on index database.
+At the moment, we hosted **194 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 1 |
 | Lofter | 3 |
-| Pixiv | 123 |
+| Pixiv | 124 |
 | Twitter | 66 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 86 |
 | Both `duo` | 21 |
-| Girl `girl` | 86 |
+| Girl `girl` | 87 |
 
 | Source | Count |
 | -----: | :---- |
@@ -115,6 +115,7 @@ At the moment, we hosted **193 images** on index database.
 | Tokimeki Restaurant | 1 |
 | Touhou | 3 |
 | Uta no☆prince-sama♪ | 2 |
+| Varium | 1 |
 | VOCALOID | 25 |
 | VShojo | 1 |
 | Vyugen | 2 |
@@ -283,6 +284,7 @@ At the moment, we hosted **193 images** on index database.
 | ATEOYH | 1 |
 | anajudraws | 1 |
 | amo. | 1 |
+| Ameもちᵕ̈*🍭 | 1 |
 | Akemono | 1 |
 | Aeng_Dyu | 1 |
 | 3fourpaca | 1 |
