@@ -39,20 +39,20 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **318 images** on index database.
+At the moment, we hosted **319 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 165 |
+| Pixiv | 166 |
 | Twitter | 136 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 164 |
+| Boy `boy` | 165 |
 | Both `duo` | 31 |
 | Girl `girl` | 121 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -85,7 +85,7 @@ At the moment, we hosted **318 images** on index database.
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 11 |
 | Fire Emblem: Three Houses | 2 |
-| Genshin Impact | 44 |
+| Genshin Impact | 45 |
 | Ginjiro (VTuber) | 2 |
 | Girls Frontline | 1 |
 | Granblue Fantasy | 1 |
@@ -316,6 +316,7 @@ At the moment, we hosted **318 images** on index database.
 | shio_0585 | 1 |
 | shinyo_yukino | 1 |
 | Seseren | 1 |
+| Sebby.sama | 1 |
 | sbsb_mksb | 1 |
 | sashisuse___ | 1 |
 | sansa | 1 |
