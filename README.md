@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **343 images** on index database.
+At the moment, we hosted **344 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,14 +49,14 @@ At the moment, we hosted **343 images** on index database.
 | Lofter | 11 |
 | Official | 1 |
 | Pixiv | 184 |
-| Twitter | 140 |
+| Twitter | 141 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 174 |
 | Both `duo` | 33 |
-| Girl `girl` | 134 |
+| Girl `girl` | 135 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -101,6 +101,7 @@ At the moment, we hosted **343 images** on index database.
 | iDOLM@STER Cinderella Girls | 2 |
 | iDOLM@STER SideM | 1 |
 | Jujutsu Kaisen | 2 |
+| Kantai Collection | 1 |
 | KILL la KILL | 1 |
 | Kimetsu no Yaiba | 1 |
 | KMNZ | 1 |
@@ -374,6 +375,7 @@ At the moment, we hosted **343 images** on index database.
 | Nika○ | 1 |
 | nibiiro_SZK000 | 1 |
 | Nekomi_ch | 1 |
+| nebusoku2000 | 1 |
 | ncr_sora | 1 |
 | nattuiuriowari | 1 |
 | namiki_itsuki | 1 |
