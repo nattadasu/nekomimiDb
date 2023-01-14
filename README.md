@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **346 images** on index database.
+At the moment, we hosted **347 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **346 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 186 |
+| Pixiv | 187 |
 | Twitter | 141 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 175 |
+| Boy `boy` | 176 |
 | Both `duo` | 33 |
 | Girl `girl` | 136 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -66,7 +66,7 @@ At the moment, we hosted **346 images** on index database.
 | Arknights | 14 |
 | Assault Lily | 1 |
 | Attack on Titan | 1 |
-| Axis Powers: Hetalia | 2 |
+| Axis Powers: Hetalia | 3 |
 | Azur Lane | 2 |
 | Bilshana Senki | 1 |
 | Black Wolves Saga | 2 |
@@ -265,6 +265,7 @@ At the moment, we hosted **346 images** on index database.
 | みなせなぎ | 1 |
 | みどり | 1 |
 | みっこ | 1 |
+| みっきぃ。 | 1 |
 | みず | 1 |
 | マサキ樹（いつき） | 1 |
 | まふゆ | 1 |
