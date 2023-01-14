@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **329 images** on index database.
+At the moment, we hosted **330 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,13 +47,13 @@ At the moment, we hosted **329 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 175 |
+| Pixiv | 176 |
 | Twitter | 136 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 171 |
+| Boy `boy` | 172 |
 | Both `duo` | 31 |
 | Girl `girl` | 125 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -137,6 +137,7 @@ At the moment, we hosted **329 images** on index database.
 | SK∞ | 1 |
 | Sound Horizon | 2 |
 | Strike Witches | 1 |
+| Super Danganronpa 2 | 1 |
 | Sword Art Online | 1 |
 | Tears of Themis | 1 |
 | The Legend of Heroes: Trails from Zero | 1 |
@@ -278,6 +279,7 @@ At the moment, we hosted **329 images** on index database.
 | オウギカイリ | 1 |
 | お丸太郎 | 1 |
 | おうみおみ | 1 |
+| おいもとじろう | 1 |
 | えだまめこ | 1 |
 | うき² | 1 |
 | イチリ | 1 |
