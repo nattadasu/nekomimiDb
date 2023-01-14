@@ -39,11 +39,12 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **333 images** on index database.
+At the moment, we hosted **334 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
+| FC2 Blog | 1 |
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
@@ -55,12 +56,12 @@ At the moment, we hosted **333 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 172 |
 | Both `duo` | 32 |
-| Girl `girl` | 127 |
+| Girl `girl` | 128 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 54 |
+| #N/A | 55 |
 | Animal Crossing | 1 |
 | Arknights | 14 |
 | Assault Lily | 1 |
@@ -294,6 +295,7 @@ At the moment, we hosted **333 images** on index database.
 | あずやん | 1 |
 | 지우개 | 1 |
 | 서키 | 1 |
+| zz22 | 1 |
 | ZWJ | 1 |
 | Ziha | 1 |
 | zdrrhnbxg | 1 |
