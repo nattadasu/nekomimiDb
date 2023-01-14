@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **341 images** on index database.
+At the moment, we hosted **342 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,14 +49,14 @@ At the moment, we hosted **341 images** on index database.
 | Lofter | 11 |
 | Official | 1 |
 | Pixiv | 184 |
-| Twitter | 138 |
+| Twitter | 139 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 174 |
 | Both `duo` | 33 |
-| Girl `girl` | 132 |
+| Girl `girl` | 133 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -154,7 +154,7 @@ At the moment, we hosted **341 images** on index database.
 | Twisted Wonderland | 1 |
 | Uta no☆prince-sama♪ | 2 |
 | Varium | 1 |
-| VOCALOID | 28 |
+| VOCALOID | 29 |
 | VShojo | 1 |
 | Vyugen | 2 |
 | Wactor Production | 2 |
@@ -445,6 +445,7 @@ At the moment, we hosted **341 images** on index database.
 | anz32_ | 1 |
 | anajudraws | 1 |
 | amo. | 1 |
+| amnk1213 | 1 |
 | Ameもちᵕ̈*🍭 | 1 |
 | AMEGREEN | 1 |
 | Ame_Luno14 | 1 |
