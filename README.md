@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **340 images** on index database.
+At the moment, we hosted **341 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,14 +48,14 @@ At the moment, we hosted **340 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 183 |
+| Pixiv | 184 |
 | Twitter | 138 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 174 |
-| Both `duo` | 32 |
+| Both `duo` | 33 |
 | Girl `girl` | 132 |
 | Non-Binary/Unknown `nb` | 2 |
 
@@ -90,6 +90,7 @@ At the moment, we hosted **340 images** on index database.
 | Fire Emblem: Three Houses | 2 |
 | Genshin Impact | 45 |
 | Ginjiro (VTuber) | 2 |
+| Gintama | 1 |
 | Girls Frontline | 1 |
 | Granblue Fantasy | 1 |
 | Guns Girl - School DayZ | 1 |
@@ -299,6 +300,7 @@ At the moment, we hosted **340 images** on index database.
 | いさみ 澪 | 1 |
 | アリサキ | 1 |
 | あずやん | 1 |
+| あかこ | 1 |
 | 지우개 | 1 |
 | 서키 | 1 |
 | zz22 | 1 |
