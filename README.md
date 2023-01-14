@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **345 images** on index database.
+At the moment, we hosted **346 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **345 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 185 |
+| Pixiv | 186 |
 | Twitter | 141 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 174 |
+| Boy `boy` | 175 |
 | Both `duo` | 33 |
 | Girl `girl` | 136 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -84,7 +84,7 @@ At the moment, we hosted **345 images** on index database.
 | Dankira!!! -Boys, be DANCING!- | 1 |
 | Diabolik Lovers ~Haunted dark bridal~ | 1 |
 | Doki Doki Literature Club! | 2 |
-| DURARARA!! | 1 |
+| DURARARA!! | 2 |
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 11 |
 | Fire Emblem: Three Houses | 2 |
@@ -237,6 +237,7 @@ At the moment, we hosted **345 images** on index database.
 | 安怀谨 | 1 |
 | 大翔(ヒロト) | 1 |
 | 夕涙ウユ | 1 |
+| 吉智 | 1 |
 | 吃呀 | 1 |
 | 八百枝　豆ノ助 | 1 |
 | 優 ぐる子 | 1 |
