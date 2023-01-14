@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **339 images** on index database.
+At the moment, we hosted **340 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,14 +49,14 @@ At the moment, we hosted **339 images** on index database.
 | Lofter | 11 |
 | Official | 1 |
 | Pixiv | 183 |
-| Twitter | 137 |
+| Twitter | 138 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 174 |
 | Both `duo` | 32 |
-| Girl `girl` | 131 |
+| Girl `girl` | 132 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -116,6 +116,7 @@ At the moment, we hosted **339 images** on index database.
 | Mob Psycho 100 | 1 |
 | Nachoneko (VTuber) | 1 |
 | Nekoha Shizuku | 1 |
+| Nekomiya Hinata (VTuber) | 1 |
 | Nekomiya Hinata (VTuber)\ | 1 |
 | Nichijou | 1 |
 | Nijisanji | 19 |
@@ -305,6 +306,7 @@ At the moment, we hosted **339 images** on index database.
 | Ziha | 1 |
 | zdrrhnbxg | 1 |
 | zaso_ | 1 |
+| yyynoro | 1 |
 | yuu_no_2 | 1 |
 | yi_x_ing | 1 |
 | x11dF3 | 1 |
