@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **337 images** on index database.
+At the moment, we hosted **338 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **337 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 182 |
+| Pixiv | 183 |
 | Twitter | 136 |
 | Weibo | 1 |
 
@@ -56,7 +56,7 @@ At the moment, we hosted **337 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 174 |
 | Both `duo` | 32 |
-| Girl `girl` | 129 |
+| Girl `girl` | 130 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -116,6 +116,7 @@ At the moment, we hosted **337 images** on index database.
 | Mob Psycho 100 | 1 |
 | Nachoneko (VTuber) | 1 |
 | Nekoha Shizuku | 1 |
+| Nekomiya Hinata (VTuber)\ | 1 |
 | Nichijou | 1 |
 | Nijisanji | 19 |
 | NIKKE: The Goddess Of Victory | 1 |
@@ -281,6 +282,7 @@ At the moment, we hosted **337 images** on index database.
 | さのかわ | 1 |
 | ごうやだいふく | 1 |
 | グッピー | 1 |
+| ガン | 1 |
 | カニ | 1 |
 | カイリ | 1 |
 | かるたも | 1 |
