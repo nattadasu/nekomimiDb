@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **326 images** on index database.
+At the moment, we hosted **327 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,13 +47,13 @@ At the moment, we hosted **326 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 172 |
+| Pixiv | 173 |
 | Twitter | 136 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 168 |
+| Boy `boy` | 169 |
 | Both `duo` | 31 |
 | Girl `girl` | 125 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -100,6 +100,7 @@ At the moment, we hosted **326 images** on index database.
 | Jujutsu Kaisen | 2 |
 | Kimetsu no Yaiba | 1 |
 | KMNZ | 1 |
+| Kuroko no Basuke | 1 |
 | Lamento | 1 |
 | League of Legends | 1 |
 | Love Live! Sunshine!! | 1 |
@@ -245,6 +246,7 @@ At the moment, we hosted **326 images** on index database.
 | むりょ | 1 |
 | ミツキノワ | 1 |
 | みなせなぎ | 1 |
+| みどり | 1 |
 | みっこ | 1 |
 | みず | 1 |
 | マサキ樹（いつき） | 1 |
