@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **332 images** on index database.
+At the moment, we hosted **333 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,7 +47,7 @@ At the moment, we hosted **332 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 178 |
+| Pixiv | 179 |
 | Twitter | 136 |
 | Weibo | 1 |
 
@@ -55,7 +55,7 @@ At the moment, we hosted **332 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 172 |
 | Both `duo` | 32 |
-| Girl `girl` | 126 |
+| Girl `girl` | 127 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -96,7 +96,7 @@ At the moment, we hosted **332 images** on index database.
 | Heart no Kuni no Alice | 1 |
 | Hololive | 21 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
-| iDOLM@STER Cinderella Girls | 1 |
+| iDOLM@STER Cinderella Girls | 2 |
 | iDOLM@STER SideM | 1 |
 | Jujutsu Kaisen | 2 |
 | KILL la KILL | 1 |
@@ -200,6 +200,7 @@ At the moment, we hosted **332 images** on index database.
 | 豆芽菜 | 1 |
 | 茶乃ひより | 1 |
 | 花森苺 | 1 |
+| 腹ペ娘 | 1 |
 | 羽梛 | 1 |
 | 緑川　葉 | 1 |
 | 紫 | 1 |
