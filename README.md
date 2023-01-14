@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **324 images** on index database.
+At the moment, we hosted **325 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,13 +47,13 @@ At the moment, we hosted **324 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 170 |
+| Pixiv | 171 |
 | Twitter | 136 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 167 |
+| Boy `boy` | 168 |
 | Both `duo` | 31 |
 | Girl `girl` | 124 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -131,6 +131,7 @@ At the moment, we hosted **324 images** on index database.
 | Sekaiichi Hatsukoi | 1 |
 | Sen'yuu | 1 |
 | Shadows House | 1 |
+| Shuuen no Shiori Project | 1 |
 | SK∞ | 1 |
 | Sound Horizon | 2 |
 | Strike Witches | 1 |
@@ -248,6 +249,7 @@ At the moment, we hosted **324 images** on index database.
 | みず | 1 |
 | マサキ樹（いつき） | 1 |
 | まふゆ | 1 |
+| ポン酢 | 1 |
 | ひし | 1 |
 | パチ | 1 |
 | ぱーさん | 1 |
