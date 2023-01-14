@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **331 images** on index database.
+At the moment, we hosted **332 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,7 +47,7 @@ At the moment, we hosted **331 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 177 |
+| Pixiv | 178 |
 | Twitter | 136 |
 | Weibo | 1 |
 
@@ -55,7 +55,7 @@ At the moment, we hosted **331 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 172 |
 | Both `duo` | 32 |
-| Girl `girl` | 125 |
+| Girl `girl` | 126 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -99,6 +99,7 @@ At the moment, we hosted **331 images** on index database.
 | iDOLM@STER Cinderella Girls | 1 |
 | iDOLM@STER SideM | 1 |
 | Jujutsu Kaisen | 2 |
+| KILL la KILL | 1 |
 | Kimetsu no Yaiba | 1 |
 | KMNZ | 1 |
 | Kuroko no Basuke | 1 |
@@ -256,6 +257,7 @@ At the moment, we hosted **331 images** on index database.
 | みず | 1 |
 | マサキ樹（いつき） | 1 |
 | まふゆ | 1 |
+| まっさん | 1 |
 | ポン酢 | 1 |
 | ひし | 1 |
 | パチ | 1 |
