@@ -39,11 +39,12 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **320 images** on index database.
+At the moment, we hosted **321 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
+| Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
 | Pixiv | 167 |
@@ -54,12 +55,12 @@ At the moment, we hosted **320 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 165 |
 | Both `duo` | 31 |
-| Girl `girl` | 122 |
+| Girl `girl` | 123 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 52 |
+| #N/A | 53 |
 | Animal Crossing | 1 |
 | Arknights | 14 |
 | Assault Lily | 1 |
@@ -364,6 +365,7 @@ At the moment, we hosted **320 images** on index database.
 | kurakichi36 | 1 |
 | kou_hiyoyo | 1 |
 | kmt_pori | 1 |
+| KINe | 1 |
 | kinagi0920 | 1 |
 | kanora | 1 |
 | Kamille | 1 |
