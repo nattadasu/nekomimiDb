@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **336 images** on index database.
+At the moment, we hosted **337 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **336 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 181 |
+| Pixiv | 182 |
 | Twitter | 136 |
 | Weibo | 1 |
 
@@ -56,7 +56,7 @@ At the moment, we hosted **336 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 174 |
 | Both `duo` | 32 |
-| Girl `girl` | 128 |
+| Girl `girl` | 129 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -119,6 +119,7 @@ At the moment, we hosted **336 images** on index database.
 | Nichijou | 1 |
 | Nijisanji | 19 |
 | NIKKE: The Goddess Of Victory | 1 |
+| Nyan Koi! | 1 |
 | Omori | 3 |
 | Ookami Ciro (VTuber) | 1 |
 | Otozuki Teru (VTuber) | 1 |
@@ -262,6 +263,7 @@ At the moment, we hosted **336 images** on index database.
 | まふゆ | 1 |
 | まっさん | 1 |
 | ポン酢 | 1 |
+| ボウイナイフ | 1 |
 | ひし | 1 |
 | パチ | 1 |
 | ぱーさん | 1 |
