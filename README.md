@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **342 images** on index database.
+At the moment, we hosted **343 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,19 +49,19 @@ At the moment, we hosted **342 images** on index database.
 | Lofter | 11 |
 | Official | 1 |
 | Pixiv | 184 |
-| Twitter | 139 |
+| Twitter | 140 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 174 |
 | Both `duo` | 33 |
-| Girl `girl` | 133 |
+| Girl `girl` | 134 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 55 |
+| #N/A | 56 |
 | Animal Crossing | 1 |
 | Arknights | 14 |
 | Assault Lily | 1 |
@@ -450,6 +450,7 @@ At the moment, we hosted **342 images** on index database.
 | AMEGREEN | 1 |
 | Ame_Luno14 | 1 |
 | Aluhzora | 1 |
+| akabane22 | 1 |
 | aexiao99 | 1 |
 | Aeng_Dyu | 1 |
 | 8washihachi | 1 |
