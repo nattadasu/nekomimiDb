@@ -39,14 +39,14 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **319 images** on index database.
+At the moment, we hosted **320 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 166 |
+| Pixiv | 167 |
 | Twitter | 136 |
 | Weibo | 1 |
 
@@ -54,7 +54,7 @@ At the moment, we hosted **319 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 165 |
 | Both `duo` | 31 |
-| Girl `girl` | 121 |
+| Girl `girl` | 122 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -89,6 +89,7 @@ At the moment, we hosted **319 images** on index database.
 | Ginjiro (VTuber) | 2 |
 | Girls Frontline | 1 |
 | Granblue Fantasy | 1 |
+| Guns Girl - School DayZ | 1 |
 | Haikyuu!! | 1 |
 | Heart no Kuni no Alice | 1 |
 | Hololive | 21 |
@@ -211,6 +212,7 @@ At the moment, we hosted **319 images** on index database.
 | 快刀乱麻 | 1 |
 | 幻梦fanteam | 1 |
 | 宿雪(やどゆき) | 1 |
+| 安怀谨 | 1 |
 | 大翔(ヒロト) | 1 |
 | 夕涙ウユ | 1 |
 | 吃呀 | 1 |
