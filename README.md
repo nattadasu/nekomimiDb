@@ -39,14 +39,14 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **381 images** on index database.
+At the moment, we hosted **382 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
 | Fc2 | 1 |
 | Ibispaint | 1 |
-| Lofter | 11 |
+| Lofter | 12 |
 | Official | 1 |
 | Pixiv | 215 |
 | Twitter | 147 |
@@ -56,7 +56,7 @@ At the moment, we hosted **381 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 197 |
 | Both `duo` | 34 |
-| Girl `girl` | 148 |
+| Girl `girl` | 149 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -72,7 +72,7 @@ At the moment, we hosted **381 images** on index database.
 | Bilshana Senki | 1 |
 | Black Wolves Saga | 2 |
 | Blue Archive | 9 |
-| Bocchi the Rock! | 2 |
+| Bocchi the Rock! | 3 |
 | Boku no Hero Academia | 2 |
 | Cardfight!! Vanguard | 1 |
 | Case Closed (Detective Conan) | 2 |
@@ -255,6 +255,7 @@ At the moment, we hosted **381 images** on index database.
 | 八百枝　豆ノ助 | 1 |
 | 優 ぐる子 | 1 |
 | 儒宅 | 1 |
+| 久眠zZ | 1 |
 | 丹照 | 1 |
 | 両 | 1 |
 | 一方桑 | 1 |
