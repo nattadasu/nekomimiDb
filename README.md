@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **379 images** on index database.
+At the moment, we hosted **380 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **379 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 213 |
+| Pixiv | 214 |
 | Twitter | 147 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 196 |
+| Boy `boy` | 197 |
 | Both `duo` | 34 |
 | Girl `girl` | 147 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -82,7 +82,7 @@ At the moment, we hosted **379 images** on index database.
 | Chrono Cross | 1 |
 | Dance Killer Trick! | 1 |
 | Danganronpa V3: Killing Harmony | 4 |
-| Dankira!!! -Boys, be DANCING!- | 1 |
+| Dankira!!! -Boys, be DANCING!- | 2 |
 | Diabolik Lovers ~Haunted dark bridal~ | 1 |
 | Doki Doki Literature Club! | 2 |
 | DURARARA!! | 2 |
@@ -201,6 +201,7 @@ At the moment, we hosted **379 images** on index database.
 | mibu820 | 2 |
 | makkusuoko | 2 |
 | iron海濑 | 2 |
+| immr | 2 |
 | ikuri | 2 |
 | Horn/wood | 2 |
 | asuka5150_ | 2 |
@@ -438,7 +439,6 @@ At the moment, we hosted **379 images** on index database.
 | jisoku39km | 1 |
 | Itsuka Eranville | 1 |
 | InkAkane | 1 |
-| immr | 1 |
 | husa | 1 |
 | HongBsWs | 1 |
 | hizakigamma | 1 |
