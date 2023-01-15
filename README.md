@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **384 images** on index database.
+At the moment, we hosted **385 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,14 +49,14 @@ At the moment, we hosted **384 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 217 |
-| Twitter | 147 |
+| Twitter | 148 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 197 |
 | Both `duo` | 34 |
-| Girl `girl` | 151 |
+| Girl `girl` | 152 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -99,7 +99,7 @@ At the moment, we hosted **384 images** on index database.
 | Guns Girl - School DayZ | 1 |
 | Haikyuu!! | 1 |
 | Heart no Kuni no Alice | 1 |
-| Hololive | 22 |
+| Hololive | 23 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | iDOLM@STER Cinderella Girls | 2 |
 | iDOLM@STER SideM | 1 |
@@ -455,6 +455,7 @@ At the moment, we hosted **384 images** on index database.
 | G1 | 1 |
 | fushirun_rung | 1 |
 | fumochidesu | 1 |
+| Frost_002 | 1 |
 | e武器 | 1 |
 | Dimas | 1 |
 | Deadnooodles | 1 |
