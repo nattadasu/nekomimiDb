@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **367 images** on index database.
+At the moment, we hosted **368 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **367 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 203 |
+| Pixiv | 204 |
 | Twitter | 145 |
 | Weibo | 1 |
 
@@ -56,12 +56,12 @@ At the moment, we hosted **367 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 193 |
 | Both `duo` | 33 |
-| Girl `girl` | 139 |
+| Girl `girl` | 140 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 63 |
+| #N/A | 64 |
 | Animal Crossing | 1 |
 | Arknights | 14 |
 | Assault Lily | 1 |
@@ -177,6 +177,7 @@ At the moment, we hosted **367 images** on index database.
 | 鹿野 | 3 |
 | 夏葡 | 3 |
 | 乐格不是食物 | 3 |
+| しろなっぱ | 3 |
 | HK | 3 |
 | 星猫叶夢 | 2 |
 | んぬ | 2 |
@@ -185,7 +186,6 @@ At the moment, we hosted **367 images** on index database.
 | ぱや88 | 2 |
 | にわ子 | 2 |
 | たむむら | 2 |
-| しろなっぱ | 2 |
 | しのたろう | 2 |
 | くろ | 2 |
 | ぎんじろ。 | 2 |
