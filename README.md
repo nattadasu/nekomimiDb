@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **356 images** on index database.
+At the moment, we hosted **357 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **356 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 194 |
+| Pixiv | 195 |
 | Twitter | 143 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 182 |
+| Boy `boy` | 183 |
 | Both `duo` | 33 |
 | Girl `girl` | 139 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -112,7 +112,7 @@ At the moment, we hosted **356 images** on index database.
 | Lamento | 1 |
 | League of Legends | 1 |
 | Love Live! Sunshine!! | 1 |
-| Mafumafu (Singer) | 4 |
+| Mafumafu (Singer) | 5 |
 | MAGI: The Labyrinth of Magic | 1 |
 | Mairimashita! Iruma-kun | 1 |
 | Mikeneko (VTuber) | 3 |
@@ -169,12 +169,12 @@ At the moment, we hosted **356 images** on index database.
 | -----: | :---- |
 | yawage | 6 |
 | ookami_ciro | 5 |
+| しろこ | 4 |
 | nicijyou_deyo | 4 |
 | aee_gnsn | 4 |
 | 鹿野 | 3 |
 | 夏葡 | 3 |
 | 乐格不是食物 | 3 |
-| しろこ | 3 |
 | HK | 3 |
 | 星猫叶夢 | 2 |
 | んぬ | 2 |
