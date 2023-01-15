@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **354 images** on index database.
+At the moment, we hosted **355 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **354 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 192 |
+| Pixiv | 193 |
 | Twitter | 143 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 180 |
+| Boy `boy` | 181 |
 | Both `duo` | 33 |
 | Girl `girl` | 139 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -112,7 +112,7 @@ At the moment, we hosted **354 images** on index database.
 | Lamento | 1 |
 | League of Legends | 1 |
 | Love Live! Sunshine!! | 1 |
-| Mafumafu (Singer) | 2 |
+| Mafumafu (Singer) | 3 |
 | MAGI: The Labyrinth of Magic | 1 |
 | Mairimashita! Iruma-kun | 1 |
 | Mikeneko (VTuber) | 3 |
@@ -181,6 +181,7 @@ At the moment, we hosted **354 images** on index database.
 | ひなた | 2 |
 | ぱや88 | 2 |
 | にわ子 | 2 |
+| しろこ | 2 |
 | しのたろう | 2 |
 | くろ | 2 |
 | ぎんじろ。 | 2 |
@@ -285,7 +286,6 @@ At the moment, we hosted **354 images** on index database.
 | なおすけ | 1 |
 | ちゃんぬ | 1 |
 | ちた | 1 |
-| しろこ | 1 |
 | しゅがお | 1 |
 | しなお | 1 |
 | しけー | 1 |
