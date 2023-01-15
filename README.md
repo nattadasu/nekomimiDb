@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **360 images** on index database.
+At the moment, we hosted **361 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,20 +48,20 @@ At the moment, we hosted **360 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 197 |
+| Pixiv | 198 |
 | Twitter | 144 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 186 |
+| Boy `boy` | 187 |
 | Both `duo` | 33 |
 | Girl `girl` | 139 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 60 |
+| #N/A | 61 |
 | Animal Crossing | 1 |
 | Arknights | 14 |
 | Assault Lily | 1 |
@@ -196,6 +196,7 @@ At the moment, we hosted **360 images** on index database.
 | mibu820 | 2 |
 | makkusuoko | 2 |
 | iron海濑 | 2 |
+| ikuri | 2 |
 | Horn/wood | 2 |
 | asuka5150_ | 2 |
 | Akemono | 2 |
@@ -424,7 +425,6 @@ At the moment, we hosted **360 images** on index database.
 | Itsuka Eranville | 1 |
 | InkAkane | 1 |
 | immr | 1 |
-| ikuri | 1 |
 | husa | 1 |
 | HongBsWs | 1 |
 | hizakigamma | 1 |
