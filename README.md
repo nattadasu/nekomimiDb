@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **362 images** on index database.
+At the moment, we hosted **363 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **362 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 199 |
+| Pixiv | 200 |
 | Twitter | 144 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 188 |
+| Boy `boy` | 189 |
 | Both `duo` | 33 |
 | Girl `girl` | 139 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -154,6 +154,7 @@ At the moment, we hosted **362 images** on index database.
 | The Legend of Heroes: Trails from Zero | 1 |
 | The Umbrella Academy | 1 |
 | Tokimeki Restaurant | 1 |
+| Tokyo Ghoul | 1 |
 | Touhou | 5 |
 | Twisted Wonderland | 1 |
 | Uta no☆prince-sama♪ | 2 |
@@ -288,6 +289,7 @@ At the moment, we hosted **362 images** on index database.
 | なおすけ | 1 |
 | ちゃんぬ | 1 |
 | ちた | 1 |
+| たむむら | 1 |
 | その① | 1 |
 | しゅがお | 1 |
 | しなお | 1 |
