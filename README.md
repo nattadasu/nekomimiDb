@@ -39,22 +39,22 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **350 images** on index database.
+At the moment, we hosted **351 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 4 |
-| FC2 Blog | 1 |
+| Fc2 | 1 |
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 189 |
+| Pixiv | 190 |
 | Twitter | 142 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 176 |
+| Boy `boy` | 177 |
 | Both `duo` | 33 |
 | Girl `girl` | 139 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -88,6 +88,7 @@ At the moment, we hosted **350 images** on index database.
 | Ensemble Stars | 2 |
 | Final Fantasy XIV | 11 |
 | Fire Emblem: Three Houses | 2 |
+| Fukigen na Mononokean | 1 |
 | Genshin Impact | 45 |
 | Ginjiro (VTuber) | 2 |
 | Gintama | 1 |
@@ -120,8 +121,7 @@ At the moment, we hosted **350 images** on index database.
 | Mob Psycho 100 | 1 |
 | Nachoneko (VTuber) | 1 |
 | Nekoha Shizuku | 1 |
-| Nekomiya Hinata (VTuber) | 1 |
-| Nekomiya Hinata (VTuber)\ | 1 |
+| Nekomiya Hinata (VTuber) | 2 |
 | Nichijou | 1 |
 | Nijisanji | 19 |
 | NIKKE: The Goddess Of Victory | 1 |
@@ -229,6 +229,7 @@ At the moment, we hosted **350 images** on index database.
 | 狐巳夜 | 1 |
 | 横山ストッパ | 1 |
 | 枫彧君 | 1 |
+| 朔 | 1 |
 | 日向青 | 1 |
 | 敬 | 1 |
 | 快刀乱麻 | 1 |
