@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **372 images** on index database.
+At the moment, we hosted **373 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **372 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 207 |
+| Pixiv | 208 |
 | Twitter | 146 |
 | Weibo | 1 |
 
@@ -56,7 +56,7 @@ At the moment, we hosted **372 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 194 |
 | Both `duo` | 34 |
-| Girl `girl` | 142 |
+| Girl `girl` | 143 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -86,7 +86,7 @@ At the moment, we hosted **372 images** on index database.
 | Doki Doki Literature Club! | 2 |
 | DURARARA!! | 2 |
 | Ensemble Stars | 2 |
-| Filian (VTuber) | 1 |
+| Filian (VTuber) | 2 |
 | Final Fantasy XIV | 11 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
@@ -449,6 +449,7 @@ At the moment, we hosted **372 images** on index database.
 | Deadnooodles | 1 |
 | Cooltg2 | 1 |
 | cognacbear | 1 |
+| Clickdraws | 1 |
 | Cine9447 | 1 |
 | Ciino00o | 1 |
 | chodici | 1 |
