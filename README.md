@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **363 images** on index database.
+At the moment, we hosted **364 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **363 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 11 |
 | Official | 1 |
-| Pixiv | 200 |
+| Pixiv | 201 |
 | Twitter | 144 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 189 |
+| Boy `boy` | 190 |
 | Both `duo` | 33 |
 | Girl `girl` | 139 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -154,7 +154,7 @@ At the moment, we hosted **363 images** on index database.
 | The Legend of Heroes: Trails from Zero | 1 |
 | The Umbrella Academy | 1 |
 | Tokimeki Restaurant | 1 |
-| Tokyo Ghoul | 1 |
+| Tokyo Ghoul | 2 |
 | Touhou | 5 |
 | Twisted Wonderland | 1 |
 | Uta no☆prince-sama♪ | 2 |
@@ -184,6 +184,7 @@ At the moment, we hosted **363 images** on index database.
 | ひなた | 2 |
 | ぱや88 | 2 |
 | にわ子 | 2 |
+| たむむら | 2 |
 | しのたろう | 2 |
 | くろ | 2 |
 | ぎんじろ。 | 2 |
@@ -289,7 +290,6 @@ At the moment, we hosted **363 images** on index database.
 | なおすけ | 1 |
 | ちゃんぬ | 1 |
 | ちた | 1 |
-| たむむら | 1 |
 | その① | 1 |
 | しゅがお | 1 |
 | しなお | 1 |
