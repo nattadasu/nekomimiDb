@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **382 images** on index database.
+At the moment, we hosted **383 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **382 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 215 |
+| Pixiv | 216 |
 | Twitter | 147 |
 | Weibo | 1 |
 
@@ -56,7 +56,7 @@ At the moment, we hosted **382 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 197 |
 | Both `duo` | 34 |
-| Girl `girl` | 149 |
+| Girl `girl` | 150 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -99,7 +99,7 @@ At the moment, we hosted **382 images** on index database.
 | Guns Girl - School DayZ | 1 |
 | Haikyuu!! | 1 |
 | Heart no Kuni no Alice | 1 |
-| Hololive | 21 |
+| Hololive | 22 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | iDOLM@STER Cinderella Girls | 2 |
 | iDOLM@STER SideM | 1 |
@@ -238,6 +238,7 @@ At the moment, we hosted **382 images** on index database.
 | 狐巳夜 | 1 |
 | 爽健 | 1 |
 | 横山ストッパ | 1 |
+| 柊 シン | 1 |
 | 枫彧君 | 1 |
 | 朔 | 1 |
 | 日向青 | 1 |
