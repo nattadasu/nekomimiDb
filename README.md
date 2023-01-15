@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **359 images** on index database.
+At the moment, we hosted **360 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,12 +49,12 @@ At the moment, we hosted **359 images** on index database.
 | Lofter | 11 |
 | Official | 1 |
 | Pixiv | 197 |
-| Twitter | 143 |
+| Twitter | 144 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 185 |
+| Boy `boy` | 186 |
 | Both `duo` | 33 |
 | Girl `girl` | 139 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -124,7 +124,7 @@ At the moment, we hosted **359 images** on index database.
 | Nekoha Shizuku | 1 |
 | Nekomiya Hinata (VTuber) | 2 |
 | Nichijou | 1 |
-| Nijisanji | 19 |
+| Nijisanji | 20 |
 | NIKKE: The Goddess Of Victory | 1 |
 | Nyan Koi! | 1 |
 | Omori | 3 |
@@ -470,6 +470,7 @@ At the moment, we hosted **359 images** on index database.
 | 8washihachi | 1 |
 | 3fourpaca | 1 |
 | 310_mha | 1 |
+| 082_203 | 1 |
 | 0_shusi_ | 1 |
 | --唯度-- | 1 |
 | _从前有颗星 | 1 |
