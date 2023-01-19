@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **399 images** on index database.
+At the moment, we hosted **400 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **399 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 230 |
+| Pixiv | 231 |
 | Twitter | 149 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 209 |
+| Boy `boy` | 210 |
 | Both `duo` | 35 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -104,7 +104,7 @@ At the moment, we hosted **399 images** on index database.
 | iDOLM@STER Cinderella Girls | 2 |
 | iDOLM@STER SideM | 1 |
 | Inazuma Eleven | 1 |
-| Jujutsu Kaisen | 2 |
+| Jujutsu Kaisen | 3 |
 | Kaguya Luna (VTuber) | 1 |
 | Kanda Miu (VTuber) | 1 |
 | Kantai Collection | 2 |
@@ -198,6 +198,7 @@ At the moment, we hosted **399 images** on index database.
 | seuga | 2 |
 | orang_333 | 2 |
 | NukoJi_ | 2 |
+| nemuwo。 | 2 |
 | nakanoart | 2 |
 | Milk_Tea_1993 | 2 |
 | mibu820 | 2 |
@@ -413,7 +414,6 @@ At the moment, we hosted **399 images** on index database.
 | NoName0_tmvLog | 1 |
 | Nika○ | 1 |
 | nibiiro_SZK000 | 1 |
-| nemuwo。 | 1 |
 | Nekomi_ch | 1 |
 | nebusoku2000 | 1 |
 | ncr_sora | 1 |
