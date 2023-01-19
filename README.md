@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **389 images** on index database.
+At the moment, we hosted **390 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,19 +49,19 @@ At the moment, we hosted **389 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 221 |
-| Twitter | 148 |
+| Twitter | 149 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 200 |
+| Boy `boy` | 201 |
 | Both `duo` | 34 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 70 |
+| #N/A | 71 |
 | Animal Crossing | 1 |
 | aoppella | 1 |
 | Arknights | 14 |
@@ -179,10 +179,10 @@ At the moment, we hosted **389 images** on index database.
 | nicijyou_deyo | 4 |
 | aee_gnsn | 4 |
 | 鹿野 | 3 |
+| 飛鳥士郎 | 3 |
 | 夏葡 | 3 |
 | 乐格不是食物 | 3 |
 | HK | 3 |
-| 飛鳥士郎 | 2 |
 | 星猫叶夢 | 2 |
 | んぬ | 2 |
 | らく | 2 |
