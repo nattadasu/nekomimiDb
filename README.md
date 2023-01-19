@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **398 images** on index database.
+At the moment, we hosted **399 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **398 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 229 |
+| Pixiv | 230 |
 | Twitter | 149 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 208 |
+| Boy `boy` | 209 |
 | Both `duo` | 35 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -66,7 +66,7 @@ At the moment, we hosted **398 images** on index database.
 | aoppella | 1 |
 | Arknights | 14 |
 | Assault Lily | 1 |
-| Attack on Titan | 1 |
+| Attack on Titan | 2 |
 | Axis Powers: Hetalia | 3 |
 | Azur Lane | 2 |
 | Bilshana Senki | 1 |
@@ -334,6 +334,7 @@ At the moment, we hosted **398 images** on index database.
 | いつつせ | 1 |
 | いさみ 澪 | 1 |
 | アリサキ | 1 |
+| あまね | 1 |
 | あずやん | 1 |
 | あかこ | 1 |
 | 지우개 | 1 |
