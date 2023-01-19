@@ -74,7 +74,6 @@ At the moment, we hosted **398 images** on index database.
 | Blue Archive | 9 |
 | Bocchi the Rock! | 3 |
 | Boku no Hero Academia | 2 |
-| Bungou Stray Dogs | 1 |
 | Cardfight!! Vanguard | 1 |
 | Case Closed (Detective Conan) | 2 |
 | Chainsaw Man | 5 |
@@ -92,7 +91,7 @@ At the moment, we hosted **398 images** on index database.
 | Final Fantasy XIV | 11 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
-| Genshin Impact | 47 |
+| Genshin Impact | 48 |
 | Ginjiro (VTuber) | 2 |
 | Gintama | 1 |
 | Girls Frontline | 1 |
