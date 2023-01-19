@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **400 images** on index database.
+At the moment, we hosted **401 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,12 +49,12 @@ At the moment, we hosted **400 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 231 |
-| Twitter | 149 |
+| Twitter | 150 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 210 |
+| Boy `boy` | 211 |
 | Both `duo` | 35 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -97,7 +97,7 @@ At the moment, we hosted **400 images** on index database.
 | Girls Frontline | 1 |
 | Granblue Fantasy | 1 |
 | Guns Girl - School DayZ | 1 |
-| Haikyuu!! | 1 |
+| Haikyuu!! | 2 |
 | Heart no Kuni no Alice | 1 |
 | Hololive | 23 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
@@ -482,6 +482,7 @@ At the moment, we hosted **400 images** on index database.
 | Bwith00 | 1 |
 | bqtfo | 1 |
 | BLUE色拉 | 1 |
+| bari_dal | 1 |
 | bananakeki | 1 |
 | Aya | 1 |
 | AXESCR | 1 |
