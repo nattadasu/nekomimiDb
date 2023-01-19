@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **397 images** on index database.
+At the moment, we hosted **398 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **397 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 228 |
+| Pixiv | 229 |
 | Twitter | 149 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 207 |
+| Boy `boy` | 208 |
 | Both `duo` | 35 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -74,6 +74,7 @@ At the moment, we hosted **397 images** on index database.
 | Blue Archive | 9 |
 | Bocchi the Rock! | 3 |
 | Boku no Hero Academia | 2 |
+| Bungou Stray Dogs | 1 |
 | Cardfight!! Vanguard | 1 |
 | Case Closed (Detective Conan) | 2 |
 | Chainsaw Man | 5 |
@@ -282,6 +283,7 @@ At the moment, we hosted **397 images** on index database.
 | ムラシゲ | 1 |
 | むりょ | 1 |
 | ミツキノワ | 1 |
+| みやなぎ | 1 |
 | みなせなぎ | 1 |
 | みどり | 1 |
 | みっこ | 1 |
