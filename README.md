@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **404 images** on index database.
+At the moment, we hosted **405 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,12 +49,12 @@ At the moment, we hosted **404 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 234 |
-| Twitter | 150 |
+| Twitter | 151 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 214 |
+| Boy `boy` | 215 |
 | Both `duo` | 35 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -62,6 +62,7 @@ At the moment, we hosted **404 images** on index database.
 | Source | Count |
 | -----: | :---- |
 | #N/A | 73 |
+| Ace no Dia | 1 |
 | Animal Crossing | 1 |
 | aoppella | 1 |
 | Arknights | 14 |
@@ -394,6 +395,7 @@ At the moment, we hosted **404 images** on index database.
 | Seseren | 1 |
 | Sebby.sama | 1 |
 | sbsb_mksb | 1 |
+| sato_1_11 | 1 |
 | sashisuse___ | 1 |
 | sansa | 1 |
 | SankaReien | 1 |
