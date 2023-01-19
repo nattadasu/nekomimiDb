@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **390 images** on index database.
+At the moment, we hosted **391 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,20 +48,20 @@ At the moment, we hosted **390 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 221 |
+| Pixiv | 222 |
 | Twitter | 149 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 201 |
+| Boy `boy` | 202 |
 | Both `duo` | 34 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 71 |
+| #N/A | 72 |
 | Animal Crossing | 1 |
 | aoppella | 1 |
 | Arknights | 14 |
@@ -324,6 +324,7 @@ At the moment, we hosted **390 images** on index database.
 | おいもとじろう | 1 |
 | えだまめこ | 1 |
 | うき² | 1 |
+| うーる | 1 |
 | イチリ | 1 |
 | いつつせ | 1 |
 | いさみ 澪 | 1 |
