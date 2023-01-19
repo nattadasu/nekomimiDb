@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **388 images** on index database.
+At the moment, we hosted **389 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,20 +48,20 @@ At the moment, we hosted **388 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 220 |
+| Pixiv | 221 |
 | Twitter | 148 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 199 |
+| Boy `boy` | 200 |
 | Both `duo` | 34 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 69 |
+| #N/A | 70 |
 | Animal Crossing | 1 |
 | aoppella | 1 |
 | Arknights | 14 |
@@ -182,6 +182,7 @@ At the moment, we hosted **388 images** on index database.
 | 夏葡 | 3 |
 | 乐格不是食物 | 3 |
 | HK | 3 |
+| 飛鳥士郎 | 2 |
 | 星猫叶夢 | 2 |
 | んぬ | 2 |
 | らく | 2 |
@@ -209,7 +210,6 @@ At the moment, we hosted **388 images** on index database.
 | Akemono | 2 |
 | _yuulk | 2 |
 | 饼干切割机 | 1 |
-| 飛鳥士郎 | 1 |
 | 飛絮 | 1 |
 | 阿蟬 | 1 |
 | 鍋 | 1 |
