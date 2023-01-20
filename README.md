@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **412 images** on index database.
+At the moment, we hosted **413 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **412 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 241 |
+| Pixiv | 242 |
 | Twitter | 151 |
 | Weibo | 1 |
 
@@ -56,7 +56,7 @@ At the moment, we hosted **412 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 221 |
 | Both `duo` | 35 |
-| Girl `girl` | 154 |
+| Girl `girl` | 155 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -92,7 +92,7 @@ At the moment, we hosted **412 images** on index database.
 | Final Fantasy XIV | 11 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
-| Genshin Impact | 49 |
+| Genshin Impact | 50 |
 | Ginjiro (VTuber) | 2 |
 | Gintama | 1 |
 | Girls Frontline | 1 |
@@ -185,6 +185,7 @@ At the moment, we hosted **412 images** on index database.
 | 飛鳥士郎 | 3 |
 | 乐格不是食物 | 3 |
 | HK | 3 |
+| 雷夜 | 2 |
 | 水菜子 | 2 |
 | 星猫叶夢 | 2 |
 | んぬ | 2 |
@@ -216,7 +217,6 @@ At the moment, we hosted **412 images** on index database.
 | 黒常 | 1 |
 | 饼干切割机 | 1 |
 | 飛絮 | 1 |
-| 雷夜 | 1 |
 | 阿蟬 | 1 |
 | 鍋 | 1 |
 | 錆多はがね | 1 |
