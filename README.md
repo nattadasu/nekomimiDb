@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **418 images** on index database.
+At the moment, we hosted **419 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **418 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 247 |
+| Pixiv | 248 |
 | Twitter | 151 |
 | Weibo | 1 |
 
@@ -56,7 +56,7 @@ At the moment, we hosted **418 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 221 |
 | Both `duo` | 35 |
-| Girl `girl` | 160 |
+| Girl `girl` | 161 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -121,7 +121,7 @@ At the moment, we hosted **418 images** on index database.
 | Mafumafu (Singer) | 11 |
 | MAGI: The Labyrinth of Magic | 1 |
 | Mairimashita! Iruma-kun | 1 |
-| Mikeneko (VTuber) | 3 |
+| Mikeneko (VTuber) | 4 |
 | Miraculous Ladybug | 2 |
 | Mizushiro Kumori (VTuber) | 1 |
 | Mob Psycho 100 | 1 |
@@ -187,6 +187,7 @@ At the moment, we hosted **418 images** on index database.
 | 乐格不是食物 | 3 |
 | TETUG | 3 |
 | HK | 3 |
+| Deyui | 3 |
 | 雷夜 | 2 |
 | 水菜子 | 2 |
 | 星猫叶夢 | 2 |
@@ -213,7 +214,6 @@ At the moment, we hosted **418 images** on index database.
 | immr | 2 |
 | ikuri | 2 |
 | Horn/wood | 2 |
-| Deyui | 2 |
 | asuka5150_ | 2 |
 | Akemono | 2 |
 | _yuulk | 2 |
