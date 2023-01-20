@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **423 images** on index database.
+At the moment, we hosted **424 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **423 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 252 |
+| Pixiv | 253 |
 | Twitter | 151 |
 | Weibo | 1 |
 
@@ -56,7 +56,7 @@ At the moment, we hosted **423 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 223 |
 | Both `duo` | 35 |
-| Girl `girl` | 163 |
+| Girl `girl` | 164 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -90,7 +90,7 @@ At the moment, we hosted **423 images** on index database.
 | DURARARA!! | 2 |
 | Ensemble Stars | 3 |
 | Filian (VTuber) | 3 |
-| Final Fantasy XIV | 11 |
+| Final Fantasy XIV | 12 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
 | Genshin Impact | 50 |
@@ -193,6 +193,7 @@ At the moment, we hosted **423 images** on index database.
 | 星猫叶夢 | 2 |
 | んぬ | 2 |
 | らく | 2 |
+| ももこ | 2 |
 | ひなた | 2 |
 | ぱや88 | 2 |
 | にわ子 | 2 |
@@ -289,7 +290,6 @@ At the moment, we hosted **423 images** on index database.
 | やまもも | 1 |
 | やちぇ | 1 |
 | ももも | 1 |
-| ももこ | 1 |
 | メーガー | 1 |
 | めばえ | 1 |
 | めの | 1 |
