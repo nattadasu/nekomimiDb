@@ -39,11 +39,11 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **432 images** on index database.
+At the moment, we hosted **433 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
-| Deviantart | 4 |
+| Deviantart | 5 |
 | Fc2 | 1 |
 | Ibispaint | 1 |
 | Lofter | 12 |
@@ -54,7 +54,7 @@ At the moment, we hosted **432 images** on index database.
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 225 |
+| Boy `boy` | 226 |
 | Both `duo` | 35 |
 | Girl `girl` | 170 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -101,6 +101,7 @@ At the moment, we hosted **432 images** on index database.
 | Guns Girl - School DayZ | 1 |
 | Haikyuu!! | 2 |
 | Heart no Kuni no Alice | 1 |
+| Hellsing Ultimate | 1 |
 | Hololive | 23 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | iDOLM@STER Cinderella Girls | 2 |
@@ -478,6 +479,7 @@ At the moment, we hosted **432 images** on index database.
 | husa | 1 |
 | HongBsWs | 1 |
 | hizakigamma | 1 |
+| hanh-chu | 1 |
 | hakus_1128 | 1 |
 | go_ho_lolikon | 1 |
 | geckoyutuyamori | 1 |
