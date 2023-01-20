@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **407 images** on index database.
+At the moment, we hosted **408 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **407 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 236 |
+| Pixiv | 237 |
 | Twitter | 151 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 217 |
+| Boy `boy` | 218 |
 | Both `duo` | 35 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -117,7 +117,7 @@ At the moment, we hosted **407 images** on index database.
 | League of Legends | 1 |
 | Love Live! Sunshine!! | 1 |
 | Luz (Singer) | 1 |
-| Mafumafu (Singer) | 10 |
+| Mafumafu (Singer) | 11 |
 | MAGI: The Labyrinth of Magic | 1 |
 | Mairimashita! Iruma-kun | 1 |
 | Mikeneko (VTuber) | 3 |
@@ -244,6 +244,7 @@ At the moment, we hosted **407 images** on index database.
 | 玖珂つかさ | 1 |
 | 狐巳夜 | 1 |
 | 爽健 | 1 |
+| 水菜子 | 1 |
 | 歌貌 | 1 |
 | 横山ストッパ | 1 |
 | 柊 シン | 1 |
