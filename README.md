@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **409 images** on index database.
+At the moment, we hosted **410 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **409 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 238 |
+| Pixiv | 239 |
 | Twitter | 151 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 219 |
+| Boy `boy` | 220 |
 | Both `duo` | 35 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -163,7 +163,7 @@ At the moment, we hosted **409 images** on index database.
 | Twisted Wonderland | 2 |
 | Uta no☆prince-sama♪ | 3 |
 | Varium | 1 |
-| VOCALOID | 34 |
+| VOCALOID | 35 |
 | VShojo | 1 |
 | Vyugen | 2 |
 | Wactor Production | 2 |
@@ -178,11 +178,11 @@ At the moment, we hosted **409 images** on index database.
 | yawage | 6 |
 | しろなっぱ | 5 |
 | ookami_ciro | 5 |
+| 夏葡 | 4 |
 | nicijyou_deyo | 4 |
 | aee_gnsn | 4 |
 | 鹿野 | 3 |
 | 飛鳥士郎 | 3 |
-| 夏葡 | 3 |
 | 乐格不是食物 | 3 |
 | HK | 3 |
 | 水菜子 | 2 |
