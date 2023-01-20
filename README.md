@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **433 images** on index database.
+At the moment, we hosted **434 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **433 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 261 |
+| Pixiv | 262 |
 | Twitter | 151 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 226 |
+| Boy `boy` | 227 |
 | Both `duo` | 35 |
 | Girl `girl` | 170 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -172,7 +172,7 @@ At the moment, we hosted **433 images** on index database.
 | Wactor Production | 2 |
 | Wang Chuan Fenghua Lu | 1 |
 | WILD ADAPTER | 1 |
-| Xenoblade 3 | 1 |
+| Xenoblade 3 | 2 |
 | Yowamushi Pedal | 1 |
 
 | Artist | Count |
@@ -417,6 +417,7 @@ At the moment, we hosted **433 images** on index database.
 | sakusya2honda | 1 |
 | saaal653 | 1 |
 | RynzFrancis | 1 |
+| rui | 1 |
 | Ron_kaneshiro | 1 |
 | Reneua | 1 |
 | raramuda_0101 | 1 |
