@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **424 images** on index database.
+At the moment, we hosted **425 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **424 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 253 |
+| Pixiv | 254 |
 | Twitter | 151 |
 | Weibo | 1 |
 
@@ -56,12 +56,12 @@ At the moment, we hosted **424 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 223 |
 | Both `duo` | 35 |
-| Girl `girl` | 164 |
+| Girl `girl` | 165 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 77 |
+| #N/A | 78 |
 | Ace no Dia | 1 |
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
@@ -185,6 +185,7 @@ At the moment, we hosted **424 images** on index database.
 | 鹿野 | 3 |
 | 飛鳥士郎 | 3 |
 | 乐格不是食物 | 3 |
+| ももこ | 3 |
 | TETUG | 3 |
 | HK | 3 |
 | Deyui | 3 |
@@ -193,7 +194,6 @@ At the moment, we hosted **424 images** on index database.
 | 星猫叶夢 | 2 |
 | んぬ | 2 |
 | らく | 2 |
-| ももこ | 2 |
 | ひなた | 2 |
 | ぱや88 | 2 |
 | にわ子 | 2 |
