@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **408 images** on index database.
+At the moment, we hosted **409 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,13 +48,13 @@ At the moment, we hosted **408 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 237 |
+| Pixiv | 238 |
 | Twitter | 151 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 218 |
+| Boy `boy` | 219 |
 | Both `duo` | 35 |
 | Girl `girl` | 153 |
 | Non-Binary/Unknown `nb` | 2 |
@@ -87,7 +87,7 @@ At the moment, we hosted **408 images** on index database.
 | Diabolik Lovers ~Haunted dark bridal~ | 1 |
 | Doki Doki Literature Club! | 2 |
 | DURARARA!! | 2 |
-| Ensemble Stars | 2 |
+| Ensemble Stars | 3 |
 | Filian (VTuber) | 3 |
 | Final Fantasy XIV | 11 |
 | Fire Emblem: Three Houses | 2 |
@@ -185,6 +185,7 @@ At the moment, we hosted **408 images** on index database.
 | 夏葡 | 3 |
 | 乐格不是食物 | 3 |
 | HK | 3 |
+| 水菜子 | 2 |
 | 星猫叶夢 | 2 |
 | んぬ | 2 |
 | らく | 2 |
@@ -244,7 +245,6 @@ At the moment, we hosted **408 images** on index database.
 | 玖珂つかさ | 1 |
 | 狐巳夜 | 1 |
 | 爽健 | 1 |
-| 水菜子 | 1 |
 | 歌貌 | 1 |
 | 横山ストッパ | 1 |
 | 柊 シン | 1 |
