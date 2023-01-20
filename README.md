@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **426 images** on index database.
+At the moment, we hosted **427 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **426 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 255 |
+| Pixiv | 256 |
 | Twitter | 151 |
 | Weibo | 1 |
 
@@ -56,7 +56,7 @@ At the moment, we hosted **426 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 223 |
 | Both `duo` | 35 |
-| Girl `girl` | 166 |
+| Girl `girl` | 167 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -90,7 +90,7 @@ At the moment, we hosted **426 images** on index database.
 | DURARARA!! | 2 |
 | Ensemble Stars | 3 |
 | Filian (VTuber) | 3 |
-| Final Fantasy XIV | 13 |
+| Final Fantasy XIV | 14 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
 | Genshin Impact | 50 |
@@ -178,9 +178,9 @@ At the moment, we hosted **426 images** on index database.
 | しろこ | 6 |
 | yawage | 6 |
 | 夏葡 | 5 |
+| ももこ | 5 |
 | しろなっぱ | 5 |
 | ookami_ciro | 5 |
-| ももこ | 4 |
 | nicijyou_deyo | 4 |
 | aee_gnsn | 4 |
 | 鹿野 | 3 |
