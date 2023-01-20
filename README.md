@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **421 images** on index database.
+At the moment, we hosted **422 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **421 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 250 |
+| Pixiv | 251 |
 | Twitter | 151 |
 | Weibo | 1 |
 
@@ -56,12 +56,12 @@ At the moment, we hosted **421 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 223 |
 | Both `duo` | 35 |
-| Girl `girl` | 161 |
+| Girl `girl` | 162 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 75 |
+| #N/A | 76 |
 | Ace no Dia | 1 |
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
@@ -210,6 +210,7 @@ At the moment, we hosted **421 images** on index database.
 | nakanoart | 2 |
 | Milk_Tea_1993 | 2 |
 | mibu820 | 2 |
+| Mauve | 2 |
 | makkusuoko | 2 |
 | iron海濑 | 2 |
 | immr | 2 |
@@ -447,7 +448,6 @@ At the moment, we hosted **421 images** on index database.
 | MG42CaT-K1ng | 1 |
 | mfmf_ktn_031 | 1 |
 | melrw22 | 1 |
-| Mauve | 1 |
 | LUZZI | 1 |
 | Lpip | 1 |
 | ligmki8 | 1 |
