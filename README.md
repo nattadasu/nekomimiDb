@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **427 images** on index database.
+At the moment, we hosted **428 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **427 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 256 |
+| Pixiv | 257 |
 | Twitter | 151 |
 | Weibo | 1 |
 
@@ -56,7 +56,7 @@ At the moment, we hosted **427 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 223 |
 | Both `duo` | 35 |
-| Girl `girl` | 167 |
+| Girl `girl` | 168 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
@@ -108,6 +108,7 @@ At the moment, we hosted **427 images** on index database.
 | Inazuma Eleven | 1 |
 | Jujutsu Kaisen | 3 |
 | Kaguya Luna (VTuber) | 1 |
+| Kaguya-sama wa Kokusaretai | 1 |
 | Kanda Miu (VTuber) | 1 |
 | Kantai Collection | 2 |
 | KILL la KILL | 1 |
@@ -379,6 +380,7 @@ At the moment, we hosted **427 images** on index database.
 | tricky | 1 |
 | totemonemuuui | 1 |
 | toshio | 1 |
+| torino | 1 |
 | TofuDofu | 1 |
 | To___e | 1 |
 | Tii_san678 | 1 |
