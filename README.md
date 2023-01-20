@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **416 images** on index database.
+At the moment, we hosted **417 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **416 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 245 |
+| Pixiv | 246 |
 | Twitter | 151 |
 | Weibo | 1 |
 
@@ -56,13 +56,14 @@ At the moment, we hosted **416 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 221 |
 | Both `duo` | 35 |
-| Girl `girl` | 158 |
+| Girl `girl` | 159 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
 | #N/A | 73 |
 | Ace no Dia | 1 |
+| Amatsuka Uto (VTuber) | 1 |
 | Animal Crossing | 1 |
 | aoppella | 1 |
 | Arknights | 17 |
@@ -481,6 +482,7 @@ At the moment, we hosted **416 images** on index database.
 | Frost_002 | 1 |
 | e武器 | 1 |
 | Dimas | 1 |
+| Deyui | 1 |
 | Deadnooodles | 1 |
 | Cooltg2 | 1 |
 | con_potata | 1 |
