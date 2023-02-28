@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **474 images** on index database.
+At the moment, we hosted **475 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,13 +50,13 @@ At the moment, we hosted **474 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 282 |
+| Pixiv | 283 |
 | Twitter | 169 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 244 |
+| Boy `boy` | 245 |
 | Both `duo` | 39 |
 | Girl `girl` | 187 |
 | Non-Binary/Unknown `nb` | 4 |
@@ -109,7 +109,7 @@ At the moment, we hosted **474 images** on index database.
 | Hololive | 26 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | iDOLM@STER Cinderella Girls | 2 |
-| iDOLM@STER SideM | 1 |
+| iDOLM@STER SideM | 2 |
 | Inazuma Eleven | 1 |
 | Jujutsu Kaisen | 3 |
 | Kaguya Luna (VTuber) | 1 |
@@ -376,6 +376,7 @@ At the moment, we hosted **474 images** on index database.
 | アリサキ | 1 |
 | あまね | 1 |
 | あずやん | 1 |
+| あさP | 1 |
 | あかこ | 1 |
 | 지우개 | 1 |
 | 서키 | 1 |
