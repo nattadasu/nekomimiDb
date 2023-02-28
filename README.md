@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **476 images** on index database.
+At the moment, we hosted **477 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -51,12 +51,12 @@ At the moment, we hosted **476 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 283 |
-| Twitter | 170 |
+| Twitter | 171 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 245 |
+| Boy `boy` | 246 |
 | Both `duo` | 39 |
 | Girl `girl` | 188 |
 | Non-Binary/Unknown `nb` | 4 |
@@ -163,7 +163,7 @@ At the moment, we hosted **476 images** on index database.
 | Strike Witches | 1 |
 | Super Danganronpa 2 | 1 |
 | Sword Art Online | 1 |
-| Tears of Themis | 1 |
+| Tears of Themis | 2 |
 | The Legend of Heroes: Trails from Zero | 1 |
 | The Umbrella Academy | 1 |
 | Toaru Majutsu no Index | 2 |
@@ -224,6 +224,7 @@ At the moment, we hosted **476 images** on index database.
 | nakanoart | 2 |
 | Milk_Tea_1993 | 2 |
 | mibu820 | 2 |
+| melrw22 | 2 |
 | Mauve | 2 |
 | makkusuoko | 2 |
 | iron海濑 | 2 |
@@ -489,7 +490,6 @@ At the moment, we hosted **476 images** on index database.
 | mgong520 | 1 |
 | MG42CaT-K1ng | 1 |
 | mfmf_ktn_031 | 1 |
-| melrw22 | 1 |
 | mecyo | 1 |
 | LUZZI | 1 |
 | Lpip | 1 |
