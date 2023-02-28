@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **451 images** on index database.
+At the moment, we hosted **452 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,7 +50,7 @@ At the moment, we hosted **451 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 272 |
+| Pixiv | 273 |
 | Twitter | 156 |
 | Weibo | 1 |
 
@@ -59,7 +59,7 @@ At the moment, we hosted **451 images** on index database.
 |  | 1 |
 | Boy `boy` | 237 |
 | Both `duo` | 35 |
-| Girl `girl` | 174 |
+| Girl `girl` | 175 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -172,7 +172,7 @@ At the moment, we hosted **451 images** on index database.
 | twitter | 1 |
 | Uta no☆prince-sama♪ | 3 |
 | Varium | 1 |
-| VOCALOID | 37 |
+| VOCALOID | 38 |
 | VShojo | 1 |
 | Vyugen | 2 |
 | Wactor Production | 2 |
@@ -338,6 +338,7 @@ At the moment, we hosted **451 images** on index database.
 | なおすけ | 1 |
 | ちゃんぬ | 1 |
 | ちた | 1 |
+| ﾀnanuki | 1 |
 | そぷら | 1 |
 | その① | 1 |
 | せいや | 1 |
