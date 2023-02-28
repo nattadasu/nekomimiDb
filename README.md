@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **446 images** on index database.
+At the moment, we hosted **447 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,7 +50,7 @@ At the moment, we hosted **446 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 268 |
+| Pixiv | 269 |
 | Twitter | 155 |
 | Weibo | 1 |
 
@@ -59,7 +59,7 @@ At the moment, we hosted **446 images** on index database.
 |  | 1 |
 | Boy `boy` | 236 |
 | Both `duo` | 35 |
-| Girl `girl` | 170 |
+| Girl `girl` | 171 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -137,6 +137,7 @@ At the moment, we hosted **446 images** on index database.
 | Nichijou | 1 |
 | Nijisanji | 23 |
 | NIKKE: The Goddess Of Victory | 1 |
+| Non Non Biyori | 1 |
 | Nyan Koi! | 1 |
 | Omori | 3 |
 | Ookami Ciro (VTuber) | 1 |
@@ -249,6 +250,7 @@ At the moment, we hosted **446 images** on index database.
 | 碧井るか | 1 |
 | 石田 | 1 |
 | 直子 | 1 |
+| 白鮫 | 1 |
 | 白木しろ | 1 |
 | 白昼 | 1 |
 | 白とら | 1 |
