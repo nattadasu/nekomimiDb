@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **452 images** on index database.
+At the moment, we hosted **453 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,7 +50,7 @@ At the moment, we hosted **452 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 273 |
+| Pixiv | 274 |
 | Twitter | 156 |
 | Weibo | 1 |
 
@@ -59,7 +59,7 @@ At the moment, we hosted **452 images** on index database.
 |  | 1 |
 | Boy `boy` | 237 |
 | Both `duo` | 35 |
-| Girl `girl` | 175 |
+| Girl `girl` | 176 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -76,7 +76,7 @@ At the moment, we hosted **452 images** on index database.
 | Azur Lane | 2 |
 | Bilshana Senki | 1 |
 | Black Wolves Saga | 2 |
-| Blue Archive | 10 |
+| Blue Archive | 11 |
 | Bocchi the Rock! | 3 |
 | Boku no Hero Academia | 3 |
 | Bungou Stray Dogs | 1 |
@@ -410,6 +410,7 @@ At the moment, we hosted **452 images** on index database.
 | TabrisMinto | 1 |
 | t0petar0 | 1 |
 | szainx | 1 |
+| SYSEN | 1 |
 | Sweet_meloday | 1 |
 | SuYamada | 1 |
 | SPOONkoros | 1 |
