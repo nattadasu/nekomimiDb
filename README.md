@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **441 images** on index database.
+At the moment, we hosted **444 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,20 +49,20 @@ At the moment, we hosted **441 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 266 |
-| Twitter | 153 |
+| Pixiv | 268 |
+| Twitter | 154 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 233 |
+| Boy `boy` | 236 |
 | Both `duo` | 35 |
 | Girl `girl` | 170 |
 | Non-Binary/Unknown `nb` | 3 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 84 |
+| #N/A | 85 |
 | Ace no Dia | 1 |
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
@@ -77,6 +77,7 @@ At the moment, we hosted **441 images** on index database.
 | Blue Archive | 10 |
 | Bocchi the Rock! | 3 |
 | Boku no Hero Academia | 2 |
+| Bungou Stray Dogs | 1 |
 | Cardfight!! Vanguard | 1 |
 | Case Closed (Detective Conan) | 2 |
 | Chainsaw Man | 5 |
@@ -132,7 +133,7 @@ At the moment, we hosted **441 images** on index database.
 | Nekoha Shizuku | 1 |
 | Nekomiya Hinata (VTuber) | 2 |
 | Nichijou | 1 |
-| Nijisanji | 21 |
+| Nijisanji | 22 |
 | NIKKE: The Goddess Of Victory | 1 |
 | Nyan Koi! | 1 |
 | Omori | 3 |
@@ -258,6 +259,7 @@ At the moment, we hosted **441 images** on index database.
 | 爽健 | 1 |
 | 歌貌 | 1 |
 | 横山ストッパ | 1 |
+| 梅之シイ | 1 |
 | 柊 シン | 1 |
 | 枫彧君 | 1 |
 | 朔 | 1 |
@@ -355,6 +357,7 @@ At the moment, we hosted **441 images** on index database.
 | イチリ | 1 |
 | いつつせ | 1 |
 | いさみ 澪 | 1 |
+| いおりそ | 1 |
 | アリサキ | 1 |
 | あまね | 1 |
 | あずやん | 1 |
@@ -454,6 +457,7 @@ At the moment, we hosted **441 images** on index database.
 | mm_45_v | 1 |
 | mk_0810_mk | 1 |
 | mizuyo_ | 1 |
+| Mizumoe_ | 1 |
 | mintchelle | 1 |
 | mgong520 | 1 |
 | MG42CaT-K1ng | 1 |
