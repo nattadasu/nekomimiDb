@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **464 images** on index database.
+At the moment, we hosted **465 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -51,7 +51,7 @@ At the moment, we hosted **464 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 278 |
-| Twitter | 163 |
+| Twitter | 164 |
 | Weibo | 1 |
 
 | Gender | Count |
@@ -59,7 +59,7 @@ At the moment, we hosted **464 images** on index database.
 |  | 3 |
 | Boy `boy` | 240 |
 | Both `duo` | 35 |
-| Girl `girl` | 182 |
+| Girl `girl` | 183 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -169,7 +169,7 @@ At the moment, we hosted **464 images** on index database.
 | The Umbrella Academy | 1 |
 | Tokimeki Restaurant | 1 |
 | Tokyo Ghoul | 2 |
-| Touhou | 5 |
+| Touhou | 6 |
 | Twisted Wonderland | 2 |
 | twitter | 1 |
 | Uta no☆prince-sama♪ | 3 |
@@ -462,6 +462,7 @@ At the moment, we hosted **464 images** on index database.
 | Nika○ | 1 |
 | nibiiro_SZK000 | 1 |
 | Nekomi_ch | 1 |
+| neco_no_13 | 1 |
 | nebusoku2000 | 1 |
 | ncr_sora | 1 |
 | nattuiuriowari | 1 |
