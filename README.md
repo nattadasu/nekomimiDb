@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **458 images** on index database.
+At the moment, we hosted **459 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,7 +50,7 @@ At the moment, we hosted **458 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 275 |
+| Pixiv | 276 |
 | Twitter | 160 |
 | Weibo | 1 |
 
@@ -59,7 +59,7 @@ At the moment, we hosted **458 images** on index database.
 |  | 2 |
 | Boy `boy` | 238 |
 | Both `duo` | 35 |
-| Girl `girl` | 179 |
+| Girl `girl` | 180 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -69,7 +69,7 @@ At the moment, we hosted **458 images** on index database.
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
 | aoppella | 1 |
-| Arknights | 17 |
+| Arknights | 18 |
 | Assault Lily | 1 |
 | Attack on Titan | 2 |
 | Axis Powers: Hetalia | 3 |
@@ -361,6 +361,7 @@ At the moment, we hosted **458 images** on index database.
 | おうみおみ | 1 |
 | おいもとじろう | 1 |
 | えだまめこ | 1 |
+| ウェルト | 1 |
 | うき² | 1 |
 | うーる | 1 |
 | イチリ | 1 |
