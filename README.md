@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **483 images** on index database.
+At the moment, we hosted **484 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,18 +47,17 @@ At the moment, we hosted **483 images** on index database.
 | Fc2 | 1 |
 | Hoyolab | 1 |
 | Ibispaint | 1 |
-| Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 285 |
-| Twitter | 175 |
+| Twitter | 177 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 246 |
 | Both `duo` | 39 |
-| Girl `girl` | 194 |
+| Girl `girl` | 195 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -116,6 +115,7 @@ At the moment, we hosted **483 images** on index database.
 | Kaguya-sama wa Kokusaretai | 1 |
 | Kanda Miu (VTuber) | 1 |
 | Kantai Collection | 2 |
+| Karneval | 1 |
 | KILL la KILL | 1 |
 | Kimetsu no Yaiba | 2 |
 | KMNZ | 1 |
@@ -165,7 +165,7 @@ At the moment, we hosted **483 images** on index database.
 | Strike Witches | 1 |
 | Super Danganronpa 2 | 1 |
 | Sword Art Online | 1 |
-| Tears of Themis | 3 |
+| Tears of Themis | 4 |
 | The Legend of Heroes: Trails from Zero | 1 |
 | The Umbrella Academy | 1 |
 | Toaru Majutsu no Index | 2 |
@@ -173,7 +173,6 @@ At the moment, we hosted **483 images** on index database.
 | Tokyo Ghoul | 2 |
 | Touhou | 6 |
 | Twisted Wonderland | 2 |
-| twitter | 1 |
 | Uta no☆prince-sama♪ | 3 |
 | Varium | 1 |
 | VOCALOID | 40 |
@@ -491,6 +490,7 @@ At the moment, we hosted **483 images** on index database.
 | mk_0810_mk | 1 |
 | mizuyo_ | 1 |
 | Mizumoe_ | 1 |
+| mirin_pengin | 1 |
 | mintchelle | 1 |
 | mgong520 | 1 |
 | MG42CaT-K1ng | 1 |
