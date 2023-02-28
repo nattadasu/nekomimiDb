@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **437 images** on index database.
+At the moment, we hosted **438 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,20 +49,20 @@ At the moment, we hosted **437 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 263 |
+| Pixiv | 264 |
 | Twitter | 152 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 230 |
+| Boy `boy` | 231 |
 | Both `duo` | 35 |
 | Girl `girl` | 170 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 81 |
+| #N/A | 82 |
 | Ace no Dia | 1 |
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
@@ -198,6 +198,7 @@ At the moment, we hosted **437 images** on index database.
 | 星猫叶夢 | 2 |
 | んぬ | 2 |
 | らく | 2 |
+| もん | 2 |
 | ひなた | 2 |
 | ぱや88 | 2 |
 | にわ子 | 2 |
@@ -292,7 +293,6 @@ At the moment, we hosted **437 images** on index database.
 | ユータ | 1 |
 | やまもも | 1 |
 | やちぇ | 1 |
-| もん | 1 |
 | ももも | 1 |
 | メーガー | 1 |
 | めばえ | 1 |
