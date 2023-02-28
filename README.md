@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **477 images** on index database.
+At the moment, we hosted **478 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,7 +50,7 @@ At the moment, we hosted **477 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 283 |
+| Pixiv | 284 |
 | Twitter | 171 |
 | Weibo | 1 |
 
@@ -58,7 +58,7 @@ At the moment, we hosted **477 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 246 |
 | Both `duo` | 39 |
-| Girl `girl` | 188 |
+| Girl `girl` | 189 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -163,7 +163,7 @@ At the moment, we hosted **477 images** on index database.
 | Strike Witches | 1 |
 | Super Danganronpa 2 | 1 |
 | Sword Art Online | 1 |
-| Tears of Themis | 2 |
+| Tears of Themis | 3 |
 | The Legend of Heroes: Trails from Zero | 1 |
 | The Umbrella Academy | 1 |
 | Toaru Majutsu no Index | 2 |
@@ -267,6 +267,7 @@ At the moment, we hosted **477 images** on index database.
 | 玖珂つかさ | 1 |
 | 狐巳夜 | 1 |
 | 爽健 | 1 |
+| 氷 春子 | 1 |
 | 歌貌 | 1 |
 | 横山ストッパ | 1 |
 | 梅之シイ | 1 |
