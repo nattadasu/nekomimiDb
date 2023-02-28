@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **481 images** on index database.
+At the moment, we hosted **482 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -51,14 +51,14 @@ At the moment, we hosted **481 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 285 |
-| Twitter | 173 |
+| Twitter | 174 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 246 |
 | Both `duo` | 39 |
-| Girl `girl` | 192 |
+| Girl `girl` | 193 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -126,6 +126,7 @@ At the moment, we hosted **481 images** on index database.
 | Luz (Singer) | 1 |
 | Mafumafu (Singer) | 12 |
 | MAGI: The Labyrinth of Magic | 1 |
+| Mahou Shoujo Madoka☆Magica | 1 |
 | Mairimashita! Iruma-kun | 1 |
 | Mikeneko (VTuber) | 4 |
 | Miraculous Ladybug | 2 |
@@ -494,6 +495,7 @@ At the moment, we hosted **481 images** on index database.
 | mgong520 | 1 |
 | MG42CaT-K1ng | 1 |
 | mfmf_ktn_031 | 1 |
+| meggut2521 | 1 |
 | mecyo | 1 |
 | LUZZI | 1 |
 | Lpip | 1 |
