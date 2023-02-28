@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **471 images** on index database.
+At the moment, we hosted **472 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,15 +50,14 @@ At the moment, we hosted **471 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 281 |
+| Pixiv | 282 |
 | Twitter | 167 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-|  | 3 |
 | Boy `boy` | 242 |
-| Both `duo` | 35 |
+| Both `duo` | 39 |
 | Girl `girl` | 187 |
 | Non-Binary/Unknown `nb` | 4 |
 
@@ -147,7 +146,7 @@ At the moment, we hosted **471 images** on index database.
 | Pixiv Fantasia | 1 |
 | Pokémon | 1 |
 | Princess Connect! | 3 |
-| Project Sekai Colorful Stage! feat. Hatsune Miku | 7 |
+| Project Sekai Colorful Stage! feat. Hatsune Miku | 8 |
 | Puyo Puyo | 1 |
 | Puyopuyo | 1 |
 | Ragnarok Online | 6 |
@@ -242,6 +241,7 @@ At the moment, we hosted **471 images** on index database.
 | 遥川 遊 | 1 |
 | 跨越千夜 | 1 |
 | 赤マフラー大和 | 1 |
+| 貂猫 | 1 |
 | 豆芽菜 | 1 |
 | 茶乃ひより | 1 |
 | 花森苺 | 1 |
