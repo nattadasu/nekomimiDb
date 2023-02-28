@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **462 images** on index database.
+At the moment, we hosted **463 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -51,13 +51,13 @@ At the moment, we hosted **462 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 278 |
-| Twitter | 161 |
+| Twitter | 162 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 |  | 3 |
-| Boy `boy` | 239 |
+| Boy `boy` | 240 |
 | Both `duo` | 35 |
 | Girl `girl` | 181 |
 | Non-Binary/Unknown `nb` | 4 |
@@ -102,6 +102,7 @@ At the moment, we hosted **462 images** on index database.
 | Gintama | 1 |
 | Girls Frontline | 1 |
 | Granblue Fantasy | 1 |
+| Guilty Gear | 1 |
 | Guns Girl - School DayZ | 1 |
 | Haikyuu!! | 2 |
 | Heart no Kuni no Alice | 1 |
@@ -488,6 +489,7 @@ At the moment, we hosted **462 images** on index database.
 | ligmki8 | 1 |
 | LBF2209 | 1 |
 | la__pioggia | 1 |
+| ky4274 | 1 |
 | kurakichi36 | 1 |
 | kou_hiyoyo | 1 |
 | Kodama_sm | 1 |
