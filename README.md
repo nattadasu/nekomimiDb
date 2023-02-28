@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **445 images** on index database.
+At the moment, we hosted **446 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,6 +47,7 @@ At the moment, we hosted **445 images** on index database.
 | Fc2 | 1 |
 | Hoyolab | 1 |
 | Ibispaint | 1 |
+| Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 268 |
@@ -55,6 +56,7 @@ At the moment, we hosted **445 images** on index database.
 
 | Gender | Count |
 | -----: | :---- |
+|  | 1 |
 | Boy `boy` | 236 |
 | Both `duo` | 35 |
 | Girl `girl` | 170 |
@@ -133,7 +135,7 @@ At the moment, we hosted **445 images** on index database.
 | Nekoha Shizuku | 1 |
 | Nekomiya Hinata (VTuber) | 2 |
 | Nichijou | 1 |
-| Nijisanji | 22 |
+| Nijisanji | 23 |
 | NIKKE: The Goddess Of Victory | 1 |
 | Nyan Koi! | 1 |
 | Omori | 3 |
@@ -543,6 +545,7 @@ At the moment, we hosted **445 images** on index database.
 | 082_203 | 1 |
 | 00_gx4 | 1 |
 | 0_shusi_ | 1 |
+| 0_sakana_san | 1 |
 | --唯度-- | 1 |
 | _从前有颗星 | 1 |
 | _Rtms__ | 1 |
