@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **456 images** on index database.
+At the moment, we hosted **457 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -51,12 +51,12 @@ At the moment, we hosted **456 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 275 |
-| Twitter | 158 |
+| Twitter | 159 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-|  | 1 |
+|  | 2 |
 | Boy `boy` | 238 |
 | Both `duo` | 35 |
 | Girl `girl` | 178 |
@@ -139,7 +139,7 @@ At the moment, we hosted **456 images** on index database.
 | NIKKE: The Goddess Of Victory | 1 |
 | Non Non Biyori | 1 |
 | Nyan Koi! | 1 |
-| Omori | 3 |
+| Omori | 4 |
 | Ookami Ciro (VTuber) | 1 |
 | Otozuki Teru (VTuber) | 1 |
 | Paradox Live | 1 |
@@ -213,6 +213,7 @@ At the moment, we hosted **456 images** on index database.
 | くろ | 2 |
 | ぎんじろ。 | 2 |
 | Yampa | 2 |
+| shio_0585 | 2 |
 | shimianaya | 2 |
 | seuga | 2 |
 | orang_333 | 2 |
@@ -420,7 +421,6 @@ At the moment, we hosted **456 images** on index database.
 | sllgiko_ | 1 |
 | sinsia__0928 | 1 |
 | shouu-kun | 1 |
-| shio_0585 | 1 |
 | shinyo_yukino | 1 |
 | Seseren | 1 |
 | Sebby.sama | 1 |
