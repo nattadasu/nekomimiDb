@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **480 images** on index database.
+At the moment, we hosted **481 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -51,14 +51,14 @@ At the moment, we hosted **480 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 285 |
-| Twitter | 172 |
+| Twitter | 173 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 246 |
 | Both `duo` | 39 |
-| Girl `girl` | 191 |
+| Girl `girl` | 192 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -156,6 +156,7 @@ At the moment, we hosted **480 images** on index database.
 | Sekaiichi Hatsukoi | 1 |
 | Sen'yuu | 1 |
 | Shadows House | 1 |
+| Shoujo Kageki Revue Starlight | 1 |
 | Shuuen no Shiori Project | 1 |
 | SK∞ | 1 |
 | SOUL EATER | 1 |
@@ -508,6 +509,7 @@ At the moment, we hosted **480 images** on index database.
 | KINe | 1 |
 | kinagi0920 | 1 |
 | kazzzuna | 1 |
+| karineko1811 | 1 |
 | kanora | 1 |
 | Kamille | 1 |
 | kami_shun0505 | 1 |
