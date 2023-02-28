@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **469 images** on index database.
+At the moment, we hosted **470 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -51,13 +51,13 @@ At the moment, we hosted **469 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 280 |
-| Twitter | 166 |
+| Twitter | 167 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 |  | 3 |
-| Boy `boy` | 241 |
+| Boy `boy` | 242 |
 | Both `duo` | 35 |
 | Girl `girl` | 186 |
 | Non-Binary/Unknown `nb` | 4 |
@@ -97,7 +97,7 @@ At the moment, we hosted **469 images** on index database.
 | Final Fantasy XIV | 14 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
-| Genshin Impact | 54 |
+| Genshin Impact | 55 |
 | Ginjiro (VTuber) | 2 |
 | Gintama | 1 |
 | Girls Frontline | 1 |
@@ -198,6 +198,7 @@ At the moment, we hosted **469 images** on index database.
 | 飛鳥士郎 | 3 |
 | 乐格不是食物 | 3 |
 | TETUG | 3 |
+| shimianaya | 3 |
 | HK | 3 |
 | Deyui | 3 |
 | asuka5150_ | 3 |
@@ -217,7 +218,6 @@ At the moment, we hosted **469 images** on index database.
 | ぎんじろ。 | 2 |
 | Yampa | 2 |
 | shio_0585 | 2 |
-| shimianaya | 2 |
 | seuga | 2 |
 | orang_333 | 2 |
 | NukoJi_ | 2 |
