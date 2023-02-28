@@ -39,29 +39,30 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **434 images** on index database.
+At the moment, we hosted **436 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
 | Deviantart | 5 |
 | Fc2 | 1 |
+| Hoyolab | 1 |
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 262 |
-| Twitter | 151 |
+| Twitter | 152 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 227 |
+| Boy `boy` | 229 |
 | Both `duo` | 35 |
 | Girl `girl` | 170 |
 | Non-Binary/Unknown `nb` | 2 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 79 |
+| #N/A | 80 |
 | Ace no Dia | 1 |
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
@@ -93,7 +94,7 @@ At the moment, we hosted **434 images** on index database.
 | Final Fantasy XIV | 14 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
-| Genshin Impact | 50 |
+| Genshin Impact | 51 |
 | Ginjiro (VTuber) | 2 |
 | Gintama | 1 |
 | Girls Frontline | 1 |
@@ -191,6 +192,7 @@ At the moment, we hosted **434 images** on index database.
 | TETUG | 3 |
 | HK | 3 |
 | Deyui | 3 |
+| asuka5150_ | 3 |
 | 雷夜 | 2 |
 | 水菜子 | 2 |
 | 星猫叶夢 | 2 |
@@ -219,7 +221,6 @@ At the moment, we hosted **434 images** on index database.
 | immr | 2 |
 | ikuri | 2 |
 | Horn/wood | 2 |
-| asuka5150_ | 2 |
 | Akemono | 2 |
 | _yuulk | 2 |
 | 黒常 | 1 |
@@ -452,6 +453,7 @@ At the moment, we hosted **434 images** on index database.
 | mm_45_v | 1 |
 | mk_0810_mk | 1 |
 | mizuyo_ | 1 |
+| mintchelle | 1 |
 | mgong520 | 1 |
 | MG42CaT-K1ng | 1 |
 | mfmf_ktn_031 | 1 |
