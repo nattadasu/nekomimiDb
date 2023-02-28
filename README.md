@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **466 images** on index database.
+At the moment, we hosted **467 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,7 +50,7 @@ At the moment, we hosted **466 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 278 |
+| Pixiv | 279 |
 | Twitter | 165 |
 | Weibo | 1 |
 
@@ -59,7 +59,7 @@ At the moment, we hosted **466 images** on index database.
 |  | 3 |
 | Boy `boy` | 240 |
 | Both `duo` | 35 |
-| Girl `girl` | 184 |
+| Girl `girl` | 185 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -77,7 +77,7 @@ At the moment, we hosted **466 images** on index database.
 | Bilshana Senki | 1 |
 | Black Wolves Saga | 2 |
 | Blue Archive | 11 |
-| Bocchi the Rock! | 4 |
+| Bocchi the Rock! | 5 |
 | Boku no Hero Academia | 3 |
 | Bungou Stray Dogs | 1 |
 | Cardfight!! Vanguard | 1 |
@@ -527,6 +527,7 @@ At the moment, we hosted **466 images** on index database.
 | fumochidesu | 1 |
 | Frost_002 | 1 |
 | e武器 | 1 |
+| E20 | 1 |
 | Dimas | 1 |
 | Deadnooodles | 1 |
 | Cooltg2 | 1 |
