@@ -50,16 +50,16 @@ At the moment, we hosted **449 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 271 |
-| Twitter | 155 |
+| Pixiv | 270 |
+| Twitter | 156 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 |  | 1 |
-| Boy `boy` | 236 |
+| Boy `boy` | 237 |
 | Both `duo` | 35 |
-| Girl `girl` | 173 |
+| Girl `girl` | 172 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -78,7 +78,7 @@ At the moment, we hosted **449 images** on index database.
 | Black Wolves Saga | 2 |
 | Blue Archive | 10 |
 | Bocchi the Rock! | 3 |
-| Boku no Hero Academia | 2 |
+| Boku no Hero Academia | 3 |
 | Bungou Stray Dogs | 1 |
 | Cardfight!! Vanguard | 1 |
 | Case Closed (Detective Conan) | 2 |
@@ -112,7 +112,6 @@ At the moment, we hosted **449 images** on index database.
 | iDOLM@STER SideM | 1 |
 | Inazuma Eleven | 1 |
 | Jujutsu Kaisen | 3 |
-| K-project | 1 |
 | Kaguya Luna (VTuber) | 1 |
 | Kaguya-sama wa Kokusaretai | 1 |
 | Kanda Miu (VTuber) | 1 |
@@ -438,6 +437,7 @@ At the moment, we hosted **449 images** on index database.
 | PrimCOCO | 1 |
 | ppp_usagi_ | 1 |
 | polypuff | 1 |
+| pochitaart | 1 |
 | pnyo_emc | 1 |
 | pisuke_wan | 1 |
 | pinch_nes | 1 |
@@ -458,7 +458,6 @@ At the moment, we hosted **449 images** on index database.
 | Naglus | 1 |
 | mstarsgasuki | 1 |
 | moonclover | 1 |
-| monochro108 | 1 |
 | momoshiki | 1 |
 | momiage_40 | 1 |
 | mochinue | 1 |
