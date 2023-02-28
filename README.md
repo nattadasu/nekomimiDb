@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **440 images** on index database.
+At the moment, we hosted **441 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,7 +50,7 @@ At the moment, we hosted **440 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 266 |
-| Twitter | 152 |
+| Twitter | 153 |
 | Weibo | 1 |
 
 | Gender | Count |
@@ -58,7 +58,7 @@ At the moment, we hosted **440 images** on index database.
 | Boy `boy` | 233 |
 | Both `duo` | 35 |
 | Girl `girl` | 170 |
-| Non-Binary/Unknown `nb` | 2 |
+| Non-Binary/Unknown `nb` | 3 |
 
 | Source | Count |
 | -----: | :---- |
@@ -145,7 +145,7 @@ At the moment, we hosted **440 images** on index database.
 | Project Sekai Colorful Stage! feat. Hatsune Miku | 6 |
 | Puyopuyo | 1 |
 | Ragnarok Online | 6 |
-| Re:Zero kara Hajimeru Isekai Seikatsu | 2 |
+| Re:Zero kara Hajimeru Isekai Seikatsu | 3 |
 | Red: Pride of Eden | 1 |
 | RIDDLE JOKER | 1 |
 | Sekaiichi Hatsukoi | 1 |
@@ -477,6 +477,7 @@ At the moment, we hosted **440 images** on index database.
 | kakusatou_3333 | 1 |
 | KAGAYA∞ | 1 |
 | kaco0001 | 1 |
+| kaaaraaage | 1 |
 | jisoku39km | 1 |
 | Itsuka Eranville | 1 |
 | InkAkane | 1 |
