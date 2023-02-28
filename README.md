@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **459 images** on index database.
+At the moment, we hosted **460 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,13 +50,13 @@ At the moment, we hosted **459 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 276 |
+| Pixiv | 277 |
 | Twitter | 160 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-|  | 2 |
+|  | 3 |
 | Boy `boy` | 238 |
 | Both `duo` | 35 |
 | Girl `girl` | 180 |
@@ -117,7 +117,7 @@ At the moment, we hosted **459 images** on index database.
 | Kanda Miu (VTuber) | 1 |
 | Kantai Collection | 2 |
 | KILL la KILL | 1 |
-| Kimetsu no Yaiba | 1 |
+| Kimetsu no Yaiba | 2 |
 | KMNZ | 1 |
 | Kuroko no Basuke | 3 |
 | Lamento | 1 |
@@ -478,6 +478,7 @@ At the moment, we hosted **459 images** on index database.
 | MG42CaT-K1ng | 1 |
 | mfmf_ktn_031 | 1 |
 | melrw22 | 1 |
+| mecyo | 1 |
 | LUZZI | 1 |
 | Lpip | 1 |
 | Liyaku | 1 |
