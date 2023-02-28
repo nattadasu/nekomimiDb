@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **465 images** on index database.
+At the moment, we hosted **466 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -51,7 +51,7 @@ At the moment, we hosted **465 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 278 |
-| Twitter | 164 |
+| Twitter | 165 |
 | Weibo | 1 |
 
 | Gender | Count |
@@ -59,7 +59,7 @@ At the moment, we hosted **465 images** on index database.
 |  | 3 |
 | Boy `boy` | 240 |
 | Both `duo` | 35 |
-| Girl `girl` | 183 |
+| Girl `girl` | 184 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -167,6 +167,7 @@ At the moment, we hosted **465 images** on index database.
 | Tears of Themis | 1 |
 | The Legend of Heroes: Trails from Zero | 1 |
 | The Umbrella Academy | 1 |
+| Toaru Majutsu no Index | 1 |
 | Tokimeki Restaurant | 1 |
 | Tokyo Ghoul | 2 |
 | Touhou | 6 |
@@ -385,6 +386,7 @@ At the moment, we hosted **465 images** on index database.
 | zaso_ | 1 |
 | yyynoro | 1 |
 | yuu_no_2 | 1 |
+| yonabe3596 | 1 |
 | yi_x_ing | 1 |
 | y0u0ri_ | 1 |
 | x11dF3 | 1 |
