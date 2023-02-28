@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **463 images** on index database.
+At the moment, we hosted **464 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -51,7 +51,7 @@ At the moment, we hosted **463 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 278 |
-| Twitter | 162 |
+| Twitter | 163 |
 | Weibo | 1 |
 
 | Gender | Count |
@@ -59,7 +59,7 @@ At the moment, we hosted **463 images** on index database.
 |  | 3 |
 | Boy `boy` | 240 |
 | Both `duo` | 35 |
-| Girl `girl` | 181 |
+| Girl `girl` | 182 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -174,7 +174,7 @@ At the moment, we hosted **463 images** on index database.
 | twitter | 1 |
 | Uta no☆prince-sama♪ | 3 |
 | Varium | 1 |
-| VOCALOID | 39 |
+| VOCALOID | 40 |
 | VShojo | 1 |
 | Vyugen | 2 |
 | Wactor Production | 2 |
@@ -507,6 +507,7 @@ At the moment, we hosted **463 images** on index database.
 | jisoku39km | 1 |
 | j7bge | 1 |
 | Itsuka Eranville | 1 |
+| irasutogakari | 1 |
 | InkAkane | 1 |
 | husa | 1 |
 | HongBsWs | 1 |
