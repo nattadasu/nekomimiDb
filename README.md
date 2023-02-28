@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **460 images** on index database.
+At the moment, we hosted **461 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,7 +50,7 @@ At the moment, we hosted **460 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 277 |
+| Pixiv | 278 |
 | Twitter | 160 |
 | Weibo | 1 |
 
@@ -59,7 +59,7 @@ At the moment, we hosted **460 images** on index database.
 |  | 3 |
 | Boy `boy` | 238 |
 | Both `duo` | 35 |
-| Girl `girl` | 180 |
+| Girl `girl` | 181 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -147,6 +147,7 @@ At the moment, we hosted **460 images** on index database.
 | Pokémon | 1 |
 | Princess Connect! | 3 |
 | Project Sekai Colorful Stage! feat. Hatsune Miku | 6 |
+| Puyo Puyo | 1 |
 | Puyopuyo | 1 |
 | Ragnarok Online | 6 |
 | Re:Zero kara Hajimeru Isekai Seikatsu | 3 |
@@ -334,6 +335,7 @@ At the moment, we hosted **460 images** on index database.
 | ねこぜ | 1 |
 | にゃんざい先生 | 1 |
 | にゃん | 1 |
+| なゆた/futaba | 1 |
 | なも | 1 |
 | なだち | 1 |
 | なおすけ | 1 |
