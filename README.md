@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **450 images** on index database.
+At the moment, we hosted **451 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,7 +50,7 @@ At the moment, we hosted **450 images** on index database.
 | Karneval | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 271 |
+| Pixiv | 272 |
 | Twitter | 156 |
 | Weibo | 1 |
 
@@ -59,7 +59,7 @@ At the moment, we hosted **450 images** on index database.
 |  | 1 |
 | Boy `boy` | 237 |
 | Both `duo` | 35 |
-| Girl `girl` | 173 |
+| Girl `girl` | 174 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -106,7 +106,7 @@ At the moment, we hosted **450 images** on index database.
 | Haikyuu!! | 2 |
 | Heart no Kuni no Alice | 1 |
 | Hellsing Ultimate | 1 |
-| Hololive | 24 |
+| Hololive | 25 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | iDOLM@STER Cinderella Girls | 2 |
 | iDOLM@STER SideM | 1 |
@@ -474,6 +474,7 @@ At the moment, we hosted **450 images** on index database.
 | melrw22 | 1 |
 | LUZZI | 1 |
 | Lpip | 1 |
+| Liyaku | 1 |
 | ligmki8 | 1 |
 | LBF2209 | 1 |
 | la__pioggia | 1 |
