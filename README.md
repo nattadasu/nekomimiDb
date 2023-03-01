@@ -39,11 +39,11 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **486 images** on index database.
+At the moment, we hosted **487 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
-| Deviantart | 5 |
+| Deviantart | 6 |
 | Fc2 | 1 |
 | Hoyolab | 1 |
 | Ibispaint | 1 |
@@ -55,7 +55,7 @@ At the moment, we hosted **486 images** on index database.
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 246 |
+| Boy `boy` | 247 |
 | Both `duo` | 39 |
 | Girl `girl` | 197 |
 | Non-Binary/Unknown `nb` | 4 |
@@ -95,7 +95,7 @@ At the moment, we hosted **486 images** on index database.
 | Final Fantasy XIV | 14 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
-| Genshin Impact | 58 |
+| Genshin Impact | 59 |
 | Ginjiro (VTuber) | 2 |
 | Gintama | 1 |
 | Girls Frontline | 1 |
@@ -492,6 +492,7 @@ At the moment, we hosted **486 images** on index database.
 | mk_0810_mk | 1 |
 | mizuyo_ | 1 |
 | Mizumoe_ | 1 |
+| miuumiu | 1 |
 | mirin_pengin | 1 |
 | mintchelle | 1 |
 | mgong520 | 1 |
