@@ -39,11 +39,11 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **487 images** on index database.
+At the moment, we hosted **488 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
-| Deviantart | 6 |
+| Deviantart | 7 |
 | Fc2 | 1 |
 | Hoyolab | 1 |
 | Ibispaint | 1 |
@@ -55,7 +55,7 @@ At the moment, we hosted **487 images** on index database.
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 247 |
+| Boy `boy` | 248 |
 | Both `duo` | 39 |
 | Girl `girl` | 197 |
 | Non-Binary/Unknown `nb` | 4 |
@@ -125,6 +125,7 @@ At the moment, we hosted **487 images** on index database.
 | Love Live! Sunshine!! | 1 |
 | Luz (Singer) | 1 |
 | Mafumafu (Singer) | 12 |
+| Mafumafu (Utaite) | 1 |
 | MAGI: The Labyrinth of Magic | 1 |
 | Mahou Shoujo Madoka☆Magica | 1 |
 | Mairimashita! Iruma-kun | 1 |
@@ -403,6 +404,7 @@ At the moment, we hosted **487 images** on index database.
 | WK4444_ | 1 |
 | wjmzka | 1 |
 | whoing x2 | 1 |
+| violetawatson | 1 |
 | Vanquish_bai | 1 |
 | urami0310 | 1 |
 | unapyo_00 | 1 |
