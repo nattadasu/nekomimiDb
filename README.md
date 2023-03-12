@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **491 images** on index database.
+At the moment, we hosted **492 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,19 +50,19 @@ At the moment, we hosted **491 images** on index database.
 | Lofter | 12 |
 | Official | 1 |
 | Pixiv | 286 |
-| Twitter | 181 |
+| Twitter | 182 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 251 |
+| Boy `boy` | 252 |
 | Both `duo` | 39 |
 | Girl `girl` | 197 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 91 |
+| #N/A | 92 |
 | Ace no Dia | 1 |
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
@@ -194,13 +194,13 @@ At the moment, we hosted **491 images** on index database.
 | しろなっぱ | 5 |
 | ookami_ciro | 5 |
 | nicijyou_deyo | 4 |
+| mano_sukey | 4 |
 | aee_gnsn | 4 |
 | 鹿野 | 3 |
 | 飛鳥士郎 | 3 |
 | 乐格不是食物 | 3 |
 | TETUG | 3 |
 | shimianaya | 3 |
-| mano_sukey | 3 |
 | HK | 3 |
 | Deyui | 3 |
 | asuka5150_ | 3 |
