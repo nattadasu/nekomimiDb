@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **494 images** on index database.
+At the moment, we hosted **495 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,7 +49,7 @@ At the moment, we hosted **494 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 287 |
+| Pixiv | 288 |
 | Twitter | 183 |
 | Weibo | 1 |
 
@@ -57,7 +57,7 @@ At the moment, we hosted **494 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 253 |
 | Both `duo` | 39 |
-| Girl `girl` | 198 |
+| Girl `girl` | 199 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -167,6 +167,7 @@ At the moment, we hosted **494 images** on index database.
 | Super Danganronpa 2 | 1 |
 | Sword Art Online | 1 |
 | Tears of Themis | 4 |
+| Tensei Shitara Ken deshita | 1 |
 | The Legend of Heroes: Trails from Zero | 1 |
 | The Umbrella Academy | 1 |
 | Toaru Majutsu no Index | 2 |
@@ -526,6 +527,7 @@ At the moment, we hosted **494 images** on index database.
 | KAGAYA∞ | 1 |
 | kaco0001 | 1 |
 | kaaaraaage | 1 |
+| JUN姫 | 1 |
 | jisoku39km | 1 |
 | j7bge | 1 |
 | Itsuka Eranville | 1 |
