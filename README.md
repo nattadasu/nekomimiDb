@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **493 images** on index database.
+At the moment, we hosted **494 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,7 +49,7 @@ At the moment, we hosted **493 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 12 |
 | Official | 1 |
-| Pixiv | 286 |
+| Pixiv | 287 |
 | Twitter | 183 |
 | Weibo | 1 |
 
@@ -57,7 +57,7 @@ At the moment, we hosted **493 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 253 |
 | Both `duo` | 39 |
-| Girl `girl` | 197 |
+| Girl `girl` | 198 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -74,7 +74,7 @@ At the moment, we hosted **493 images** on index database.
 | Azur Lane | 2 |
 | Bilshana Senki | 1 |
 | Black Wolves Saga | 2 |
-| Blue Archive | 12 |
+| Blue Archive | 13 |
 | Bocchi the Rock! | 5 |
 | Boku no Hero Academia | 3 |
 | Bungou Stray Dogs | 1 |
@@ -270,6 +270,7 @@ At the moment, we hosted **493 images** on index database.
 | 玖魅魅nine | 1 |
 | 玖珂つかさ | 1 |
 | 狐巳夜 | 1 |
+| 片刻的宁静湖 | 1 |
 | 爽健 | 1 |
 | 氷 春子 | 1 |
 | 歌貌 | 1 |
