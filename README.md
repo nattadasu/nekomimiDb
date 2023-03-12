@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **513 images** on index database.
+At the moment, we hosted **514 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,7 +49,7 @@ At the moment, we hosted **513 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 13 |
 | Official | 1 |
-| Pixiv | 293 |
+| Pixiv | 294 |
 | Twitter | 195 |
 | Weibo | 1 |
 
@@ -57,7 +57,7 @@ At the moment, we hosted **513 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 256 |
 | Both `duo` | 39 |
-| Girl `girl` | 214 |
+| Girl `girl` | 215 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -178,7 +178,7 @@ At the moment, we hosted **513 images** on index database.
 | Twisted Wonderland | 2 |
 | Uta no☆prince-sama♪ | 3 |
 | Varium | 1 |
-| VOCALOID | 41 |
+| VOCALOID | 42 |
 | VRChat | 1 |
 | VShojo | 1 |
 | Vyugen | 2 |
@@ -209,6 +209,7 @@ At the moment, we hosted **513 images** on index database.
 | Deyui | 3 |
 | 雷夜 | 2 |
 | 水菜子 | 2 |
+| 横山ストッパ | 2 |
 | 星猫叶夢 | 2 |
 | んぬ | 2 |
 | らく | 2 |
@@ -277,7 +278,6 @@ At the moment, we hosted **513 images** on index database.
 | 爽健 | 1 |
 | 氷 春子 | 1 |
 | 歌貌 | 1 |
-| 横山ストッパ | 1 |
 | 梅之シイ | 1 |
 | 柊 シン | 1 |
 | 枫彧君 | 1 |
