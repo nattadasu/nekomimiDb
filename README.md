@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **502 images** on index database.
+At the moment, we hosted **503 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,14 +50,14 @@ At the moment, we hosted **502 images** on index database.
 | Lofter | 13 |
 | Official | 1 |
 | Pixiv | 291 |
-| Twitter | 186 |
+| Twitter | 187 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 255 |
 | Both `duo` | 39 |
-| Girl `girl` | 204 |
+| Girl `girl` | 205 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -95,7 +95,7 @@ At the moment, we hosted **502 images** on index database.
 | Final Fantasy XIV | 14 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
-| Genshin Impact | 60 |
+| Genshin Impact | 61 |
 | Ginjiro (VTuber) | 2 |
 | Gintama | 1 |
 | Girls Frontline | 1 |
@@ -427,6 +427,7 @@ At the moment, we hosted **502 images** on index database.
 | TofuDofu | 1 |
 | To___e | 1 |
 | Tii_san678 | 1 |
+| Tia_mizuki | 1 |
 | THE IDOLM@STER™️ & ©Bandai Namco Entertainment Inc. | 1 |
 | tekodeteko | 1 |
 | tehhe_zz | 1 |
