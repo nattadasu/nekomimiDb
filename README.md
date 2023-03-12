@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **512 images** on index database.
+At the moment, we hosted **513 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,14 +50,14 @@ At the moment, we hosted **512 images** on index database.
 | Lofter | 13 |
 | Official | 1 |
 | Pixiv | 293 |
-| Twitter | 194 |
+| Twitter | 195 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 256 |
 | Both `duo` | 39 |
-| Girl `girl` | 213 |
+| Girl `girl` | 214 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -174,7 +174,7 @@ At the moment, we hosted **512 images** on index database.
 | Toaru Majutsu no Index | 2 |
 | Tokimeki Restaurant | 1 |
 | Tokyo Ghoul | 2 |
-| Touhou | 7 |
+| Touhou | 8 |
 | Twisted Wonderland | 2 |
 | Uta no☆prince-sama♪ | 3 |
 | Varium | 1 |
@@ -502,6 +502,7 @@ At the moment, we hosted **512 images** on index database.
 | mstarsgasuki | 1 |
 | moonclover | 1 |
 | momoshiki | 1 |
+| momomaromaron | 1 |
 | momiage_40 | 1 |
 | mochinue | 1 |
 | MMHOMM2 | 1 |
