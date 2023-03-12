@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **507 images** on index database.
+At the moment, we hosted **508 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,14 +50,14 @@ At the moment, we hosted **507 images** on index database.
 | Lofter | 13 |
 | Official | 1 |
 | Pixiv | 291 |
-| Twitter | 191 |
+| Twitter | 192 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 256 |
 | Both `duo` | 39 |
-| Girl `girl` | 208 |
+| Girl `girl` | 209 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -114,7 +114,7 @@ At the moment, we hosted **507 images** on index database.
 | Kaguya Luna (VTuber) | 1 |
 | Kaguya-sama wa Kokusaretai | 1 |
 | Kanda Miu (VTuber) | 1 |
-| Kantai Collection | 2 |
+| Kantai Collection | 3 |
 | Karneval | 1 |
 | KILL la KILL | 1 |
 | Kimetsu no Yaiba | 2 |
@@ -549,6 +549,7 @@ At the moment, we hosted **507 images** on index database.
 | hizakigamma | 1 |
 | hanh-chu | 1 |
 | hakus_1128 | 1 |
+| gomA520 | 1 |
 | go_ho_lolikon | 1 |
 | geckoyutuyamori | 1 |
 | gaudirill | 1 |
