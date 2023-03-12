@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **495 images** on index database.
+At the moment, we hosted **496 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,7 +47,7 @@ At the moment, we hosted **495 images** on index database.
 | Fc2 | 1 |
 | Hoyolab | 1 |
 | Ibispaint | 1 |
-| Lofter | 12 |
+| Lofter | 13 |
 | Official | 1 |
 | Pixiv | 288 |
 | Twitter | 183 |
@@ -55,7 +55,7 @@ At the moment, we hosted **495 images** on index database.
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 253 |
+| Boy `boy` | 254 |
 | Both `duo` | 39 |
 | Girl `girl` | 199 |
 | Non-Binary/Unknown `nb` | 4 |
@@ -67,7 +67,7 @@ At the moment, we hosted **495 images** on index database.
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
 | aoppella | 1 |
-| Arknights | 18 |
+| Arknights | 19 |
 | Assault Lily | 1 |
 | Attack on Titan | 2 |
 | Axis Powers: Hetalia | 3 |
@@ -288,6 +288,7 @@ At the moment, we hosted **495 images** on index database.
 | 幻梦fanteam | 1 |
 | 布団 | 1 |
 | 峰CF | 1 |
+| 山雁山下雨 | 1 |
 | 宿雪(やどゆき) | 1 |
 | 安怀谨 | 1 |
 | 大翔(ヒロト) | 1 |
