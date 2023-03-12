@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **506 images** on index database.
+At the moment, we hosted **507 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,12 +50,12 @@ At the moment, we hosted **506 images** on index database.
 | Lofter | 13 |
 | Official | 1 |
 | Pixiv | 291 |
-| Twitter | 190 |
+| Twitter | 191 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 255 |
+| Boy `boy` | 256 |
 | Both `duo` | 39 |
 | Girl `girl` | 208 |
 | Non-Binary/Unknown `nb` | 4 |
@@ -85,7 +85,7 @@ At the moment, we hosted **506 images** on index database.
 | Chikyuu no Ura | 1 |
 | Chrono Cross | 1 |
 | Dance Killer Trick! | 1 |
-| Danganronpa V3: Killing Harmony | 4 |
+| Danganronpa V3: Killing Harmony | 5 |
 | Dankira!!! -Boys, be DANCING!- | 2 |
 | Diabolik Lovers ~Haunted dark bridal~ | 1 |
 | Doki Doki Literature Club! | 2 |
@@ -453,6 +453,7 @@ At the moment, we hosted **506 images** on index database.
 | shiro_5208_art | 1 |
 | shinyo_yukino | 1 |
 | Seseren | 1 |
+| Seraph_HUIYU | 1 |
 | Sebby.sama | 1 |
 | sbsb_mksb | 1 |
 | sato_1_11 | 1 |
