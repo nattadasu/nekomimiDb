@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **500 images** on index database.
+At the moment, we hosted **501 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -50,19 +50,19 @@ At the moment, we hosted **500 images** on index database.
 | Lofter | 13 |
 | Official | 1 |
 | Pixiv | 290 |
-| Twitter | 185 |
+| Twitter | 186 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 255 |
 | Both `duo` | 39 |
-| Girl `girl` | 202 |
+| Girl `girl` | 203 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 94 |
+| #N/A | 95 |
 | Ace no Dia | 1 |
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
@@ -446,6 +446,7 @@ At the moment, we hosted **500 images** on index database.
 | sllgiko_ | 1 |
 | sinsia__0928 | 1 |
 | shouu-kun | 1 |
+| shiro_5208_art | 1 |
 | shinyo_yukino | 1 |
 | Seseren | 1 |
 | Sebby.sama | 1 |
