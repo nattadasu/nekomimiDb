@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **501 images** on index database.
+At the moment, we hosted **502 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,7 +49,7 @@ At the moment, we hosted **501 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 13 |
 | Official | 1 |
-| Pixiv | 290 |
+| Pixiv | 291 |
 | Twitter | 186 |
 | Weibo | 1 |
 
@@ -57,7 +57,7 @@ At the moment, we hosted **501 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 255 |
 | Both `duo` | 39 |
-| Girl `girl` | 203 |
+| Girl `girl` | 204 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -152,7 +152,7 @@ At the moment, we hosted **501 images** on index database.
 | Puyo Puyo | 1 |
 | Puyopuyo | 1 |
 | Ragnarok Online | 6 |
-| Re:Zero kara Hajimeru Isekai Seikatsu | 3 |
+| Re:Zero kara Hajimeru Isekai Seikatsu | 4 |
 | Red: Pride of Eden | 1 |
 | RIDDLE JOKER | 1 |
 | Sekaiichi Hatsukoi | 1 |
@@ -360,6 +360,7 @@ At the moment, we hosted **501 images** on index database.
 | そぷら | 1 |
 | その① | 1 |
 | せいや | 1 |
+| すぁし | 1 |
 | しゅがお | 1 |
 | しなお | 1 |
 | しけー | 1 |
