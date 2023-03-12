@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **496 images** on index database.
+At the moment, we hosted **499 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,15 +49,15 @@ At the moment, we hosted **496 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 13 |
 | Official | 1 |
-| Pixiv | 288 |
-| Twitter | 183 |
+| Pixiv | 289 |
+| Twitter | 185 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 254 |
+| Boy `boy` | 255 |
 | Both `duo` | 39 |
-| Girl `girl` | 199 |
+| Girl `girl` | 201 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -95,7 +95,7 @@ At the moment, we hosted **496 images** on index database.
 | Final Fantasy XIV | 14 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
-| Genshin Impact | 59 |
+| Genshin Impact | 60 |
 | Ginjiro (VTuber) | 2 |
 | Gintama | 1 |
 | Girls Frontline | 1 |
@@ -177,7 +177,8 @@ At the moment, we hosted **496 images** on index database.
 | Twisted Wonderland | 2 |
 | Uta no☆prince-sama♪ | 3 |
 | Varium | 1 |
-| VOCALOID | 40 |
+| VOCALOID | 41 |
+| VRChat | 1 |
 | VShojo | 1 |
 | Vyugen | 2 |
 | Wactor Production | 2 |
@@ -194,10 +195,10 @@ At the moment, we hosted **496 images** on index database.
 | ももこ | 5 |
 | しろなっぱ | 5 |
 | ookami_ciro | 5 |
+| aee_gnsn | 5 |
 | nicijyou_deyo | 4 |
 | mano_sukey | 4 |
 | asuka5150_ | 4 |
-| aee_gnsn | 4 |
 | 鹿野 | 3 |
 | 飛鳥士郎 | 3 |
 | 乐格不是食物 | 3 |
@@ -459,6 +460,7 @@ At the moment, we hosted **496 images** on index database.
 | rui | 1 |
 | Ron_kaneshiro | 1 |
 | Reneua | 1 |
+| redi_rkgk | 1 |
 | raramuda_0101 | 1 |
 | QuiteLane | 1 |
 | PrimCOCO | 1 |
@@ -475,6 +477,7 @@ At the moment, we hosted **496 images** on index database.
 | OKkobc | 1 |
 | observerZ | 1 |
 | obo | 1 |
+| nyahu_nyahu_77 | 1 |
 | Norankkori | 1 |
 | NoName0_tmvLog | 1 |
 | nknk_fff | 1 |
