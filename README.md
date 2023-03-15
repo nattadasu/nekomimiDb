@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **514 images** on index database.
+At the moment, we hosted **515 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,14 +49,14 @@ At the moment, we hosted **514 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 13 |
 | Official | 1 |
-| Pixiv | 294 |
+| Pixiv | 295 |
 | Twitter | 195 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
 | Boy `boy` | 256 |
-| Both `duo` | 39 |
+| Both `duo` | 40 |
 | Girl `girl` | 215 |
 | Non-Binary/Unknown `nb` | 4 |
 
@@ -178,7 +178,7 @@ At the moment, we hosted **514 images** on index database.
 | Twisted Wonderland | 2 |
 | Uta no☆prince-sama♪ | 3 |
 | Varium | 1 |
-| VOCALOID | 42 |
+| VOCALOID | 43 |
 | VRChat | 1 |
 | VShojo | 1 |
 | Vyugen | 2 |
@@ -358,6 +358,7 @@ At the moment, we hosted **514 images** on index database.
 | ちゃんぬ | 1 |
 | ちた | 1 |
 | ﾀnanuki | 1 |
+| ソコン | 1 |
 | そぷら | 1 |
 | その① | 1 |
 | せいや | 1 |
