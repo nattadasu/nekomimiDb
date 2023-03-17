@@ -125,8 +125,7 @@ At the moment, we hosted **520 images** on index database.
 | League of Legends | 1 |
 | Love Live! Sunshine!! | 1 |
 | Luz (Singer) | 1 |
-| Mafumafu (Singer) | 12 |
-| Mafumafu (Utaite) | 1 |
+| Mafumafu (Singer) | 13 |
 | MAGI: The Labyrinth of Magic | 1 |
 | Mahou Shoujo Madoka☆Magica | 1 |
 | Mairimashita! Iruma-kun | 1 |
