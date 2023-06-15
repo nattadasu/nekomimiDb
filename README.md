@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **524 images** on index database.
+At the moment, we hosted **525 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,15 +49,14 @@ At the moment, we hosted **524 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 13 |
 | Official | 1 |
-| Pixiv | 302 |
+| Pixiv | 303 |
 | Twitter | 197 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-|  | 1 |
-| Boy `boy` | 262 |
-| Both `duo` | 40 |
+| Boy `boy` | 263 |
+| Both `duo` | 41 |
 | Girl `girl` | 217 |
 | Non-Binary/Unknown `nb` | 4 |
 
@@ -180,7 +179,7 @@ At the moment, we hosted **524 images** on index database.
 | Uta no☆prince-sama♪ | 3 |
 | Various Characters | 1 |
 | Varium | 1 |
-| VOCALOID | 44 |
+| VOCALOID | 45 |
 | VRChat | 1 |
 | VShojo | 1 |
 | Vyugen | 2 |
@@ -580,6 +579,7 @@ At the moment, we hosted **524 images** on index database.
 | dithyo月 | 1 |
 | Dimas | 1 |
 | Deadnooodles | 1 |
+| dae | 1 |
 | Cooltg2 | 1 |
 | con_potata | 1 |
 | cognacbear | 1 |
