@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **522 images** on index database.
+At the moment, we hosted **523 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,15 +49,16 @@ At the moment, we hosted **522 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 13 |
 | Official | 1 |
-| Pixiv | 300 |
+| Pixiv | 301 |
 | Twitter | 197 |
 | Weibo | 1 |
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 261 |
+|  | 1 |
+| Boy `boy` | 262 |
 | Both `duo` | 40 |
-| Girl `girl` | 217 |
+| Girl `girl` | 216 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -77,7 +78,7 @@ At the moment, we hosted **522 images** on index database.
 | Blue Archive | 15 |
 | Bocchi the Rock! | 5 |
 | Boku no Hero Academia | 3 |
-| Bungou Stray Dogs | 1 |
+| Bungou Stray Dogs | 2 |
 | Cardfight!! Vanguard | 1 |
 | Case Closed (Detective Conan) | 2 |
 | Chainsaw Man | 5 |
@@ -197,17 +198,17 @@ At the moment, we hosted **522 images** on index database.
 | ももこ | 5 |
 | しろなっぱ | 5 |
 | ookami_ciro | 5 |
+| asuka5150_ | 5 |
 | aee_gnsn | 5 |
 | nicijyou_deyo | 4 |
 | mano_sukey | 4 |
-| asuka5150_ | 4 |
 | 鹿野 | 3 |
-| 飛鳥士郎 | 3 |
 | 乐格不是食物 | 3 |
 | TETUG | 3 |
 | shimianaya | 3 |
 | HK | 3 |
 | Deyui | 3 |
+| 飛鳥士郎 | 2 |
 | 雷夜 | 2 |
 | 水菜子 | 2 |
 | 横山ストッパ | 2 |
@@ -429,7 +430,7 @@ At the moment, we hosted **522 images** on index database.
 | tsukkiusa | 1 |
 | Tsubasa | 1 |
 | tricky | 1 |
-| Touya Mikanagi | 1 |
+| touya_mikanagi | 1 |
 | totemonemuuui | 1 |
 | toshio | 1 |
 | torino | 1 |
@@ -557,6 +558,7 @@ At the moment, we hosted **522 images** on index database.
 | InkAkane | 1 |
 | INEkome_8000 | 1 |
 | husa | 1 |
+| Hottie | 1 |
 | HongBsWs | 1 |
 | hizakigamma | 1 |
 | hanh-chu | 1 |
