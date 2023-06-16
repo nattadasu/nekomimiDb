@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **532 images** on index database.
+At the moment, we hosted **533 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,7 +49,7 @@ At the moment, we hosted **532 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 15 |
 | Official | 2 |
-| Pixiv | 306 |
+| Pixiv | 307 |
 | Twitter | 198 |
 | Weibo | 1 |
 
@@ -57,7 +57,7 @@ At the moment, we hosted **532 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 265 |
 | Both `duo` | 41 |
-| Girl `girl` | 222 |
+| Girl `girl` | 223 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -105,7 +105,7 @@ At the moment, we hosted **532 images** on index database.
 | Haikyuu!! | 2 |
 | Heart no Kuni no Alice | 1 |
 | Hellsing Ultimate | 1 |
-| Hololive | 26 |
+| Hololive | 27 |
 | Hypnosis Mic -Division Rap Battle- | 2 |
 | iDOLM@STER Cinderella Girls | 2 |
 | iDOLM@STER SideM | 2 |
@@ -320,6 +320,7 @@ At the moment, we hosted **532 images** on index database.
 | ヱなかゆうじ | 1 |
 | わふぉ | 1 |
 | れれいん | 1 |
+| れもねぇ°。 | 1 |
 | れもくりん | 1 |
 | ラミー | 1 |
 | ヨルモン | 1 |
