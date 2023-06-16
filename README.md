@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **526 images** on index database.
+At the moment, we hosted **527 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,7 +49,7 @@ At the moment, we hosted **526 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 13 |
 | Official | 1 |
-| Pixiv | 304 |
+| Pixiv | 305 |
 | Twitter | 197 |
 | Weibo | 1 |
 
@@ -57,12 +57,12 @@ At the moment, we hosted **526 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 263 |
 | Both `duo` | 41 |
-| Girl `girl` | 218 |
+| Girl `girl` | 219 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 99 |
+| #N/A | 100 |
 | Ace no Dia | 1 |
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
@@ -300,6 +300,7 @@ At the moment, we hosted **526 images** on index database.
 | 大翔(ヒロト) | 1 |
 | 夢彩夜 | 1 |
 | 夕涙ウユ | 1 |
+| 壱夢いちゆ。 | 1 |
 | 吉智 | 1 |
 | 吃呀 | 1 |
 | 半萌poi | 1 |
