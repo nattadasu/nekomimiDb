@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **529 images** on index database.
+At the moment, we hosted **530 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -48,7 +48,7 @@ At the moment, we hosted **529 images** on index database.
 | Hoyolab | 1 |
 | Ibispaint | 1 |
 | Lofter | 14 |
-| Official | 1 |
+| Official | 2 |
 | Pixiv | 306 |
 | Twitter | 197 |
 | Weibo | 1 |
@@ -57,7 +57,7 @@ At the moment, we hosted **529 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 264 |
 | Both `duo` | 41 |
-| Girl `girl` | 220 |
+| Girl `girl` | 221 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -67,7 +67,7 @@ At the moment, we hosted **529 images** on index database.
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
 | aoppella | 1 |
-| Arknights | 20 |
+| Arknights | 21 |
 | Assault Lily | 1 |
 | Attack on Titan | 2 |
 | Axis Powers: Hetalia | 3 |
@@ -288,6 +288,7 @@ At the moment, we hosted **529 images** on index database.
 | 朔 | 1 |
 | 月下影都 | 1 |
 | 星井やな | 1 |
+| 明日方舟™️ & ©️上海鹰角网络科技有限公司 | 1 |
 | 日向青 | 1 |
 | 敬 | 1 |
 | 快刀乱麻 | 1 |
