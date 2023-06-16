@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **530 images** on index database.
+At the moment, we hosted **531 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -47,7 +47,7 @@ At the moment, we hosted **530 images** on index database.
 | Fc2 | 1 |
 | Hoyolab | 1 |
 | Ibispaint | 1 |
-| Lofter | 14 |
+| Lofter | 15 |
 | Official | 2 |
 | Pixiv | 306 |
 | Twitter | 197 |
@@ -55,7 +55,7 @@ At the moment, we hosted **530 images** on index database.
 
 | Gender | Count |
 | -----: | :---- |
-| Boy `boy` | 264 |
+| Boy `boy` | 265 |
 | Both `duo` | 41 |
 | Girl `girl` | 221 |
 | Non-Binary/Unknown `nb` | 4 |
@@ -95,7 +95,7 @@ At the moment, we hosted **530 images** on index database.
 | Final Fantasy XIV | 15 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
-| Genshin Impact | 64 |
+| Genshin Impact | 65 |
 | Ginjiro (VTuber) | 2 |
 | Gintama | 1 |
 | Girls Frontline | 1 |
@@ -240,6 +240,7 @@ At the moment, we hosted **530 images** on index database.
 | immr | 2 |
 | ikuri | 2 |
 | Horn/wood | 2 |
+| dichlorvos121 | 2 |
 | Akemono | 2 |
 | _yuulk | 2 |
 | 黒常 | 1 |
@@ -582,7 +583,6 @@ At the moment, we hosted **530 images** on index database.
 | E20 | 1 |
 | dithyo月 | 1 |
 | Dimas | 1 |
-| dichlorvos121 | 1 |
 | Deadnooodles | 1 |
 | dae | 1 |
 | Cooltg2 | 1 |
