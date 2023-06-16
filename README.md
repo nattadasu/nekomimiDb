@@ -39,7 +39,7 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **525 images** on index database.
+At the moment, we hosted **526 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
@@ -49,7 +49,7 @@ At the moment, we hosted **525 images** on index database.
 | Ibispaint | 1 |
 | Lofter | 13 |
 | Official | 1 |
-| Pixiv | 303 |
+| Pixiv | 304 |
 | Twitter | 197 |
 | Weibo | 1 |
 
@@ -57,7 +57,7 @@ At the moment, we hosted **525 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 263 |
 | Both `duo` | 41 |
-| Girl `girl` | 217 |
+| Girl `girl` | 218 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
@@ -95,7 +95,7 @@ At the moment, we hosted **525 images** on index database.
 | Final Fantasy XIV | 15 |
 | Fire Emblem: Three Houses | 2 |
 | Fukigen na Mononokean | 1 |
-| Genshin Impact | 62 |
+| Genshin Impact | 63 |
 | Ginjiro (VTuber) | 2 |
 | Gintama | 1 |
 | Girls Frontline | 1 |
@@ -302,6 +302,7 @@ At the moment, we hosted **525 images** on index database.
 | 夕涙ウユ | 1 |
 | 吉智 | 1 |
 | 吃呀 | 1 |
+| 半萌poi | 1 |
 | 北爪くみん | 1 |
 | 八百枝　豆ノ助 | 1 |
 | 優 ぐる子 | 1 |
