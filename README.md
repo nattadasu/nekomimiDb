@@ -39,10 +39,11 @@ For database format, below are the guidelines:
 
 ## Statistics?
 
-At the moment, we hosted **533 images** on index database.
+At the moment, we hosted **534 images** on index database.
 
 | Platform | Count |
 | -------: | :---- |
+| Artstation | 1 |
 | Deviantart | 7 |
 | Fc2 | 1 |
 | Hoyolab | 1 |
@@ -57,12 +58,12 @@ At the moment, we hosted **533 images** on index database.
 | -----: | :---- |
 | Boy `boy` | 265 |
 | Both `duo` | 41 |
-| Girl `girl` | 223 |
+| Girl `girl` | 224 |
 | Non-Binary/Unknown `nb` | 4 |
 
 | Source | Count |
 | -----: | :---- |
-| #N/A | 101 |
+| #N/A | 102 |
 | Ace no Dia | 1 |
 | Amatsuka Uto (VTuber) | 2 |
 | Animal Crossing | 1 |
@@ -596,6 +597,7 @@ At the moment, we hosted **533 images** on index database.
 | chodici | 1 |
 | Chocomilk_NU | 1 |
 | chocho | 1 |
+| CatGirl Enthusiast | 1 |
 | Bwith00 | 1 |
 | bqtfo | 1 |
 | BLUE色拉 | 1 |
